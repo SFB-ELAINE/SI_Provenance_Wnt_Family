@@ -1,0 +1,81 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A310203341",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A752590302"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A520541829",
+            "key": "Description",
+            "value": "A Scatchard plot of the data for [^{125}I] Dkk-1 binding to NIH3T3 cells"
+        },
+        {
+            "id": "A054885115",
+            "key": "Reference",
+            "value": "Figure 2f"
+        },
+        {
+            "id": "A917700223",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A937105381",
+            "key": "Organism",
+            "value": "Mouse"
+        },
+        {
+            "id": "A569220552",
+            "key": "Organ/Tissue/Cell line",
+            "value": "Fibroblasts NIH/3T3"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A310203341",
+            "target": "A520541829",
+            "properties": {
+                "id": "A971695823"
+            }
+        },
+        {
+            "source": "A310203341",
+            "target": "A054885115",
+            "properties": {
+                "id": "A712017292"
+            }
+        },
+        {
+            "source": "A310203341",
+            "target": "A917700223",
+            "properties": {
+                "id": "A301146607"
+            }
+        },
+        {
+            "source": "A310203341",
+            "target": "A937105381",
+            "properties": {
+                "id": "A042699727"
+            }
+        },
+        {
+            "source": "A310203341",
+            "target": "A569220552",
+            "properties": {
+                "id": "A252533825"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A752590302",
+            "source": "Bafico et al. 2001",
+            "signalingPathway": "Dkk (wet-lab study)"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A411436526",
+            "definitionId": "Simulation Model",
+            "studyId": "A825502852"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A275524160",
+            "key": "Description",
+            "value": "“Delayed Hes1 feedback loop”"
+        },
+        {
+            "id": "A845480382",
+            "key": "Reference",
+            "value": "Not available"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A411436526",
+            "target": "A275524160",
+            "properties": {
+                "id": "A069123091"
+            }
+        },
+        {
+            "source": "A411436526",
+            "target": "A845480382",
+            "properties": {
+                "id": "A251667678"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A825502852",
+            "signalingPathway": "Notch",
+            "source": "Monk 2003"
+        }
+    ]
+}

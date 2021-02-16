@@ -1,0 +1,45 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A783151577",
+            "definitionId": "Simulation Model",
+            "studyId": "A493274650"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A063004948",
+            "key": "Description",
+            "value": "Mathematical model for the regulatory pathway of Hes"
+        },
+        {
+            "id": "A537345985",
+            "key": "Reference",
+            "value": "Not available"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A783151577",
+            "target": "A063004948",
+            "properties": {
+                "id": "A684462681"
+            }
+        },
+        {
+            "source": "A783151577",
+            "target": "A537345985",
+            "properties": {
+                "id": "A731055913"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A493274650",
+            "signalingPathway": "Notch",
+            "source": "Bernard et al. 2006"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A979621917",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A571672561"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A436028326",
+            "key": "Description",
+            "value": "“axin stimulates the phosphorylation of β-catenin by GSK3b at least 24,000-fold”"
+        },
+        {
+            "id": "A927222914",
+            "key": "Reference",
+            "value": "Figure 5"
+        },
+        {
+            "id": "A424271977",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A622456287",
+            "key": "Organism",
+            "value": "Xenopus"
+        },
+        {
+            "id": "A143447564",
+            "key": "Organ/Tissue/Cell line",
+            "value": "Egg extract"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A979621917",
+            "target": "A436028326",
+            "properties": {
+                "id": "A715039438"
+            }
+        },
+        {
+            "source": "A979621917",
+            "target": "A927222914",
+            "properties": {
+                "id": "A775760057"
+            }
+        },
+        {
+            "source": "A979621917",
+            "target": "A424271977",
+            "properties": {
+                "id": "A664195153"
+            }
+        },
+        {
+            "source": "A979621917",
+            "target": "A622456287",
+            "properties": {
+                "id": "A934248101"
+            }
+        },
+        {
+            "source": "A979621917",
+            "target": "A143447564",
+            "properties": {
+                "id": "A357298431"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A571672561",
+            "source": "Dajani et al. 2003",
+            "signalingPathway": "Wnt (wet-lab study)"
+        }
+    ]
+}

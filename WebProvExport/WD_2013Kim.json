@@ -1,0 +1,81 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A738948596",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A460104365"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A620875475",
+            "key": "Description",
+            "value": "“Quantifications of Wnt3a effects on ratios Axin-associated LRP6 versus total LRP6”"
+        },
+        {
+            "id": "A865223367",
+            "key": "Reference",
+            "value": "Figure 2B"
+        },
+        {
+            "id": "A526052808",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A079451928",
+            "key": "Organism",
+            "value": "Human"
+        },
+        {
+            "id": "A394812946",
+            "key": "Organ/Tissue/Cell line",
+            "value": "Embryonic kidney (HEK) 293T cells"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A738948596",
+            "target": "A620875475",
+            "properties": {
+                "id": "A492737612"
+            }
+        },
+        {
+            "source": "A738948596",
+            "target": "A865223367",
+            "properties": {
+                "id": "A917721125"
+            }
+        },
+        {
+            "source": "A738948596",
+            "target": "A526052808",
+            "properties": {
+                "id": "A851988289"
+            }
+        },
+        {
+            "source": "A738948596",
+            "target": "A079451928",
+            "properties": {
+                "id": "A504676272"
+            }
+        },
+        {
+            "source": "A738948596",
+            "target": "A394812946",
+            "properties": {
+                "id": "A281955585"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A460104365",
+            "source": "Kim et al. 2013",
+            "signalingPathway": "Wnt (wet-lab study)"
+        }
+    ]
+}

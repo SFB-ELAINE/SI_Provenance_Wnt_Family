@@ -1,0 +1,1922 @@
+{
+    "provenanceNodes": [
+        {
+            "studyId": "A370566940",
+            "id": "A664347777",
+            "definitionId": "Research Question"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A802872420",
+            "definitionId": "Building Simulation Model"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A888260210",
+            "definitionId": "Building Simulation Model"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A075805485",
+            "definitionId": "Building Simulation Model"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A272420716",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A542103430",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A931332950",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A365653753",
+            "definitionId": "Building Simulation Model"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A476977139",
+            "definitionId": "Calibrating Simulation Model"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A817202761",
+            "definitionId": "Building Simulation Model"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A602050235",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A562987288",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A414618519",
+            "definitionId": "Analyzing Simulation Model"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A925094078",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A602994430",
+            "definitionId": "Analyzing Simulation Model"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A094887526",
+            "definitionId": "Qualitative Model"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A099715188",
+            "definitionId": "Qualitative Model"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A164788655",
+            "definitionId": "Qualitative Model"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A093269676",
+            "definitionId": "Qualitative Model"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A837623630",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A762734965",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A069398457",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A126050364",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A977963810",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A945569506",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A813999171",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A191847253",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A608469162",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A361623837",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A579171034",
+            "relatedTo": "A361623837",
+            "definitionId": "Simulation Data"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A920463403",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A609016765",
+            "definitionId": "Requirement"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A384548797",
+            "definitionId": "Requirement"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A811571013",
+            "definitionId": "Requirement"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A208188865",
+            "definitionId": "Requirement"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A972991343",
+            "definitionId": "Requirement"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A799534591",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A877929748",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A917575354",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A158577372",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A004125609",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A095542915",
+            "relatedTo": "A004125609",
+            "definitionId": "Simulation Data"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A302153051",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A377972817",
+            "relatedTo": "A302153051",
+            "definitionId": "Simulation Data"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A183704911",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A154812657",
+            "relatedTo": "A183704911",
+            "definitionId": "Simulation Data"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A508429440",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A370566940",
+            "id": "A855613504",
+            "relatedTo": "A508429440",
+            "definitionId": "Simulation Data"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A102269300",
+            "value": "“A comprehensive model that investigates the interplay between these two processes [Wnt signaling and cadherin-mediated cell adhesion] will provide useful information to understand EMT and cancer metastasis”",
+            "key": "Description"
+        },
+        {
+            "id": "A543710079",
+            "value": "ODE model building",
+            "key": "Description"
+        },
+        {
+            "id": "A656936287",
+            "value": "Cell adhesion module",
+            "key": "Description"
+        },
+        {
+            "id": "A190371552",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A217817274",
+            "value": "Wnt stimulation and β-catenin degradation circle module [“module of Wnt stimulation and β-catenin degradation is extended from Lee’s original mode”]",
+            "key": "Description"
+        },
+        {
+            "id": "A869460985",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A820792495",
+            "value": "Transcriptional regulation module",
+            "key": "Description"
+        },
+        {
+            "id": "A605575448",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A558697506",
+            "value": "Calibration of Wnt stimulation an β-catenin degradation module",
+            "key": "Description"
+        },
+        {
+            "id": "A980294202",
+            "value": "Calibrated Wnt stimulation and β-catenin degradation circle module",
+            "key": "Description"
+        },
+        {
+            "id": "A693652544",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A878176572",
+            "value": "Combined cell adhesion and degradation model",
+            "key": "Description"
+        },
+        {
+            "id": "A484186839",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A817234833",
+            "value": "Full (combined) model → “full mathematical representation of our network model is provided in Document S1”",
+            "key": "Description"
+        },
+        {
+            "id": "A937492589",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A053751881",
+            "value": "Cadherin-mediated cell adhesion module",
+            "key": "Description"
+        },
+        {
+            "id": "A121183787",
+            "value": "Figure 2",
+            "key": "Reference"
+        },
+        {
+            "id": "A402451520",
+            "value": "β-catenin, cadherin",
+            "key": "Species"
+        },
+        {
+            "id": "A680760969",
+            "value": "Cytosol, Golgi apparatus",
+            "key": "Compartments"
+        },
+        {
+            "id": "A002986823",
+            "value": "Wnt stimulation and β-catenin degradation module",
+            "key": "Description"
+        },
+        {
+            "id": "A550810506",
+            "value": "Figure 3",
+            "key": "Reference"
+        },
+        {
+            "id": "A720890716",
+            "value": "APC, Axin, β-catenin, CK1, GSK3, Wnt/receptor complex",
+            "key": "Species"
+        },
+        {
+            "id": "A986849860",
+            "value": "Cytosol",
+            "key": "Compartments"
+        },
+        {
+            "id": "A263343803",
+            "value": "Wnt target gene expressions module",
+            "key": "Description"
+        },
+        {
+            "id": "A593151064",
+            "value": "Figure 4",
+            "key": "Reference"
+        },
+        {
+            "id": "A011818223",
+            "value": "β-catenin, Bcl9, TCF, E-Cadherin, N-Cadherin, Inhibitor 2",
+            "key": "Species"
+        },
+        {
+            "id": "A894771327",
+            "value": "Cytosol, nucleus",
+            "key": "Compartments"
+        },
+        {
+            "id": "A411120689",
+            "value": "Composition and interaction of three modules",
+            "key": "Description"
+        },
+        {
+            "id": "A824145172",
+            "value": "Figure 1",
+            "key": "Reference"
+        },
+        {
+            "id": "A041812006",
+            "value": "APC, Axin, β-catenin, Cadherin, CK1, GSK3, Wnt/receptor complex, Bcl9, TCF, E-Cadherin, N-Cadherin, Inhibitor 2",
+            "key": "Species"
+        },
+        {
+            "id": "A208605606",
+            "value": "Cytosol, Golgi apparatus, nucleus",
+            "key": "Compartments"
+        },
+        {
+            "id": "A118555318",
+            "value": "“use a single order chemical reaction to describe this process” [formation and co-localization of Cad/Cat complexes]",
+            "key": "Description"
+        },
+        {
+            "id": "A066382860",
+            "value": "“recycling is not considered explicitly. We use a single order chemical reaction to describe the degradation”",
+            "key": "Description"
+        },
+        {
+            "id": "A675386223",
+            "value": "Degradation (179)",
+            "key": "Category"
+        },
+        {
+            "id": "A930792661",
+            "value": "“process of junction formation is simplified by using state transition of Cad/Cat complexes”",
+            "key": "Description"
+        },
+        {
+            "id": "A584456667",
+            "value": "Protein complex formation (526)",
+            "key": "Category"
+        },
+        {
+            "id": "A111217964",
+            "value": "“endocytosis rate of ‘‘cis’’ complexes is lower than that of ‘‘trans’’ complexes, and ‘‘free’’ Cad/Cat complexes have the highest endocytosis rate”",
+            "key": "Description"
+        },
+        {
+            "id": "A066343459",
+            "value": "Transport (655)",
+            "key": "Category"
+        },
+        {
+            "id": "A307924101",
+            "value": "“destruction complexes undergo structural transformation that exposes β-cateninsto ubiquitin/proteosome machinery after GSK3-phosphorylation”",
+            "key": "Description"
+        },
+        {
+            "id": "A691340228",
+            "value": "Protein complex formation (526)",
+            "key": "Category"
+        },
+        {
+            "id": "A901826153",
+            "value": "“dephosphorylationof Axins trigger the transformation of destruction complex which leads to the exposure of β-cateninsto ubiquitin/proteosome machinery”",
+            "key": "Description"
+        },
+        {
+            "id": "A364645065",
+            "value": "Protein complex formation (526)",
+            "key": "Category"
+        },
+        {
+            "id": "A835546771",
+            "value": "“ABC could release from the destruct complex cycle at the stage of CK1-pBD”",
+            "key": "Description"
+        },
+        {
+            "id": "A795027763",
+            "value": "Reversible process (650)",
+            "key": "Category"
+        },
+        {
+            "id": "A177316640",
+            "value": "“ABC release from CK1-pBD in ‘Wnt off’ scene with much lower rate than that in ‘Wnt on’ scene”",
+            "key": "Description"
+        },
+        {
+            "id": "A569300781",
+            "value": "Kinetic constant (9)",
+            "key": "Category"
+        },
+        {
+            "id": "A934507864",
+            "value": "“accumulation of ABC/Bcl9 complexes in cell nucleus and random distributions of ABC/TCF complexes on transcriptional regions of target genes”",
+            "key": "Description"
+        },
+        {
+            "id": "A265336152",
+            "value": "Transcription (183)",
+            "key": "Category"
+        },
+        {
+            "id": "A264126614",
+            "value": "“Calibration of Wnt stimulation and β-catenin degradation module”",
+            "key": "Description"
+        },
+        {
+            "id": "A385543127",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A887177758",
+            "value": "Optimization",
+            "key": "Category"
+        },
+        {
+            "id": "A573114118",
+            "value": "Simulation results of SE1",
+            "key": "Description"
+        },
+        {
+            "id": "A549864769",
+            "value": "Figure 5",
+            "key": "Reference"
+        },
+        {
+            "id": "A339753127",
+            "value": "“We set up a subcellular system that occupies 2.5% volume of a whole cell. Given the measurement that the volume of a cell is around 10^{-12} L.”",
+            "key": "Description"
+        },
+        {
+            "id": "A788713011",
+            "value": "Physical compartment (290)",
+            "key": "Category"
+        },
+        {
+            "id": "A584289798",
+            "value": "“Under continuous Wnt stimulation, the total β-catenins increase to six fold of its initial level”",
+            "key": "Description"
+        },
+        {
+            "id": "A535014839",
+            "value": "Wnt3a, β-catenin",
+            "key": "Main species"
+        },
+        {
+            "id": "A160584005",
+            "value": "Quantitative",
+            "key": "Type"
+        },
+        {
+            "id": "A831808586",
+            "value": "“increase of non-phosphorylated β-cateninsis comparable to that of β-catenins”",
+            "key": "Description"
+        },
+        {
+            "id": "A324450670",
+            "value": "Wnt3a, β-catenin",
+            "key": "Main species"
+        },
+        {
+            "id": "A550231659",
+            "value": "Qualitative",
+            "key": "Type"
+        },
+        {
+            "id": "A886466719",
+            "value": "“the GSK3-phosphorylated β-cateninsdecrease in 0.5 hr then recover to its initial level in 2 hr”",
+            "key": "Description"
+        },
+        {
+            "id": "A432209445",
+            "value": "Wnt3a, β-catenin, GSK3",
+            "key": "Main species"
+        },
+        {
+            "id": "A849404727",
+            "value": "Qualitative",
+            "key": "Type"
+        },
+        {
+            "id": "A904110170",
+            "value": "“CK1-phosphorylated β-cateninsdecrease in 0.25 hr then increase to 3 fold of its initial level in 2 hr”",
+            "key": "Description"
+        },
+        {
+            "id": "A297675617",
+            "value": "Wnt3a, β-catenin, CK1α",
+            "key": "Main species"
+        },
+        {
+            "id": "A340128083",
+            "value": "Qualitative",
+            "key": "Type"
+        },
+        {
+            "id": "A726534111",
+            "value": "“the binding affinity between Axin and LRP6 increases in 0.5 hr then decreases in 2 hr”",
+            "key": "Description"
+        },
+        {
+            "id": "A911151959",
+            "value": "{LRP6, Wnt3a, Axin}",
+            "key": "Main species"
+        },
+        {
+            "id": "A680007562",
+            "value": "Qualitative",
+            "key": "Type"
+        },
+        {
+            "id": "A540862165",
+            "value": "“spatial reorganization of membrane changes the binding between cadherins and β-catenins”",
+            "key": "Description"
+        },
+        {
+            "id": "A303129913",
+            "value": "Kinetic constant (9)",
+            "key": "Category"
+        },
+        {
+            "id": "A192816907",
+            "value": "“crowding caused by cadherin clustering slows down the structural transformation in destruction complexes, which leads to more ABCs released”",
+            "key": "Description"
+        },
+        {
+            "id": "A825622584",
+            "value": "Kinetic constant (9)",
+            "key": "Category"
+        },
+        {
+            "id": "A355466510",
+            "value": "“majority of cadherinsform trans-dimers due to the diffusion trap mechanism”",
+            "key": "Description"
+        },
+        {
+            "id": "A190237267",
+            "value": "Protein complex formation (526)",
+            "key": "Category"
+        },
+        {
+            "id": "A564138519",
+            "value": "“cell adhesion facilitates the phosphorylation of β-catenin at Y142 and the phosphorylation accelerates the association kinetics between ABC and Bcl9”",
+            "key": "Description"
+        },
+        {
+            "id": "A195137641",
+            "value": "Phosphorylation (216)",
+            "key": "Category"
+        },
+        {
+            "id": "A512739779",
+            "value": "“number of ABC in cytoplasm under different adhesion condition after 0.5 hr Wnt treatment” (neglecting the effects of membrane organization under cell adhesion)",
+            "key": "Description"
+        },
+        {
+            "id": "A842966862",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A642771823",
+            "value": "Parameter scan",
+            "key": "Category"
+        },
+        {
+            "id": "A353922274",
+            "value": "Simulation results of SE2",
+            "key": "Description"
+        },
+        {
+            "id": "A063251415",
+            "value": "Figure 6",
+            "key": "Reference"
+        },
+        {
+            "id": "A413655825",
+            "value": "Number of ABC and GSK3-phosphor-β-cat spatial under the assumption that “organizations of cadherin clusters during cell adhesion generate a crowding environment for proteins at membrane proximal regions” (“Multiple simulations were carried out by using different values of a1 and a2, so that the effects of cell adhesion can be systematically estimated.”)",
+            "key": "Description"
+        },
+        {
+            "id": "A362143708",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A913542308",
+            "value": "Parameter scan",
+            "key": "Category"
+        },
+        {
+            "id": "A804752990",
+            "value": "Simulation results of SE3",
+            "key": "Description"
+        },
+        {
+            "id": "A294687887",
+            "value": "Figure 7",
+            "key": "Reference"
+        },
+        {
+            "id": "A648369672",
+            "value": "“explored how adhesion changes β-catenin distributions under Wnt stimulations” by decomposing “the multiple factors caused by adhesion” and adding them “step by step”",
+            "key": "Description"
+        },
+        {
+            "id": "A324303387",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A322165203",
+            "value": "Parameter scan",
+            "key": "Category"
+        },
+        {
+            "id": "A805038593",
+            "value": "Simulation results of SE4",
+            "key": "Description"
+        },
+        {
+            "id": "A608901103",
+            "value": "Figure 8",
+            "key": "Reference"
+        },
+        {
+            "id": "A922374038",
+            "value": "“transcription feedback caused by [constant] Wnt signaling”",
+            "key": "Description"
+        },
+        {
+            "id": "A465368635",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A723933724",
+            "value": "Perturbation",
+            "key": "Category"
+        },
+        {
+            "id": "A961486029",
+            "value": "Simulation results of SE5",
+            "key": "Description"
+        },
+        {
+            "id": "A182804304",
+            "value": "Figure 9",
+            "key": "Reference"
+        },
+        {
+            "id": "A300181860",
+            "value": "Simulation model analysis through perturbation",
+            "key": "Description"
+        },
+        {
+            "id": "A377968986",
+            "value": "Combining simulation models",
+            "key": "Description"
+        },
+        {
+            "id": "A405247382",
+            "value": "Constructing transcriptional simulation model",
+            "key": "Description"
+        },
+        {
+            "id": "A421992024",
+            "value": "Combining simulation models",
+            "key": "Description"
+        },
+        {
+            "id": "A925794023",
+            "value": "Simulation model analysis through parameter scans",
+            "key": "Description"
+        },
+        {
+            "id": "A482966599",
+            "value": "Mass action rate law for first order reversible reactions (78)",
+            "key": "Category"
+        },
+        {
+            "id": "A290988780",
+            "value": "Extending simulation model of Lee et al.",
+            "key": "Description"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "properties": {
+                "id": "A581130356"
+            },
+            "source": "A664347777",
+            "target": "A102269300"
+        },
+        {
+            "properties": {
+                "id": "A723207182"
+            },
+            "source": "A802872420",
+            "target": "A543710079"
+        },
+        {
+            "properties": {
+                "id": "A859778888"
+            },
+            "source": "A888260210",
+            "target": "A290988780"
+        },
+        {
+            "properties": {
+                "id": "A776517368"
+            },
+            "source": "A075805485",
+            "target": "A405247382"
+        },
+        {
+            "properties": {
+                "id": "A531732372"
+            },
+            "source": "A272420716",
+            "target": "A190371552"
+        },
+        {
+            "properties": {
+                "id": "A842863343"
+            },
+            "source": "A272420716",
+            "target": "A656936287"
+        },
+        {
+            "properties": {
+                "id": "A851907645"
+            },
+            "source": "A542103430",
+            "target": "A869460985"
+        },
+        {
+            "properties": {
+                "id": "A861295689"
+            },
+            "source": "A542103430",
+            "target": "A217817274"
+        },
+        {
+            "properties": {
+                "id": "A423306801"
+            },
+            "source": "A931332950",
+            "target": "A605575448"
+        },
+        {
+            "properties": {
+                "id": "A846335601"
+            },
+            "source": "A931332950",
+            "target": "A820792495"
+        },
+        {
+            "properties": {
+                "id": "A957064897"
+            },
+            "source": "A365653753",
+            "target": "A421992024"
+        },
+        {
+            "properties": {
+                "id": "A750062199"
+            },
+            "source": "A476977139",
+            "target": "A558697506"
+        },
+        {
+            "properties": {
+                "id": "A104753803"
+            },
+            "source": "A817202761",
+            "target": "A377968986"
+        },
+        {
+            "properties": {
+                "id": "A588366921"
+            },
+            "source": "A602050235",
+            "target": "A693652544"
+        },
+        {
+            "properties": {
+                "id": "A952899743"
+            },
+            "source": "A602050235",
+            "target": "A980294202"
+        },
+        {
+            "properties": {
+                "id": "A191855731"
+            },
+            "source": "A562987288",
+            "target": "A484186839"
+        },
+        {
+            "properties": {
+                "id": "A400690061"
+            },
+            "source": "A562987288",
+            "target": "A878176572"
+        },
+        {
+            "properties": {
+                "id": "A211491020"
+            },
+            "source": "A414618519",
+            "target": "A925794023"
+        },
+        {
+            "properties": {
+                "id": "A635942890"
+            },
+            "source": "A925094078",
+            "target": "A937492589"
+        },
+        {
+            "properties": {
+                "id": "A309528586"
+            },
+            "source": "A925094078",
+            "target": "A817234833"
+        },
+        {
+            "properties": {
+                "id": "A623818444"
+            },
+            "source": "A602994430",
+            "target": "A300181860"
+        },
+        {
+            "properties": {
+                "id": "A828015722"
+            },
+            "source": "A094887526",
+            "target": "A680760969"
+        },
+        {
+            "properties": {
+                "id": "A120374231"
+            },
+            "source": "A094887526",
+            "target": "A402451520"
+        },
+        {
+            "properties": {
+                "id": "A193894376"
+            },
+            "source": "A094887526",
+            "target": "A121183787"
+        },
+        {
+            "properties": {
+                "id": "A712420496"
+            },
+            "source": "A094887526",
+            "target": "A053751881"
+        },
+        {
+            "properties": {
+                "id": "A193130935"
+            },
+            "source": "A099715188",
+            "target": "A986849860"
+        },
+        {
+            "properties": {
+                "id": "A583507683"
+            },
+            "source": "A099715188",
+            "target": "A720890716"
+        },
+        {
+            "properties": {
+                "id": "A436513448"
+            },
+            "source": "A099715188",
+            "target": "A550810506"
+        },
+        {
+            "properties": {
+                "id": "A287346957"
+            },
+            "source": "A099715188",
+            "target": "A002986823"
+        },
+        {
+            "properties": {
+                "id": "A859784685"
+            },
+            "source": "A164788655",
+            "target": "A894771327"
+        },
+        {
+            "properties": {
+                "id": "A470657148"
+            },
+            "source": "A164788655",
+            "target": "A011818223"
+        },
+        {
+            "properties": {
+                "id": "A869811380"
+            },
+            "source": "A164788655",
+            "target": "A593151064"
+        },
+        {
+            "properties": {
+                "id": "A663358820"
+            },
+            "source": "A164788655",
+            "target": "A263343803"
+        },
+        {
+            "properties": {
+                "id": "A670156791"
+            },
+            "source": "A093269676",
+            "target": "A208605606"
+        },
+        {
+            "properties": {
+                "id": "A773206149"
+            },
+            "source": "A093269676",
+            "target": "A041812006"
+        },
+        {
+            "properties": {
+                "id": "A703696900"
+            },
+            "source": "A093269676",
+            "target": "A824145172"
+        },
+        {
+            "properties": {
+                "id": "A575971657"
+            },
+            "source": "A093269676",
+            "target": "A411120689"
+        },
+        {
+            "properties": {
+                "id": "A300030690"
+            },
+            "source": "A837623630",
+            "target": "A482966599"
+        },
+        {
+            "properties": {
+                "id": "A748429828"
+            },
+            "source": "A837623630",
+            "target": "A118555318"
+        },
+        {
+            "properties": {
+                "id": "A987445500"
+            },
+            "source": "A762734965",
+            "target": "A675386223"
+        },
+        {
+            "properties": {
+                "id": "A531416382"
+            },
+            "source": "A762734965",
+            "target": "A066382860"
+        },
+        {
+            "properties": {
+                "id": "A995420260"
+            },
+            "source": "A069398457",
+            "target": "A584456667"
+        },
+        {
+            "properties": {
+                "id": "A779023595"
+            },
+            "source": "A069398457",
+            "target": "A930792661"
+        },
+        {
+            "properties": {
+                "id": "A820395519"
+            },
+            "source": "A126050364",
+            "target": "A066343459"
+        },
+        {
+            "properties": {
+                "id": "A146320235"
+            },
+            "source": "A126050364",
+            "target": "A111217964"
+        },
+        {
+            "properties": {
+                "id": "A640330379"
+            },
+            "source": "A977963810",
+            "target": "A691340228"
+        },
+        {
+            "properties": {
+                "id": "A404412497"
+            },
+            "source": "A977963810",
+            "target": "A307924101"
+        },
+        {
+            "properties": {
+                "id": "A581600475"
+            },
+            "source": "A945569506",
+            "target": "A364645065"
+        },
+        {
+            "properties": {
+                "id": "A285730422"
+            },
+            "source": "A945569506",
+            "target": "A901826153"
+        },
+        {
+            "properties": {
+                "id": "A917295668"
+            },
+            "source": "A813999171",
+            "target": "A795027763"
+        },
+        {
+            "properties": {
+                "id": "A989151252"
+            },
+            "source": "A813999171",
+            "target": "A835546771"
+        },
+        {
+            "properties": {
+                "id": "A130336647"
+            },
+            "source": "A191847253",
+            "target": "A569300781"
+        },
+        {
+            "properties": {
+                "id": "A522306775"
+            },
+            "source": "A191847253",
+            "target": "A177316640"
+        },
+        {
+            "properties": {
+                "id": "A162854265"
+            },
+            "source": "A608469162",
+            "target": "A265336152"
+        },
+        {
+            "properties": {
+                "id": "A035587913"
+            },
+            "source": "A608469162",
+            "target": "A934507864"
+        },
+        {
+            "properties": {
+                "id": "A135343688"
+            },
+            "source": "A361623837",
+            "target": "A887177758"
+        },
+        {
+            "properties": {
+                "id": "A564085266"
+            },
+            "source": "A361623837",
+            "target": "A385543127"
+        },
+        {
+            "properties": {
+                "id": "A781806322"
+            },
+            "source": "A361623837",
+            "target": "A264126614"
+        },
+        {
+            "properties": {
+                "id": "A286930684"
+            },
+            "source": "A579171034",
+            "target": "A549864769"
+        },
+        {
+            "properties": {
+                "id": "A259290338"
+            },
+            "source": "A579171034",
+            "target": "A573114118"
+        },
+        {
+            "properties": {
+                "id": "A737201938"
+            },
+            "source": "A920463403",
+            "target": "A788713011"
+        },
+        {
+            "properties": {
+                "id": "A309836771"
+            },
+            "source": "A920463403",
+            "target": "A339753127"
+        },
+        {
+            "properties": {
+                "id": "A247055595"
+            },
+            "source": "A609016765",
+            "target": "A160584005"
+        },
+        {
+            "properties": {
+                "id": "A425529291"
+            },
+            "source": "A609016765",
+            "target": "A535014839"
+        },
+        {
+            "properties": {
+                "id": "A087109709"
+            },
+            "source": "A609016765",
+            "target": "A584289798"
+        },
+        {
+            "properties": {
+                "id": "A700009458"
+            },
+            "source": "A384548797",
+            "target": "A550231659"
+        },
+        {
+            "properties": {
+                "id": "A386076879"
+            },
+            "source": "A384548797",
+            "target": "A324450670"
+        },
+        {
+            "properties": {
+                "id": "A065940575"
+            },
+            "source": "A384548797",
+            "target": "A831808586"
+        },
+        {
+            "properties": {
+                "id": "A917890522"
+            },
+            "source": "A811571013",
+            "target": "A849404727"
+        },
+        {
+            "properties": {
+                "id": "A112099193"
+            },
+            "source": "A811571013",
+            "target": "A432209445"
+        },
+        {
+            "properties": {
+                "id": "A236772905"
+            },
+            "source": "A811571013",
+            "target": "A886466719"
+        },
+        {
+            "properties": {
+                "id": "A283338311"
+            },
+            "source": "A208188865",
+            "target": "A340128083"
+        },
+        {
+            "properties": {
+                "id": "A217115407"
+            },
+            "source": "A208188865",
+            "target": "A297675617"
+        },
+        {
+            "properties": {
+                "id": "A977051971"
+            },
+            "source": "A208188865",
+            "target": "A904110170"
+        },
+        {
+            "properties": {
+                "id": "A778905850"
+            },
+            "source": "A972991343",
+            "target": "A680007562"
+        },
+        {
+            "properties": {
+                "id": "A234744224"
+            },
+            "source": "A972991343",
+            "target": "A911151959"
+        },
+        {
+            "properties": {
+                "id": "A284575863"
+            },
+            "source": "A972991343",
+            "target": "A726534111"
+        },
+        {
+            "properties": {
+                "id": "A509792369"
+            },
+            "source": "A799534591",
+            "target": "A303129913"
+        },
+        {
+            "properties": {
+                "id": "A535256952"
+            },
+            "source": "A799534591",
+            "target": "A540862165"
+        },
+        {
+            "properties": {
+                "id": "A356405435"
+            },
+            "source": "A877929748",
+            "target": "A825622584"
+        },
+        {
+            "properties": {
+                "id": "A802942431"
+            },
+            "source": "A877929748",
+            "target": "A192816907"
+        },
+        {
+            "properties": {
+                "id": "A682857764"
+            },
+            "source": "A917575354",
+            "target": "A190237267"
+        },
+        {
+            "properties": {
+                "id": "A258573502"
+            },
+            "source": "A917575354",
+            "target": "A355466510"
+        },
+        {
+            "properties": {
+                "id": "A137837691"
+            },
+            "source": "A158577372",
+            "target": "A195137641"
+        },
+        {
+            "properties": {
+                "id": "A867741564"
+            },
+            "source": "A158577372",
+            "target": "A564138519"
+        },
+        {
+            "properties": {
+                "id": "A675270424"
+            },
+            "source": "A004125609",
+            "target": "A642771823"
+        },
+        {
+            "properties": {
+                "id": "A421584169"
+            },
+            "source": "A004125609",
+            "target": "A842966862"
+        },
+        {
+            "properties": {
+                "id": "A372862670"
+            },
+            "source": "A004125609",
+            "target": "A512739779"
+        },
+        {
+            "properties": {
+                "id": "A922608148"
+            },
+            "source": "A095542915",
+            "target": "A063251415"
+        },
+        {
+            "properties": {
+                "id": "A210195248"
+            },
+            "source": "A095542915",
+            "target": "A353922274"
+        },
+        {
+            "properties": {
+                "id": "A645143125"
+            },
+            "source": "A302153051",
+            "target": "A913542308"
+        },
+        {
+            "properties": {
+                "id": "A664490985"
+            },
+            "source": "A302153051",
+            "target": "A362143708"
+        },
+        {
+            "properties": {
+                "id": "A416207041"
+            },
+            "source": "A302153051",
+            "target": "A413655825"
+        },
+        {
+            "properties": {
+                "id": "A787309165"
+            },
+            "source": "A377972817",
+            "target": "A294687887"
+        },
+        {
+            "properties": {
+                "id": "A493774531"
+            },
+            "source": "A377972817",
+            "target": "A804752990"
+        },
+        {
+            "properties": {
+                "id": "A476537004"
+            },
+            "source": "A183704911",
+            "target": "A322165203"
+        },
+        {
+            "properties": {
+                "id": "A648823982"
+            },
+            "source": "A183704911",
+            "target": "A324303387"
+        },
+        {
+            "properties": {
+                "id": "A961010780"
+            },
+            "source": "A183704911",
+            "target": "A648369672"
+        },
+        {
+            "properties": {
+                "id": "A397174672"
+            },
+            "source": "A154812657",
+            "target": "A608901103"
+        },
+        {
+            "properties": {
+                "id": "A354258315"
+            },
+            "source": "A154812657",
+            "target": "A805038593"
+        },
+        {
+            "properties": {
+                "id": "A822087888"
+            },
+            "source": "A508429440",
+            "target": "A723933724"
+        },
+        {
+            "properties": {
+                "id": "A246697020"
+            },
+            "source": "A508429440",
+            "target": "A465368635"
+        },
+        {
+            "properties": {
+                "id": "A630371768"
+            },
+            "source": "A508429440",
+            "target": "A922374038"
+        },
+        {
+            "properties": {
+                "id": "A241254028"
+            },
+            "source": "A855613504",
+            "target": "A182804304"
+        },
+        {
+            "properties": {
+                "id": "A814225508"
+            },
+            "source": "A855613504",
+            "target": "A961486029"
+        }
+    ],
+    "dependencyRelationships": [
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A095991840"
+            },
+            "source": "A802872420",
+            "target": "A126050364"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A543643055"
+            },
+            "source": "A802872420",
+            "target": "A069398457"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A088889623"
+            },
+            "source": "A802872420",
+            "target": "A762734965"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A030270354"
+            },
+            "source": "A802872420",
+            "target": "A837623630"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A124423860"
+            },
+            "source": "A802872420",
+            "target": "A094887526"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A148414792"
+            },
+            "source": "A802872420",
+            "target": "A664347777"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A717139689"
+            },
+            "source": "A888260210",
+            "target": "A191847253"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A826048828"
+            },
+            "source": "A888260210",
+            "target": "A813999171"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A736066072"
+            },
+            "source": "A888260210",
+            "target": "A945569506"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A052701593"
+            },
+            "source": "A888260210",
+            "target": "A977963810"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A085502005"
+            },
+            "source": "A888260210",
+            "target": "A099715188"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A188372126"
+            },
+            "source": "A888260210",
+            "target": "A664347777"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A857799851"
+            },
+            "source": "A075805485",
+            "target": "A608469162"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A890903499"
+            },
+            "source": "A075805485",
+            "target": "A164788655"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A828011911"
+            },
+            "source": "A075805485",
+            "target": "A664347777"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A638843810"
+            },
+            "source": "A272420716",
+            "target": "A802872420"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A365092961"
+            },
+            "source": "A542103430",
+            "target": "A888260210"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A874755551"
+            },
+            "source": "A931332950",
+            "target": "A075805485"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A751277678"
+            },
+            "source": "A365653753",
+            "target": "A877929748"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A225294047"
+            },
+            "source": "A365653753",
+            "target": "A799534591"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A767901938"
+            },
+            "source": "A365653753",
+            "target": "A602050235"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A841520915"
+            },
+            "source": "A365653753",
+            "target": "A272420716"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A735573839"
+            },
+            "source": "A476977139",
+            "target": "A972991343"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A110154168"
+            },
+            "source": "A476977139",
+            "target": "A208188865"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A863376357"
+            },
+            "source": "A476977139",
+            "target": "A811571013"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A324641840"
+            },
+            "source": "A476977139",
+            "target": "A384548797"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A307627587"
+            },
+            "source": "A476977139",
+            "target": "A609016765"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A332698567"
+            },
+            "source": "A476977139",
+            "target": "A542103430"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A881312149"
+            },
+            "source": "A817202761",
+            "target": "A093269676"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A485849599"
+            },
+            "source": "A817202761",
+            "target": "A272420716"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A920558930"
+            },
+            "source": "A817202761",
+            "target": "A602050235"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A339975681"
+            },
+            "source": "A817202761",
+            "target": "A931332950"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A689916928"
+            },
+            "source": "A602050235",
+            "target": "A476977139"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A122348777"
+            },
+            "source": "A562987288",
+            "target": "A365653753"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A122935177"
+            },
+            "source": "A414618519",
+            "target": "A562987288"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A611927249"
+            },
+            "source": "A925094078",
+            "target": "A817202761"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A800312728"
+            },
+            "source": "A602994430",
+            "target": "A925094078"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A825058619"
+            },
+            "source": "A361623837",
+            "target": "A476977139"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A733657132"
+            },
+            "source": "A579171034",
+            "target": "A476977139"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A892431158"
+            },
+            "source": "A004125609",
+            "target": "A414618519"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A435345476"
+            },
+            "source": "A095542915",
+            "target": "A414618519"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A580334061"
+            },
+            "source": "A302153051",
+            "target": "A414618519"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A888054821"
+            },
+            "source": "A377972817",
+            "target": "A414618519"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A510811585"
+            },
+            "source": "A183704911",
+            "target": "A414618519"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A556691075"
+            },
+            "source": "A154812657",
+            "target": "A414618519"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A899033104"
+            },
+            "source": "A508429440",
+            "target": "A602994430"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A111599065"
+            },
+            "source": "A855613504",
+            "target": "A602994430"
+        },
+        {
+            "source": "A414618519",
+            "target": "A917575354",
+            "properties": {
+                "id": "A649031937",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A414618519",
+            "target": "A158577372",
+            "properties": {
+                "id": "A746287585",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A476977139",
+            "target": "A920463403",
+            "properties": {
+                "id": "A579181982",
+                "type": "Used"
+            }
+        }
+    ],
+    "studies": [
+        {
+            "source": "Chen et al. 2014",
+            "id": "A370566940",
+            "signalingPathway": "Wnt"
+        }
+    ]
+}

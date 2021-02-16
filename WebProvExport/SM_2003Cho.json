@@ -1,0 +1,45 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A781965932",
+            "definitionId": "Simulation Model",
+            "studyId": "A508355032"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A620961237",
+            "key": "Reference",
+            "value": "https://www.ebi.ac.uk/biomodels/BIOMD0000000647"
+        },
+        {
+            "id": "A364142321",
+            "key": "Description",
+            "value": "Simulation model of ERK signaling pathway regulated by RKIP"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A781965932",
+            "target": "A620961237",
+            "properties": {
+                "id": "A139864197"
+            }
+        },
+        {
+            "source": "A781965932",
+            "target": "A364142321",
+            "properties": {
+                "id": "A091101432"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A508355032",
+            "source": "Cho et al. 2003",
+            "signalingPathway": "ERK"
+        }
+    ]
+}

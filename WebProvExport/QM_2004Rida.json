@@ -1,0 +1,69 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A039381331",
+            "definitionId": "Qualitative Model",
+            "studyId": "A789708380"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A294612205",
+            "key": "Description",
+            "value": "“Summary of feedback loops and posttranslational regulations among components involved in vertebrate segmentation clock.”"
+        },
+        {
+            "id": "A817058511",
+            "key": "Reference",
+            "value": "Fig. 3"
+        },
+        {
+            "id": "A872699911",
+            "key": "Species",
+            "value": "Axin2 mRNA, Hes1/7 mRNA, Lfng mRNA, Axin2, Hes1/7, Wnt3a, Dvl, Notch, Lfng, Delta"
+        },
+        {
+            "id": "A340752722",
+            "key": "Compartments",
+            "value": "Cell, Nucleus, Golgi apparatus"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A039381331",
+            "target": "A294612205",
+            "properties": {
+                "id": "A808643668"
+            }
+        },
+        {
+            "source": "A039381331",
+            "target": "A817058511",
+            "properties": {
+                "id": "A763927032"
+            }
+        },
+        {
+            "source": "A039381331",
+            "target": "A872699911",
+            "properties": {
+                "id": "A673941204"
+            }
+        },
+        {
+            "source": "A039381331",
+            "target": "A340752722",
+            "properties": {
+                "id": "A509016985"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A789708380",
+            "source": "Rida et al. 2004",
+            "signalingPathway": "Wnt"
+        }
+    ]
+}

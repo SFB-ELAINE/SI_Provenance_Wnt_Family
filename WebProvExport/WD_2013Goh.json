@@ -1,0 +1,81 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A829287104",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A921502397"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A045801129",
+            "key": "Description",
+            "value": "Pathways of receptor tyrosine kinases (RTKs) endocytosis. -> endocytosis rate constants (Review)"
+        },
+        {
+            "id": "A076059238",
+            "key": "Reference",
+            "value": "Figure 1"
+        },
+        {
+            "id": "A921929663",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A135651039",
+            "key": "Organism",
+            "value": "Not applicable"
+        },
+        {
+            "id": "A383980950",
+            "key": "Organ/Tissue/Cell line",
+            "value": "Not applicable"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A829287104",
+            "target": "A045801129",
+            "properties": {
+                "id": "A902275443"
+            }
+        },
+        {
+            "source": "A829287104",
+            "target": "A076059238",
+            "properties": {
+                "id": "A170638213"
+            }
+        },
+        {
+            "source": "A829287104",
+            "target": "A921929663",
+            "properties": {
+                "id": "A509372774"
+            }
+        },
+        {
+            "source": "A829287104",
+            "target": "A135651039",
+            "properties": {
+                "id": "A908489542"
+            }
+        },
+        {
+            "source": "A829287104",
+            "target": "A383980950",
+            "properties": {
+                "id": "A079501748"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A921502397",
+            "source": "Goh and Sorkin 2013",
+            "signalingPathway": "None"
+        }
+    ]
+}

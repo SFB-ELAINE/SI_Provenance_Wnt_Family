@@ -1,0 +1,45 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A558667718",
+            "definitionId": "Simulation Model",
+            "studyId": "A284733549"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A136746895",
+            "key": "Description",
+            "value": "Simulation model of EGF activated ERK pathway"
+        },
+        {
+            "id": "A106038494",
+            "key": "Reference",
+            "value": "www.ebi.ac.uk/biomodels/BIOMD0000000623"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A558667718",
+            "target": "A136746895",
+            "properties": {
+                "id": "A080503341"
+            }
+        },
+        {
+            "source": "A558667718",
+            "target": "A106038494",
+            "properties": {
+                "id": "A995251962"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A284733549",
+            "source": "Orton et al. 2009",
+            "signalingPathway": "EGFR/ERK"
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+strict digraph {
+
+  graph [layout = neato, overlap = false]
+ 
+  node [shape = box, style = filled, margin = 0.3]
+  
+  # Color | Cell line: Studies (with >>Wnt sim. study<<)
+  # IndianRed | Egg extract: >>Lee et al. 2003<<, Lee et al. 2001, Salic et al. 2000, Dajani et al. 2003
+  # LightSalmon | Embryo: Hirata et al. 2004
+  # "#8c510a" | Fibroblasts L cells: >>Kogan et al. 2012<<, Galli et al. 2006, Hannoush 2008, Wawrzak et al. 2007, Bourhis et al. 2010
+  # "#d8b365" | Fibroblasts NIH/3T3 cells: Bafico et al. 2001
+  # "#f6e8c3" | Mammary gland (C57MG) cells: Jho et al. 2002
+  # YellowGreen | Osteoblast-like cells (MG-63): >>Staehlke et al. 2020<<
+  # PaleGreen | Presomitic mesoderm (PSM) cells: Dequeant et al. 2006
+  # MintCream | Skin: >>Sick et al. 2006<<
+  # "#c7eae5" | Cervical cancer epithelial (HeLa S3) cells: Sakane et al. 2010, Yamamoto et al. 2006, Yamamoto et al. 2008
+  # "#5ab4ac" | Colon carcinoma RKO cells: Hernandez et al. 2012
+  # "#01665e" | Embryonic kidney epithelial (HEK 293) cells: >>Kim et al. 2007<<, Kim et al. 2013, Krieghoff et al. 2006, Kim et al. 2006
+  # SteelBlue | Neural progenitor (ReNcell VM) cells: >>Haack et al. 2015<<, Mazemondet et al. 2011
+  # Lavender | Baby hamster kidney (BHK) cells: Prior et al. 2003
+  # MediumPurple | Epithelial kidney cells (PtK2): Pralle et al. 2000
+  # Orchid | Pheochromocytoma cells: Brown et al. 2004
+  # White | Not applicable (text book data) or simulation study without own wet-lab data
+
+
+  ######## Wnt simulation studies
+  node [fillcolor = IndianRed, penwidth=2, color = black]
+  "Lee et al. 2003"
+  
+  node [fillcolor = grey]
+  "Krüger and\nHeinrich 2004"
+  
+  node [fillcolor = grey]
+  "Cho et al. 2006"
+  
+  node [fillcolor = MintCream]
+  "Sick et al. 2006"
+  
+  node [fillcolor = "#01665e"]
+  "Kim et al. 2007"
+  
+  node [fillcolor = grey]
+  "Rodríguez-González\net al. 2007"
+  
+  node [fillcolor = grey]
+  "van Leeuwen\net al. 2007"
+  
+  node [fillcolor = grey]
+  "Wawra et al. 2007"
+  
+  node [fillcolor = grey]
+  "Goldbeter et\nPourquié 2008"
+  
+  node [fillcolor = grey]
+  "van Leeuwen\net al. 2009"
+  
+  node [fillcolor = grey]
+  "Mirams et al. 2010"
+  
+  node [fillcolor = "#8c510a"]
+  "Kogan et al. 2012"
+  
+  node [fillcolor = grey]
+  "Mazemondet\net al. 2012"
+  
+  node [fillcolor = grey]
+  "Wang et al. 2013"
+  
+  node [fillcolor = grey]
+  "Chen et al. 2014"
+  
+  node [fillcolor = SteelBlue]
+  "Haack et al. 2015"
+  
+  node [fillcolor = grey]
+  "Padala et al. 2017"
+  
+  node [fillcolor = grey]
+  "Haack et al. 2020"
+  
+  node [fillcolor = YellowGreen]
+  "Staehlke et al. 2020"
+  
+  ######## Further studies
+  node [fillcolor = "#d8b365", penwidth=1,  color = grey]
+  "Bafico et al. 2001"
+  
+  node [fillcolor = white]
+  "Bernard et al. 2006"
+  
+  node [fillcolor = "#8c510a"]
+  "Bourhis et al. 2010"
+  
+  node [fillcolor = Orchid]
+  "Brown et al. 2004"
+  
+  node [fillcolor = white]
+  "Cho et al. 2003"
+  
+  node [fillcolor = IndianRed]
+  "Dajani et al. 2003"
+  
+  node [fillcolor = PaleGreen]
+  "Dequeant et al. 2006"
+  
+  node [fillcolor = "#8c510a"]
+  "Galli et al. 2006"
+  
+  node [fillcolor = white]
+  "Goh and Sorkin 2013"
+  
+  node [fillcolor = "#8c510a"]
+  "Hannoush 2008"
+  
+  node [fillcolor = "#5ab4ac"]
+  "Hernandez et al. 2012"
+  
+  node [fillcolor = LightSalmon]
+  "Hirata et al. 2004"
+  
+  node [fillcolor = white]
+  "Howard et al. 2001"
+  
+  node [fillcolor = "#f6e8c3"]
+  "Jho et al. 2002"
+  
+  node [fillcolor = "#01665e"]
+  "Kim et al. 2006"
+  
+  node [fillcolor = "#01665e"]
+  "Kim et al. 2013"
+  
+  node [fillcolor = "#01665e"]
+  "Krieghoff et al. 2006"
+  
+  node [fillcolor = IndianRed]
+  "Lee et al. 2001"
+  
+  node [fillcolor = white]
+  "Lewis 2003"
+  
+  node [fillcolor = SteelBlue]
+  "Mazemondet\net al. 2011"
+  
+  node [fillcolor = white]
+  "Meineke et al. 2001"
+  
+  node [fillcolor = white]
+  "Monk 2003"
+  
+  node [fillcolor = white]
+  "Orton et al. 2009"
+  
+  node [fillcolor = MediumPurple]
+  "Pralle et al. 2000"
+  
+  node [fillcolor = Lavender]
+  "Prior et al. 2003"
+  
+  node [fillcolor = white]
+  "Rida et al. 2004"
+  
+  node [fillcolor = "#c7eae5"]
+  "Sakane et al. 2010"
+  
+  node [fillcolor = IndianRed]
+  "Salic et al. 2000"
+  
+  node [fillcolor = white]
+  "Swat et al. 2004"
+  
+  node [fillcolor = "#8c510a"]
+  "Wawrzak et al. 2007"
+  
+  node [fillcolor = "#c7eae5"]
+  "Yamamoto et al. 2006"
+  
+  node [fillcolor = "#c7eae5"]
+  "Yamamoto et al. 2008"
+  
+
+
+edge [color = black]
+"Lee et al. 2003" -> {"Lee et al. 2001" "Salic et al. 2000" "Dajani et al. 2003"}
+"Krüger and\nHeinrich 2004" -> {"Lee et al. 2003"}
+"Cho et al. 2006" -> {"Lee et al. 2003"}
+"Sick et al. 2006" -> {}
+"Kim et al. 2007" -> {"Cho et al. 2003" "Cho et al. 2006"}
+"Rodríguez-González\net al. 2007" -> {"Bernard et al. 2006" "Hirata et al. 2004" "Lewis 2003" "Monk 2003" "Rida et al. 2004"}
+"van Leeuwen\net al. 2007" -> {"Cho et al. 2006" "Lee et al. 2003"}
+"Wawra et al. 2007" -> {"Cho et al. 2006" "Jho et al. 2002" "Kim et al. 2006" "Lee et al. 2003"}
+"Goldbeter et\nPourquié 2008" -> {"Dequeant et al. 2006" "Krüger and\nHeinrich 2004" "Lee et al. 2003" "Monk 2003" "Rodríguez-González\net al. 2007"}
+"van Leeuwen\net al. 2009" -> {"van Leeuwen\net al. 2007" "Meineke et al. 2001" "Swat et al. 2004"}
+"Mirams et al. 2010" -> {"Cho et al. 2006" "Lee et al. 2003"}
+"Kogan et al. 2012" -> {"Galli et al. 2006" "Hannoush 2008" "Lee et al. 2003" "Wawrzak et al. 2007"}
+"Mazemondet\net al. 2012" -> {"Lee et al. 2003" "Mazemondet\net al. 2011"}
+"Wang et al. 2013" -> {"Dequeant et al. 2006" "Goldbeter et\nPourquié 2008"}
+"Chen et al. 2014" -> {"Lee et al. 2003" "Hernandez et al. 2012" "Kim et al. 2013"}
+"Haack et al. 2015" -> {"Bafico et al. 2001" "Krieghoff et al. 2006" "Hannoush 2008" "Lee et al. 2003" "Mazemondet\net al. 2012" "Pralle et al. 2000" "Prior et al. 2003"}
+"Padala et al. 2017" -> {"Brown et al. 2004" "Kim et al. 2007" "Orton et al. 2009"}
+"Haack et al. 2020" -> {"Bafico et al. 2001" "Bourhis et al. 2010" "Goh and Sorkin 2013" "Haack et al. 2015" "Howard et al. 2001" "Mazemondet\net al. 2012" "Sakane et al. 2010" "Yamamoto et al. 2006" "Yamamoto et al. 2008"}
+"Staehlke et al. 2020" -> {"Haack et al. 2015"}
+
+}

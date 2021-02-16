@@ -1,0 +1,81 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A345624086",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A447923245"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A436806825",
+            "key": "Description",
+            "value": "Kinetics of cellular β-catenin accumulation upon stimulation with Wnt3a"
+        },
+        {
+            "id": "A350715932",
+            "key": "Reference",
+            "value": "Figure 4C, 4D"
+        },
+        {
+            "id": "A585475494",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A603639468",
+            "key": "Organism",
+            "value": "Mouse"
+        },
+        {
+            "id": "A029576434",
+            "key": "Organ/Tissue/Cell line",
+            "value": "Fibroblasts L cells"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A345624086",
+            "target": "A436806825",
+            "properties": {
+                "id": "A988721029"
+            }
+        },
+        {
+            "source": "A345624086",
+            "target": "A350715932",
+            "properties": {
+                "id": "A469602433"
+            }
+        },
+        {
+            "source": "A345624086",
+            "target": "A585475494",
+            "properties": {
+                "id": "A891118975"
+            }
+        },
+        {
+            "source": "A345624086",
+            "target": "A603639468",
+            "properties": {
+                "id": "A508078988"
+            }
+        },
+        {
+            "source": "A345624086",
+            "target": "A029576434",
+            "properties": {
+                "id": "A971310556"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A447923245",
+            "source": "Hannoush 2008",
+            "signalingPathway": "Wnt (wet-lab study)"
+        }
+    ]
+}

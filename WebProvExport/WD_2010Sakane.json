@@ -1,0 +1,81 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A643300410",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A251834942"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A001408342",
+            "key": "Description",
+            "value": "“Dkk1 induces clathrin-dependent internalization of endogenous LRP6.”"
+        },
+        {
+            "id": "A367932773",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A838530098",
+            "key": "Reference",
+            "value": "Figure 3"
+        },
+        {
+            "id": "A978778309",
+            "key": "Organism",
+            "value": "Human"
+        },
+        {
+            "id": "A280669479",
+            "key": "Organ/Tissue/Cell line",
+            "value": "HeLa S3 cells"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A643300410",
+            "target": "A001408342",
+            "properties": {
+                "id": "A388698471"
+            }
+        },
+        {
+            "source": "A643300410",
+            "target": "A367932773",
+            "properties": {
+                "id": "A962957057"
+            }
+        },
+        {
+            "source": "A643300410",
+            "target": "A838530098",
+            "properties": {
+                "id": "A606733522"
+            }
+        },
+        {
+            "source": "A643300410",
+            "target": "A978778309",
+            "properties": {
+                "id": "A692236473"
+            }
+        },
+        {
+            "source": "A643300410",
+            "target": "A280669479",
+            "properties": {
+                "id": "A177465018"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A251834942",
+            "source": "Sakane et al. 2010",
+            "signalingPathway": "Dkk"
+        }
+    ]
+}

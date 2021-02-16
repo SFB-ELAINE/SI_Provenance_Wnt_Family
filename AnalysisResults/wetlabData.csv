@@ -1,0 +1,51 @@
+Study,Category,Type of wet-lab experiment,Organism,Organ/Tissue/Cell line
+Bafico et al. 2001,Wet-lab Study,in vitro,Mouse,Fibroblasts NIH/3T3
+Bernard et al. 2006,Referenced Simulation Study,-,-,-
+Bourhis et al. 2010,Wet-lab Study,in vitro,Mouse,Fibroblasts L cells
+Brown et al. 2004,Referenced Simulation Study,in vitro,Rat,Pheochromocytoma cells
+Chen et al. 2014,Wnt Simulation Study,-,-,-
+Cho et al. 2003,Referenced Simulation Study,-,-,-
+Cho et al. 2006,Wnt Simulation Study,-,-,-
+Dajani et al. 2003,Wet-lab Study,in vitro,Xenopus,egg extract
+Dequeant et al. 2006,Wet-lab Study,in vitro,Mouse,presomitic mesoderm (PSM)
+Galli et al. 2006,Wet-lab Study,in vitro,Mouse,Fibroblasts L cells
+Goh and Sorkin 2013,Book/Review,not applicable,not applicable,not applicable
+Goldbeter et Pourquié 2008,Wnt Simulation Study,-,-,-
+Haack et al. 2015,Wnt Simulation Study,in vitro,Human,Neural progenitor cells (ReNcell VM cell line)
+Haack et al. 2020,Wnt Simulation Study,-,-,-
+Hannoush 2008,Wet-lab Study,in vitro,Mouse,Fibroblasts L cells
+Hernandez et al. 2012,Wet-lab Study,in vitro,Human,Colon carcinoma RKO cells (epithelial cell line)
+Hirata et al. 2004,Wet-lab Study,in vivo,Mouse,Embryo
+Howard et al. 2001,Book/Review,not applicable,not applicable,not applicable
+Jho et al. 2002,Wet-lab Study,in vitro,Mouse,Mammary gland (C57MG)
+Kim et al. 2006,Wet-lab Study,in vitro,Human,Embryonic kidney epithelial cell line (HEK 293TOP)
+Kim et al. 2007,Wnt Simulation Study,in vitro,Human,"Embryonic kidney epithelial cell line (HEK 293 cells, ATCC CRL-1573)"
+Kim et al. 2013,Wet-lab Study,in vitro,Human,Embryonic kidney epithelial cell line (HEK 293TOP)
+Kogan et al. 2012,Wnt Simulation Study,in vitro,Mouse,Fibroblasts L cells
+Krieghoff et al. 2006,Wet-lab Study,in vitro,Human,Embryonic kidney epithelial cell line (HEK 293TOP)
+Krüger and Heinrich 2004,Wnt Simulation Study,-,-,-
+Lee et al. 2001,Wet-lab Study,in vitro,Xenopus,egg extract
+Lee et al. 2003,Wnt Simulation Study,in vitro,Xenopus,egg extract
+Lewis 2003,Referenced Simulation Study,-,-,-
+Mazemondet et al. 2011,Wet-lab Study,in vitro,Human,Neural progenitor cells (ReNcell VM cell line)
+Mazemondet et al. 2012,Wnt Simulation Study,-,-,-
+Meineke et al. 2001,Referenced Simulation Study,-,-,-
+Mirams et al. 2010,Wnt Simulation Study,-,-,-
+Monk 2003,Referenced Simulation Study,-,-,-
+Orton et al. 2009,Referenced Simulation Study,-,-,-
+Padala et al. 2017,Wnt Simulation Study,-,-,-
+Pralle et al. 2000,Wet-lab Study,in vitro,Kangaroo rat,Epithelial kidney cells (PtK2)
+Prior et al. 2003,Wet-lab Study,in vitro,Hamster,Baby hamster kidney cells (BHK)
+Rida et al. 2004,Book/Review,not applicable,not applicable,not applicable
+Rodriguez-Gonzales et al. 2007,Wnt Simulation Study,-,-,-
+Sakane et al. 2010,Wet-lab Study,in vitro,Human,Cervical cancer epithelial cell line (HeLa S3 cells)
+Salic et al. 2000,Wet-lab Study,in vitro,Xenopus,egg extract
+Sick et al. 2006,Wnt Simulation Study,in vivo,Mouse (Foxn1::Dkk2 and wild-type),skin
+Swat et al. 2004,Referenced Simulation Study,-,-,-
+van Leeuwen et al. 2007,Wnt Simulation Study,-,-,-
+van Leeuwen et al. 2009,Wnt Simulation Study,-,-,-
+Wang et al. 2013,Wnt Simulation Study,-,-,-
+Wawra et al. 2007,Wnt Simulation Study,-,-,-
+Wawrzak et al. 2007,Wet-lab Study,in vitro,Mouse,Fibroblasts L cells
+Yamamoto et al. 2006,Wet-lab Study,in vitro,Human,Cervical cancer epithelial cell line (HeLa S3 cells)
+Yamamoto et al. 2008,Wet-lab Study,in vitro,Human,Cervical cancer epithelial cell line (HeLa S3 cells)

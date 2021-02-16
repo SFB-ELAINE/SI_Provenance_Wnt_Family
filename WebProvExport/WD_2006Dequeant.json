@@ -1,0 +1,81 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A975508802",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A069131061"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A532904521",
+            "key": "Description",
+            "value": "“Mutually exclusive activation of the notch-FGF and Wnt clusters during one segmentation clock oscillation. Expression profiles of cyclic genes of (A) notch, (B) FGF, and (C) Wnt pathways along the microarray time series.”"
+        },
+        {
+            "id": "A655439784",
+            "key": "Reference",
+            "value": "Figure 3"
+        },
+        {
+            "id": "A220117015",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A877981793",
+            "key": "Organism",
+            "value": "Mouse (embryo)"
+        },
+        {
+            "id": "A586584250",
+            "key": "Organ/Tissue/Cell line",
+            "value": "Presomitic mesoderm (PSM)"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A975508802",
+            "target": "A532904521",
+            "properties": {
+                "id": "A553348953"
+            }
+        },
+        {
+            "source": "A975508802",
+            "target": "A655439784",
+            "properties": {
+                "id": "A569277415"
+            }
+        },
+        {
+            "source": "A975508802",
+            "target": "A220117015",
+            "properties": {
+                "id": "A496383855"
+            }
+        },
+        {
+            "source": "A975508802",
+            "target": "A877981793",
+            "properties": {
+                "id": "A809840426"
+            }
+        },
+        {
+            "source": "A975508802",
+            "target": "A586584250",
+            "properties": {
+                "id": "A731614587"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A069131061",
+            "source": "Dequéant et al. 2006",
+            "signalingPathway": "Wnt (wet-lab study)"
+        }
+    ]
+}

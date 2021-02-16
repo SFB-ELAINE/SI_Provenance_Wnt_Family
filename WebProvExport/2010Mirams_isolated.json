@@ -1,0 +1,1027 @@
+{
+    "provenanceNodes": [
+        {
+            "studyId": "A369543686",
+            "id": "A163261059",
+            "definitionId": "Research Question"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A999147798",
+            "definitionId": "Building Simulation Model"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A918120079",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A229088928",
+            "definitionId": "Analyzing Simulation Model"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A701310528",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A510653387",
+            "relatedTo": "A701310528",
+            "definitionId": "Simulation Data"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A297790022",
+            "definitionId": "Building Simulation Model"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A810031029",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A821485960",
+            "definitionId": "Building Simulation Model"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A242100364",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A642592591",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A637670333",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A349981428",
+            "definitionId": "Analyzing Simulation Model"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A991115243",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A505812016",
+            "relatedTo": "A991115243",
+            "definitionId": "Simulation Data"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A713820223",
+            "definitionId": "Building Simulation Model"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A354674195",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A568326561",
+            "definitionId": "Analyzing Simulation Model"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A803622910",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A843026032",
+            "relatedTo": "A803622910",
+            "definitionId": "Simulation Data"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A585705261",
+            "definitionId": "Building Simulation Model"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A526024026",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A549039637",
+            "definitionId": "Building Simulation Model"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A995945431",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A815705451",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A058269403",
+            "definitionId": "Building Simulation Model"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A132198872",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A495657091",
+            "definitionId": "Analyzing Simulation Model"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A558899047",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A369543686",
+            "id": "A903714126",
+            "relatedTo": "A558899047",
+            "definitionId": "Simulation Data"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A905520901",
+            "value": "“perform a systematic non-dimensionalisation (this not having been undertaken by Lee et al.) and asymptotic analysis of Lee et al.’s model, in order to gain more insight into the processes controlling the levels of β-catenin within a cell.”",
+            "key": "Description"
+        },
+        {
+            "id": "A420384951",
+            "value": "Rewrite the ODE system in dimensionless variables",
+            "key": "Description"
+        },
+        {
+            "id": "A798585454",
+            "value": "Numerical simulation",
+            "key": "Description"
+        },
+        {
+            "id": "A841268421",
+            "value": "Numerical simulation of Eqs. (8)(13) (beginning at steady state solution) with constant Wnt (W=1) for t=0...500",
+            "key": "Description"
+        },
+        {
+            "id": "A379580648",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A536187793",
+            "value": "Time course analysis",
+            "key": "Category"
+        },
+        {
+            "id": "A979008728",
+            "value": "Simulation results of SE1",
+            "key": "Description"
+        },
+        {
+            "id": "A773001169",
+            "value": "Figure 3",
+            "key": "Reference"
+        },
+        {
+            "id": "A253175383",
+            "value": "Rescale the dimensionless parameters by multiplying them by appropriate powers of epsilon so that they are O(1)",
+            "key": "Description"
+        },
+        {
+            "id": "A471853968",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A916874937",
+            "value": "Asymptotic analysis for models on different time scales",
+            "key": "Description"
+        },
+        {
+            "id": "A412735258",
+            "value": "Model on short timescale (t=O(epsilon))→ Equations (29)-(36)",
+            "key": "Description"
+        },
+        {
+            "id": "A924000931",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A038824610",
+            "value": "Model on intermediate timescale (t=O(1))→ Equations (40)-(45)",
+            "key": "Description"
+        },
+        {
+            "id": "A275214309",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A592344075",
+            "value": "Model on long timescale (t=O(1/epsilon))→ Equations (47)-(52)",
+            "key": "Description"
+        },
+        {
+            "id": "A578174087",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A421488430",
+            "value": "Numerical simulation of different timescale models",
+            "key": "Description"
+        },
+        {
+            "id": "A858117320",
+            "value": "“Response to a sudden Wnt stimulus (W = 1) introduced when the pathway is in equilibrium (for W = 0) at t = 0” (SM3 + SM4 + SM5)",
+            "key": "Description"
+        },
+        {
+            "id": "A453903439",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A733067611",
+            "value": "Time course analysis",
+            "key": "Category"
+        },
+        {
+            "id": "A114695271",
+            "value": "Simulation results of SE2",
+            "key": "Description"
+        },
+        {
+            "id": "A293766726",
+            "value": "Figure 5",
+            "key": "Reference"
+        },
+        {
+            "id": "A688077820",
+            "value": "Reduction to simpler Wnt signaling model",
+            "key": "Description"
+        },
+        {
+            "id": "A821389021",
+            "value": "Simple model for output of β-catenin on long timescale → Equations (59)",
+            "key": "Description"
+        },
+        {
+            "id": "A094757081",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A400311646",
+            "value": "Numerical simulation of β-catenin response",
+            "key": "Description"
+        },
+        {
+            "id": "A221519289",
+            "value": "“A Wnt stimulus of W (t) = e^(−t/20) is applied to a system resting at a steady state with W (0) = 0”",
+            "key": "Description"
+        },
+        {
+            "id": "A581416513",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A453250052",
+            "value": "Time course analysis",
+            "key": "Category"
+        },
+        {
+            "id": "A853363348",
+            "value": "Simulation results of SE3",
+            "key": "Description"
+        },
+        {
+            "id": "A656894318",
+            "value": "Figure 7",
+            "key": "Reference"
+        },
+        {
+            "id": "A320394726",
+            "value": "Asymptotic analysis and reduction of model by Cho et al. (Lee + feedback)",
+            "key": "Description"
+        },
+        {
+            "id": "A281088794",
+            "value": "Simple model for output of β-catenin with feedback on long timescale → Equations(63)",
+            "key": "Description"
+        },
+        {
+            "id": "A887335917",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A239715440",
+            "value": "Asymptotic analysis and reduction of model by Cho et al. (Lee + feedback) with different assumption",
+            "key": "Description"
+        },
+        {
+            "id": "A752258720",
+            "value": "“suggest removing the influence of free β-catenin (X_{11}) and using a more conventional rate-limiting term of the form k_{18}X_{14}/(K_{18} + X_{14}), so that Axin2 production is an increasing and saturating function of only β-catenin/TCF”",
+            "key": "Description"
+        },
+        {
+            "id": "A666909629",
+            "value": "Henri-Michaelis-Menten rate law (29)",
+            "key": "Category"
+        },
+        {
+            "id": "A640244924",
+            "value": "Rescaled and reduced non-dimensional model with new feedback on Axin→ Equations (14), (15), (16), (65), (18), (19)",
+            "key": "Description"
+        },
+        {
+            "id": "A483970013",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A605093043",
+            "value": "Reduction to simpler Wnt signaling model",
+            "key": "Description"
+        },
+        {
+            "id": "A317096227",
+            "value": "Simple model for output of β-catenin with different feedback on long timescale → Equations (68)",
+            "key": "Description"
+        },
+        {
+            "id": "A330391681",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A069310281",
+            "value": "Numerical simulation of β-catenin response",
+            "key": "Description"
+        },
+        {
+            "id": "A758295791",
+            "value": "Numerical simulation of SM8 (beginning at steady state solution) with constant Wnt (W=1) for t=0...500",
+            "key": "Description"
+        },
+        {
+            "id": "A312718580",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A289327588",
+            "value": "Time course analysis",
+            "key": "Category"
+        },
+        {
+            "id": "A768096000",
+            "value": "Simulation results of SE4",
+            "key": "Description"
+        },
+        {
+            "id": "A395944733",
+            "value": "Figure 8",
+            "key": "Reference"
+        },
+        {
+            "id": "A892284210",
+            "key": "Description",
+            "value": "Dimensionless Lee simulation model"
+        },
+        {
+            "id": "A735405260",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A155037370",
+            "key": "Description",
+            "value": "Rescaled dimensionless simulation model"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "properties": {
+                "id": "A782566881"
+            },
+            "source": "A163261059",
+            "target": "A905520901"
+        },
+        {
+            "properties": {
+                "id": "A324277048"
+            },
+            "source": "A999147798",
+            "target": "A420384951"
+        },
+        {
+            "properties": {
+                "id": "A796668138"
+            },
+            "source": "A229088928",
+            "target": "A798585454"
+        },
+        {
+            "properties": {
+                "id": "A242190079"
+            },
+            "source": "A701310528",
+            "target": "A536187793"
+        },
+        {
+            "properties": {
+                "id": "A145527016"
+            },
+            "source": "A701310528",
+            "target": "A379580648"
+        },
+        {
+            "properties": {
+                "id": "A268423315"
+            },
+            "source": "A701310528",
+            "target": "A841268421"
+        },
+        {
+            "properties": {
+                "id": "A215647408"
+            },
+            "source": "A510653387",
+            "target": "A773001169"
+        },
+        {
+            "properties": {
+                "id": "A312138648"
+            },
+            "source": "A510653387",
+            "target": "A979008728"
+        },
+        {
+            "properties": {
+                "id": "A708858429"
+            },
+            "source": "A297790022",
+            "target": "A253175383"
+        },
+        {
+            "properties": {
+                "id": "A695433408"
+            },
+            "source": "A810031029",
+            "target": "A471853968"
+        },
+        {
+            "properties": {
+                "id": "A836814903"
+            },
+            "source": "A821485960",
+            "target": "A916874937"
+        },
+        {
+            "properties": {
+                "id": "A024144500"
+            },
+            "source": "A242100364",
+            "target": "A924000931"
+        },
+        {
+            "properties": {
+                "id": "A867524256"
+            },
+            "source": "A242100364",
+            "target": "A412735258"
+        },
+        {
+            "properties": {
+                "id": "A846413650"
+            },
+            "source": "A642592591",
+            "target": "A275214309"
+        },
+        {
+            "properties": {
+                "id": "A744138025"
+            },
+            "source": "A642592591",
+            "target": "A038824610"
+        },
+        {
+            "properties": {
+                "id": "A066947732"
+            },
+            "source": "A637670333",
+            "target": "A578174087"
+        },
+        {
+            "properties": {
+                "id": "A417743195"
+            },
+            "source": "A637670333",
+            "target": "A592344075"
+        },
+        {
+            "properties": {
+                "id": "A079928432"
+            },
+            "source": "A349981428",
+            "target": "A421488430"
+        },
+        {
+            "properties": {
+                "id": "A102984560"
+            },
+            "source": "A991115243",
+            "target": "A733067611"
+        },
+        {
+            "properties": {
+                "id": "A231762219"
+            },
+            "source": "A991115243",
+            "target": "A453903439"
+        },
+        {
+            "properties": {
+                "id": "A621485312"
+            },
+            "source": "A991115243",
+            "target": "A858117320"
+        },
+        {
+            "properties": {
+                "id": "A600096729"
+            },
+            "source": "A505812016",
+            "target": "A293766726"
+        },
+        {
+            "properties": {
+                "id": "A341382760"
+            },
+            "source": "A505812016",
+            "target": "A114695271"
+        },
+        {
+            "properties": {
+                "id": "A943716984"
+            },
+            "source": "A713820223",
+            "target": "A688077820"
+        },
+        {
+            "properties": {
+                "id": "A469552827"
+            },
+            "source": "A354674195",
+            "target": "A094757081"
+        },
+        {
+            "properties": {
+                "id": "A323153634"
+            },
+            "source": "A354674195",
+            "target": "A821389021"
+        },
+        {
+            "properties": {
+                "id": "A559680295"
+            },
+            "source": "A568326561",
+            "target": "A400311646"
+        },
+        {
+            "properties": {
+                "id": "A567766533"
+            },
+            "source": "A803622910",
+            "target": "A453250052"
+        },
+        {
+            "properties": {
+                "id": "A748081948"
+            },
+            "source": "A803622910",
+            "target": "A581416513"
+        },
+        {
+            "properties": {
+                "id": "A282549681"
+            },
+            "source": "A803622910",
+            "target": "A221519289"
+        },
+        {
+            "properties": {
+                "id": "A278386602"
+            },
+            "source": "A843026032",
+            "target": "A656894318"
+        },
+        {
+            "properties": {
+                "id": "A872836052"
+            },
+            "source": "A843026032",
+            "target": "A853363348"
+        },
+        {
+            "properties": {
+                "id": "A888352795"
+            },
+            "source": "A585705261",
+            "target": "A320394726"
+        },
+        {
+            "properties": {
+                "id": "A435842215"
+            },
+            "source": "A526024026",
+            "target": "A887335917"
+        },
+        {
+            "properties": {
+                "id": "A390624768"
+            },
+            "source": "A526024026",
+            "target": "A281088794"
+        },
+        {
+            "properties": {
+                "id": "A408893211"
+            },
+            "source": "A549039637",
+            "target": "A239715440"
+        },
+        {
+            "properties": {
+                "id": "A442028644"
+            },
+            "source": "A995945431",
+            "target": "A666909629"
+        },
+        {
+            "properties": {
+                "id": "A953093974"
+            },
+            "source": "A995945431",
+            "target": "A752258720"
+        },
+        {
+            "properties": {
+                "id": "A080991754"
+            },
+            "source": "A815705451",
+            "target": "A483970013"
+        },
+        {
+            "properties": {
+                "id": "A306569207"
+            },
+            "source": "A815705451",
+            "target": "A640244924"
+        },
+        {
+            "properties": {
+                "id": "A834477589"
+            },
+            "source": "A058269403",
+            "target": "A605093043"
+        },
+        {
+            "properties": {
+                "id": "A263008663"
+            },
+            "source": "A132198872",
+            "target": "A330391681"
+        },
+        {
+            "properties": {
+                "id": "A656065751"
+            },
+            "source": "A132198872",
+            "target": "A317096227"
+        },
+        {
+            "properties": {
+                "id": "A415366564"
+            },
+            "source": "A495657091",
+            "target": "A069310281"
+        },
+        {
+            "properties": {
+                "id": "A881077172"
+            },
+            "source": "A558899047",
+            "target": "A289327588"
+        },
+        {
+            "properties": {
+                "id": "A067116406"
+            },
+            "source": "A558899047",
+            "target": "A312718580"
+        },
+        {
+            "properties": {
+                "id": "A174022311"
+            },
+            "source": "A558899047",
+            "target": "A758295791"
+        },
+        {
+            "properties": {
+                "id": "A807806261"
+            },
+            "source": "A903714126",
+            "target": "A395944733"
+        },
+        {
+            "properties": {
+                "id": "A411494604"
+            },
+            "source": "A903714126",
+            "target": "A768096000"
+        },
+        {
+            "source": "A918120079",
+            "target": "A892284210",
+            "properties": {
+                "id": "A147028088"
+            }
+        },
+        {
+            "source": "A918120079",
+            "target": "A735405260",
+            "properties": {
+                "id": "A587318613"
+            }
+        },
+        {
+            "source": "A810031029",
+            "target": "A155037370",
+            "properties": {
+                "id": "A892931524"
+            }
+        }
+    ],
+    "dependencyRelationships": [
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A350325393"
+            },
+            "source": "A999147798",
+            "target": "A163261059"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A336857755"
+            },
+            "source": "A918120079",
+            "target": "A999147798"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A445682816"
+            },
+            "source": "A229088928",
+            "target": "A918120079"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A353040767"
+            },
+            "source": "A701310528",
+            "target": "A229088928"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A091012491"
+            },
+            "source": "A510653387",
+            "target": "A229088928"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A008582902"
+            },
+            "source": "A297790022",
+            "target": "A918120079"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A263155178"
+            },
+            "source": "A810031029",
+            "target": "A297790022"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A121294292"
+            },
+            "source": "A821485960",
+            "target": "A810031029"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A432995269"
+            },
+            "source": "A242100364",
+            "target": "A821485960"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A554473095"
+            },
+            "source": "A642592591",
+            "target": "A821485960"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A201126726"
+            },
+            "source": "A637670333",
+            "target": "A821485960"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A722000640"
+            },
+            "source": "A349981428",
+            "target": "A637670333"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A208807048"
+            },
+            "source": "A349981428",
+            "target": "A642592591"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A566722984"
+            },
+            "source": "A349981428",
+            "target": "A242100364"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A655781954"
+            },
+            "source": "A991115243",
+            "target": "A349981428"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A079731577"
+            },
+            "source": "A505812016",
+            "target": "A349981428"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A390940531"
+            },
+            "source": "A713820223",
+            "target": "A637670333"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A417030185"
+            },
+            "source": "A354674195",
+            "target": "A713820223"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A828414708"
+            },
+            "source": "A568326561",
+            "target": "A354674195"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A075730945"
+            },
+            "source": "A803622910",
+            "target": "A568326561"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A813925807"
+            },
+            "source": "A843026032",
+            "target": "A568326561"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A492438280"
+            },
+            "source": "A526024026",
+            "target": "A585705261"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A220585340"
+            },
+            "source": "A549039637",
+            "target": "A995945431"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A065499231"
+            },
+            "source": "A815705451",
+            "target": "A549039637"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A576304283"
+            },
+            "source": "A058269403",
+            "target": "A815705451"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A176346570"
+            },
+            "source": "A132198872",
+            "target": "A058269403"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A752101056"
+            },
+            "source": "A495657091",
+            "target": "A815705451"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A808195808"
+            },
+            "source": "A558899047",
+            "target": "A495657091"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A064743865"
+            },
+            "source": "A903714126",
+            "target": "A495657091"
+        }
+    ],
+    "studies": [
+        {
+            "source": "Mirams et al. 2010",
+            "id": "A369543686",
+            "signalingPathway": "Wnt"
+        }
+    ]
+}

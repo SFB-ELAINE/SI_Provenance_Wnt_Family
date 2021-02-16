@@ -1,0 +1,1572 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A961217561",
+            "definitionId": "Research Question",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A235273826",
+            "definitionId": "Building Simulation Model",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A568628000",
+            "definitionId": "Qualitative Model",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A883210398",
+            "definitionId": "Assumption",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A316309250",
+            "definitionId": "Assumption",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A765708198",
+            "definitionId": "Assumption",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A857970962",
+            "definitionId": "Assumption",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A248797942",
+            "definitionId": "Simulation Model",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A099805097",
+            "definitionId": "Analyzing Simulation Model",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A878859688",
+            "definitionId": "Simulation Model",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A841745939",
+            "definitionId": "Simulation Model",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A909420632",
+            "definitionId": "Simulation Model",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A296021598",
+            "definitionId": "Simulation Model",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A747036257",
+            "definitionId": "Simulation Model",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A699791817",
+            "definitionId": "Simulation Model",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A937305403",
+            "definitionId": "Analyzing Simulation Model",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A642045136",
+            "definitionId": "Analyzing Simulation Model",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A775079651",
+            "definitionId": "Analyzing Simulation Model",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A339690279",
+            "definitionId": "Analyzing Simulation Model",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A575214481",
+            "definitionId": "Analyzing Simulation Model",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A772607549",
+            "definitionId": "Analyzing Simulation Model",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A839297709",
+            "definitionId": "Simulation Experiment",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A842979639",
+            "definitionId": "Simulation Data",
+            "studyId": "A411776186",
+            "relatedTo": "A839297709"
+        },
+        {
+            "id": "A896580116",
+            "definitionId": "Simulation Experiment",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A018205737",
+            "definitionId": "Simulation Data",
+            "studyId": "A411776186",
+            "relatedTo": "A896580116"
+        },
+        {
+            "id": "A316101623",
+            "definitionId": "Simulation Experiment",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A658147820",
+            "definitionId": "Simulation Data",
+            "studyId": "A411776186",
+            "relatedTo": "A316101623"
+        },
+        {
+            "id": "A818627274",
+            "definitionId": "Simulation Experiment",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A991408980",
+            "definitionId": "Simulation Data",
+            "studyId": "A411776186",
+            "relatedTo": "A818627274"
+        },
+        {
+            "id": "A748979416",
+            "definitionId": "Simulation Experiment",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A403361114",
+            "definitionId": "Simulation Data",
+            "studyId": "A411776186",
+            "relatedTo": "A748979416"
+        },
+        {
+            "id": "A451152187",
+            "definitionId": "Simulation Experiment",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A019346341",
+            "definitionId": "Simulation Data",
+            "studyId": "A411776186",
+            "relatedTo": "A451152187"
+        },
+        {
+            "id": "A036983965",
+            "definitionId": "Simulation Experiment",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A508276856",
+            "definitionId": "Simulation Data",
+            "studyId": "A411776186",
+            "relatedTo": "A036983965"
+        },
+        {
+            "id": "A210444826",
+            "definitionId": "Simulation Experiment",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A091965540",
+            "definitionId": "Simulation Data",
+            "studyId": "A411776186",
+            "relatedTo": "A210444826"
+        },
+        {
+            "id": "A877656971",
+            "definitionId": "Simulation Experiment",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A326949969",
+            "definitionId": "Simulation Data",
+            "studyId": "A411776186",
+            "relatedTo": "A877656971"
+        },
+        {
+            "id": "A089594090",
+            "definitionId": "Simulation Experiment",
+            "studyId": "A411776186"
+        },
+        {
+            "id": "A056824513",
+            "definitionId": "Simulation Data",
+            "studyId": "A411776186",
+            "relatedTo": "A089594090"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A564171163",
+            "key": "Description",
+            "value": "“test hypotheses concerning the regulation of this renewal process, to investigate how its dysfunction can lead to loss of homeostasis and neoplasia, and to identify potential therapeutic interventions”"
+        },
+        {
+            "id": "A933549393",
+            "key": "Description",
+            "value": "Development of different multiscale models"
+        },
+        {
+            "id": "A548221352",
+            "key": "Description",
+            "value": "“Multiscale model for the dynamics of a colonic crypt”"
+        },
+        {
+            "id": "A064921482",
+            "key": "Reference",
+            "value": "Figure 2"
+        },
+        {
+            "id": "A793181723",
+            "key": "Species",
+            "value": "APC (destruction) complex, axin, cell-cell adhesion molecules (e.g., α-catenin and/or E-cadherin), transcription factors (e.g., BCL9/Legless and/or TCF), β-catenin, retinoblastoma protein, transcription factor E2F1, transcription factor AP-1, cyclin D kinase complexes"
+        },
+        {
+            "id": "A595239024",
+            "key": "Compartments",
+            "value": "Cytosol"
+        },
+        {
+            "id": "A851857402",
+            "key": "Description",
+            "value": "“assume that the signal remains unchanged during a given simulation and that cell i detects only the Wnt level at its centre”"
+        },
+        {
+            "id": "A129440996",
+            "key": "Category",
+            "value": "Conservation Law (355)"
+        },
+        {
+            "id": "A262669047",
+            "key": "Description",
+            "value": "“suppose instead that it [strength of the spring connection] increases as the cell-cell contact length expands”"
+        },
+        {
+            "id": "A435218915",
+            "key": "Category",
+            "value": "Quantitative systems description parameter(2)"
+        },
+        {
+            "id": "A483670900",
+            "key": "Description",
+            "value": "“supposing instead that the drag coefficient is proportional to the surface area of contact between a cell and the underlying basement membrane”"
+        },
+        {
+            "id": "A060448897",
+            "key": "Category",
+            "value": "Quantitative systems description parameter(2)"
+        },
+        {
+            "id": "A293794611",
+            "key": "Description",
+            "value": "“direction of division is random in our simulations. However, daughter cells are now placed a fixed distance, L_0/2, in opposite directions from the mother cell, so that the centre of mass is conserved”"
+        },
+        {
+            "id": "A786199102",
+            "key": "Category",
+            "value": "Conservation Law (355)"
+        },
+        {
+            "id": "A857503028",
+            "key": "Description",
+            "value": "Meineke model (mechanical model with cell division, cell differentiation)"
+        },
+        {
+            "id": "A364841814",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A008482074",
+            "key": "Description",
+            "value": "Analysis of WCC model"
+        },
+        {
+            "id": "A910008527",
+            "key": "Description",
+            "value": "Wnt-dependent cell-cycle (WCC) model (models by van Leeuwen et al. + Swat et al.)"
+        },
+        {
+            "id": "A695484848",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A647315418",
+            "key": "Description",
+            "value": "Default multiscale crypt (DMC) model (Wnt profile + cell-cycle model + mechanical model)"
+        },
+        {
+            "id": "A015839424",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A845487270",
+            "key": "Description",
+            "value": "DMC model extended to include area-dependent drag"
+        },
+        {
+            "id": "A610224635",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A255475301",
+            "key": "Description",
+            "value": "DMC model extended to include edge-dependent adhesion"
+        },
+        {
+            "id": "A321668956",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A124384220",
+            "key": "Description",
+            "value": "DMC model extended to include both edge-dependent cell-cell adhesion and area-dependent drag"
+        },
+        {
+            "id": "A140108189",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A670064065",
+            "key": "Description",
+            "value": "DMC plus Wnt signalling model"
+        },
+        {
+            "id": "A741267405",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A789917181",
+            "key": "Description",
+            "value": "Analysis of DMC plus Wnt signalling model"
+        },
+        {
+            "id": "A402031969",
+            "key": "Description",
+            "value": "Analysis of DMC model"
+        },
+        {
+            "id": "A189984694",
+            "key": "Description",
+            "value": "Analysis of Meineke model"
+        },
+        {
+            "id": "A539866395",
+            "key": "Description",
+            "value": "Analysis of DMC model extended to include area-dependent drag"
+        },
+        {
+            "id": "A254535909",
+            "key": "Description",
+            "value": "Analysis of DMC model extended to include edge-dependent adhesion"
+        },
+        {
+            "id": "A203572119",
+            "key": "Description",
+            "value": "Analysis of DMC model extended to include both edge-dependent cell-cell adhesion and area-dependent drag"
+        },
+        {
+            "id": "A161881765",
+            "key": "Description",
+            "value": "“Predicted position-dependent cell-cycle times in the intestinal crypt” (WCC model)"
+        },
+        {
+            "id": "A264737068",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A469738843",
+            "key": "Category",
+            "value": "Time course analysis"
+        },
+        {
+            "id": "A221103999",
+            "key": "Description",
+            "value": "Simulation results of SE1"
+        },
+        {
+            "id": "A125417994",
+            "key": "Reference",
+            "value": "Figure 4a"
+        },
+        {
+            "id": "A968190870",
+            "key": "Description",
+            "value": "“Predicted position-dependent cell-cycle times in the intestinal crypt” (DMC +Wnt)"
+        },
+        {
+            "id": "A356574153",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A725503402",
+            "key": "Category",
+            "value": "Time course analysis"
+        },
+        {
+            "id": "A783009136",
+            "key": "Description",
+            "value": "Simulation results of SE2"
+        },
+        {
+            "id": "A184611382",
+            "key": "Reference",
+            "value": "Figure 4b"
+        },
+        {
+            "id": "A452637609",
+            "key": "Description",
+            "value": "“large number of in silico labelling-index (LI) experiments” to “calculate how the percentage of labelled cells varies with position along the dissection line” (DMC model)"
+        },
+        {
+            "id": "A575743496",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A315203067",
+            "key": "Category",
+            "value": "Time course analysis"
+        },
+        {
+            "id": "A844210995",
+            "key": "Description",
+            "value": "Simulation results of SE3"
+        },
+        {
+            "id": "A568417723",
+            "key": "Reference",
+            "value": "Figure 6"
+        },
+        {
+            "id": "A764030275",
+            "key": "Description",
+            "value": "“study expansion of a clonal population in silico” (SM1: Meineke model)"
+        },
+        {
+            "id": "A998472602",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A520178750",
+            "key": "Category",
+            "value": "Time course analysis"
+        },
+        {
+            "id": "A814906128",
+            "key": "Description",
+            "value": "Simulation results of SE4"
+        },
+        {
+            "id": "A405082323",
+            "key": "Reference",
+            "value": "Figure 7 columns I, II"
+        },
+        {
+            "id": "A021754530",
+            "key": "Description",
+            "value": "“study expansion of a clonal population in silico” (DMC model)"
+        },
+        {
+            "id": "A751899260",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A567019706",
+            "key": "Category",
+            "value": "Time course analysis"
+        },
+        {
+            "id": "A357698788",
+            "key": "Description",
+            "value": "Simulation results of SE5"
+        },
+        {
+            "id": "A955899031",
+            "key": "Reference",
+            "value": "Figure 7 columns III, IV"
+        },
+        {
+            "id": "A598181518",
+            "key": "Description",
+            "value": "“Dependence of cell size and geometry on cell adhesion”"
+        },
+        {
+            "id": "A646224721",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A625022053",
+            "key": "Category",
+            "value": "Parameter scan"
+        },
+        {
+            "id": "A228818828",
+            "key": "Description",
+            "value": "Simulation results of SE6"
+        },
+        {
+            "id": "A590122457",
+            "key": "Reference",
+            "value": "Figure 8"
+        },
+        {
+            "id": "A170365426",
+            "key": "Description",
+            "value": "“Dependence of cell size and geometry on cell adhesion”"
+        },
+        {
+            "id": "A249326148",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A327344669",
+            "key": "Category",
+            "value": "Time course analysis"
+        },
+        {
+            "id": "A927515239",
+            "key": "Description",
+            "value": "Simulation results of SE7"
+        },
+        {
+            "id": "A558767065",
+            "key": "Reference",
+            "value": "Figure 8"
+        },
+        {
+            "id": "A389972165",
+            "key": "Description",
+            "value": "“Dependence of cell size and geometry on cell adhesion.”"
+        },
+        {
+            "id": "A585511258",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A407109699",
+            "key": "Category",
+            "value": "Time course analysis"
+        },
+        {
+            "id": "A690611413",
+            "key": "Description",
+            "value": "Simulation results of SE8"
+        },
+        {
+            "id": "A600237613",
+            "key": "Reference",
+            "value": "Figure 8"
+        },
+        {
+            "id": "A206670063",
+            "key": "Description",
+            "value": "“Dependence of cell size and geometry on cell adhesion.”"
+        },
+        {
+            "id": "A513451564",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A663018311",
+            "key": "Category",
+            "value": "Time course analysis"
+        },
+        {
+            "id": "A318662882",
+            "key": "Description",
+            "value": "Simulation results of SE9"
+        },
+        {
+            "id": "A539109669",
+            "key": "Reference",
+            "value": "Figure 8"
+        },
+        {
+            "id": "A536143350",
+            "key": "Description",
+            "value": "“two equivalent crypt simulations, based on Hypotheses I (purely competitive scenario) and II (two molecular forms of β-catenin), respectively”"
+        },
+        {
+            "id": "A833685044",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A372060290",
+            "key": "Category",
+            "value": "Perturbation"
+        },
+        {
+            "id": "A086550089",
+            "key": "Description",
+            "value": "Simulation results of SE10"
+        },
+        {
+            "id": "A552287007",
+            "key": "Reference",
+            "value": "Figure 9"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A961217561",
+            "target": "A564171163",
+            "properties": {
+                "id": "A412022504"
+            }
+        },
+        {
+            "source": "A235273826",
+            "target": "A933549393",
+            "properties": {
+                "id": "A599232116"
+            }
+        },
+        {
+            "source": "A568628000",
+            "target": "A548221352",
+            "properties": {
+                "id": "A638917545"
+            }
+        },
+        {
+            "source": "A568628000",
+            "target": "A064921482",
+            "properties": {
+                "id": "A726435391"
+            }
+        },
+        {
+            "source": "A568628000",
+            "target": "A793181723",
+            "properties": {
+                "id": "A808201742"
+            }
+        },
+        {
+            "source": "A568628000",
+            "target": "A595239024",
+            "properties": {
+                "id": "A122908063"
+            }
+        },
+        {
+            "source": "A883210398",
+            "target": "A851857402",
+            "properties": {
+                "id": "A160315648"
+            }
+        },
+        {
+            "source": "A883210398",
+            "target": "A129440996",
+            "properties": {
+                "id": "A599431942"
+            }
+        },
+        {
+            "source": "A316309250",
+            "target": "A262669047",
+            "properties": {
+                "id": "A146144115"
+            }
+        },
+        {
+            "source": "A316309250",
+            "target": "A435218915",
+            "properties": {
+                "id": "A546175204"
+            }
+        },
+        {
+            "source": "A765708198",
+            "target": "A483670900",
+            "properties": {
+                "id": "A881198973"
+            }
+        },
+        {
+            "source": "A765708198",
+            "target": "A060448897",
+            "properties": {
+                "id": "A282584788"
+            }
+        },
+        {
+            "source": "A857970962",
+            "target": "A293794611",
+            "properties": {
+                "id": "A380671089"
+            }
+        },
+        {
+            "source": "A857970962",
+            "target": "A786199102",
+            "properties": {
+                "id": "A949586948"
+            }
+        },
+        {
+            "source": "A248797942",
+            "target": "A857503028",
+            "properties": {
+                "id": "A945786453"
+            }
+        },
+        {
+            "source": "A248797942",
+            "target": "A364841814",
+            "properties": {
+                "id": "A595490991"
+            }
+        },
+        {
+            "source": "A099805097",
+            "target": "A008482074",
+            "properties": {
+                "id": "A065758068"
+            }
+        },
+        {
+            "source": "A878859688",
+            "target": "A910008527",
+            "properties": {
+                "id": "A300412674"
+            }
+        },
+        {
+            "source": "A878859688",
+            "target": "A695484848",
+            "properties": {
+                "id": "A312516374"
+            }
+        },
+        {
+            "source": "A841745939",
+            "target": "A647315418",
+            "properties": {
+                "id": "A405173501"
+            }
+        },
+        {
+            "source": "A841745939",
+            "target": "A015839424",
+            "properties": {
+                "id": "A031431029"
+            }
+        },
+        {
+            "source": "A909420632",
+            "target": "A845487270",
+            "properties": {
+                "id": "A166813940"
+            }
+        },
+        {
+            "source": "A909420632",
+            "target": "A610224635",
+            "properties": {
+                "id": "A189098437"
+            }
+        },
+        {
+            "source": "A296021598",
+            "target": "A255475301",
+            "properties": {
+                "id": "A232104016"
+            }
+        },
+        {
+            "source": "A296021598",
+            "target": "A321668956",
+            "properties": {
+                "id": "A976401831"
+            }
+        },
+        {
+            "source": "A747036257",
+            "target": "A124384220",
+            "properties": {
+                "id": "A794235800"
+            }
+        },
+        {
+            "source": "A747036257",
+            "target": "A140108189",
+            "properties": {
+                "id": "A564702881"
+            }
+        },
+        {
+            "source": "A699791817",
+            "target": "A670064065",
+            "properties": {
+                "id": "A193343224"
+            }
+        },
+        {
+            "source": "A699791817",
+            "target": "A741267405",
+            "properties": {
+                "id": "A013491512"
+            }
+        },
+        {
+            "source": "A937305403",
+            "target": "A789917181",
+            "properties": {
+                "id": "A379836308"
+            }
+        },
+        {
+            "source": "A642045136",
+            "target": "A402031969",
+            "properties": {
+                "id": "A779843609"
+            }
+        },
+        {
+            "source": "A775079651",
+            "target": "A189984694",
+            "properties": {
+                "id": "A786453846"
+            }
+        },
+        {
+            "source": "A339690279",
+            "target": "A539866395",
+            "properties": {
+                "id": "A559407911"
+            }
+        },
+        {
+            "source": "A575214481",
+            "target": "A254535909",
+            "properties": {
+                "id": "A374993670"
+            }
+        },
+        {
+            "source": "A772607549",
+            "target": "A203572119",
+            "properties": {
+                "id": "A308719247"
+            }
+        },
+        {
+            "source": "A839297709",
+            "target": "A161881765",
+            "properties": {
+                "id": "A848764738"
+            }
+        },
+        {
+            "source": "A839297709",
+            "target": "A264737068",
+            "properties": {
+                "id": "A206736923"
+            }
+        },
+        {
+            "source": "A839297709",
+            "target": "A469738843",
+            "properties": {
+                "id": "A263994761"
+            }
+        },
+        {
+            "source": "A842979639",
+            "target": "A221103999",
+            "properties": {
+                "id": "A134999225"
+            }
+        },
+        {
+            "source": "A842979639",
+            "target": "A125417994",
+            "properties": {
+                "id": "A632706776"
+            }
+        },
+        {
+            "source": "A896580116",
+            "target": "A968190870",
+            "properties": {
+                "id": "A994499214"
+            }
+        },
+        {
+            "source": "A896580116",
+            "target": "A356574153",
+            "properties": {
+                "id": "A295336001"
+            }
+        },
+        {
+            "source": "A896580116",
+            "target": "A725503402",
+            "properties": {
+                "id": "A515734235"
+            }
+        },
+        {
+            "source": "A018205737",
+            "target": "A783009136",
+            "properties": {
+                "id": "A536886229"
+            }
+        },
+        {
+            "source": "A018205737",
+            "target": "A184611382",
+            "properties": {
+                "id": "A694430827"
+            }
+        },
+        {
+            "source": "A316101623",
+            "target": "A452637609",
+            "properties": {
+                "id": "A495719008"
+            }
+        },
+        {
+            "source": "A316101623",
+            "target": "A575743496",
+            "properties": {
+                "id": "A393085198"
+            }
+        },
+        {
+            "source": "A316101623",
+            "target": "A315203067",
+            "properties": {
+                "id": "A536416888"
+            }
+        },
+        {
+            "source": "A658147820",
+            "target": "A844210995",
+            "properties": {
+                "id": "A297188558"
+            }
+        },
+        {
+            "source": "A658147820",
+            "target": "A568417723",
+            "properties": {
+                "id": "A072932606"
+            }
+        },
+        {
+            "source": "A818627274",
+            "target": "A764030275",
+            "properties": {
+                "id": "A755373297"
+            }
+        },
+        {
+            "source": "A818627274",
+            "target": "A998472602",
+            "properties": {
+                "id": "A759503293"
+            }
+        },
+        {
+            "source": "A818627274",
+            "target": "A520178750",
+            "properties": {
+                "id": "A158823715"
+            }
+        },
+        {
+            "source": "A991408980",
+            "target": "A814906128",
+            "properties": {
+                "id": "A143572509"
+            }
+        },
+        {
+            "source": "A991408980",
+            "target": "A405082323",
+            "properties": {
+                "id": "A760998961"
+            }
+        },
+        {
+            "source": "A748979416",
+            "target": "A021754530",
+            "properties": {
+                "id": "A013928631"
+            }
+        },
+        {
+            "source": "A748979416",
+            "target": "A751899260",
+            "properties": {
+                "id": "A424043815"
+            }
+        },
+        {
+            "source": "A748979416",
+            "target": "A567019706",
+            "properties": {
+                "id": "A430447320"
+            }
+        },
+        {
+            "source": "A403361114",
+            "target": "A357698788",
+            "properties": {
+                "id": "A234657685"
+            }
+        },
+        {
+            "source": "A403361114",
+            "target": "A955899031",
+            "properties": {
+                "id": "A566610638"
+            }
+        },
+        {
+            "source": "A451152187",
+            "target": "A598181518",
+            "properties": {
+                "id": "A462919364"
+            }
+        },
+        {
+            "source": "A451152187",
+            "target": "A646224721",
+            "properties": {
+                "id": "A398253770"
+            }
+        },
+        {
+            "source": "A451152187",
+            "target": "A625022053",
+            "properties": {
+                "id": "A952942448"
+            }
+        },
+        {
+            "source": "A019346341",
+            "target": "A228818828",
+            "properties": {
+                "id": "A085325040"
+            }
+        },
+        {
+            "source": "A019346341",
+            "target": "A590122457",
+            "properties": {
+                "id": "A317658114"
+            }
+        },
+        {
+            "source": "A036983965",
+            "target": "A170365426",
+            "properties": {
+                "id": "A142546174"
+            }
+        },
+        {
+            "source": "A036983965",
+            "target": "A249326148",
+            "properties": {
+                "id": "A142187701"
+            }
+        },
+        {
+            "source": "A036983965",
+            "target": "A327344669",
+            "properties": {
+                "id": "A815873774"
+            }
+        },
+        {
+            "source": "A508276856",
+            "target": "A927515239",
+            "properties": {
+                "id": "A731903756"
+            }
+        },
+        {
+            "source": "A508276856",
+            "target": "A558767065",
+            "properties": {
+                "id": "A477052847"
+            }
+        },
+        {
+            "source": "A210444826",
+            "target": "A389972165",
+            "properties": {
+                "id": "A845633364"
+            }
+        },
+        {
+            "source": "A210444826",
+            "target": "A585511258",
+            "properties": {
+                "id": "A535000251"
+            }
+        },
+        {
+            "source": "A210444826",
+            "target": "A407109699",
+            "properties": {
+                "id": "A287945545"
+            }
+        },
+        {
+            "source": "A091965540",
+            "target": "A690611413",
+            "properties": {
+                "id": "A724975166"
+            }
+        },
+        {
+            "source": "A091965540",
+            "target": "A600237613",
+            "properties": {
+                "id": "A390716464"
+            }
+        },
+        {
+            "source": "A877656971",
+            "target": "A206670063",
+            "properties": {
+                "id": "A622811904"
+            }
+        },
+        {
+            "source": "A877656971",
+            "target": "A513451564",
+            "properties": {
+                "id": "A069987714"
+            }
+        },
+        {
+            "source": "A877656971",
+            "target": "A663018311",
+            "properties": {
+                "id": "A102160964"
+            }
+        },
+        {
+            "source": "A326949969",
+            "target": "A318662882",
+            "properties": {
+                "id": "A873968291"
+            }
+        },
+        {
+            "source": "A326949969",
+            "target": "A539109669",
+            "properties": {
+                "id": "A060550683"
+            }
+        },
+        {
+            "source": "A089594090",
+            "target": "A536143350",
+            "properties": {
+                "id": "A730661294"
+            }
+        },
+        {
+            "source": "A089594090",
+            "target": "A833685044",
+            "properties": {
+                "id": "A247469798"
+            }
+        },
+        {
+            "source": "A089594090",
+            "target": "A372060290",
+            "properties": {
+                "id": "A240181102"
+            }
+        },
+        {
+            "source": "A056824513",
+            "target": "A086550089",
+            "properties": {
+                "id": "A466596109"
+            }
+        },
+        {
+            "source": "A056824513",
+            "target": "A552287007",
+            "properties": {
+                "id": "A921771573"
+            }
+        }
+    ],
+    "dependencyRelationships": [
+        {
+            "source": "A235273826",
+            "target": "A961217561",
+            "properties": {
+                "id": "A831070340",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A235273826",
+            "target": "A568628000",
+            "properties": {
+                "id": "A440400551",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A235273826",
+            "target": "A883210398",
+            "properties": {
+                "id": "A507663776",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A235273826",
+            "target": "A316309250",
+            "properties": {
+                "id": "A989974592",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A235273826",
+            "target": "A765708198",
+            "properties": {
+                "id": "A103868430",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A235273826",
+            "target": "A857970962",
+            "properties": {
+                "id": "A988434071",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A248797942",
+            "target": "A235273826",
+            "properties": {
+                "id": "A196944681",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A878859688",
+            "target": "A235273826",
+            "properties": {
+                "id": "A345989528",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A099805097",
+            "target": "A878859688",
+            "properties": {
+                "id": "A651814159",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A841745939",
+            "target": "A235273826",
+            "properties": {
+                "id": "A364206822",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A909420632",
+            "target": "A235273826",
+            "properties": {
+                "id": "A830783075",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A296021598",
+            "target": "A235273826",
+            "properties": {
+                "id": "A436008296",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A747036257",
+            "target": "A235273826",
+            "properties": {
+                "id": "A117314237",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A699791817",
+            "target": "A235273826",
+            "properties": {
+                "id": "A972822657",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A937305403",
+            "target": "A699791817",
+            "properties": {
+                "id": "A186801910",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A642045136",
+            "target": "A841745939",
+            "properties": {
+                "id": "A961815371",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A775079651",
+            "target": "A248797942",
+            "properties": {
+                "id": "A900984798",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A339690279",
+            "target": "A909420632",
+            "properties": {
+                "id": "A583591371",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A575214481",
+            "target": "A296021598",
+            "properties": {
+                "id": "A922757876",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A772607549",
+            "target": "A747036257",
+            "properties": {
+                "id": "A892718289",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A839297709",
+            "target": "A099805097",
+            "properties": {
+                "id": "A778423550",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A842979639",
+            "target": "A099805097",
+            "properties": {
+                "id": "A406197009",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A896580116",
+            "target": "A937305403",
+            "properties": {
+                "id": "A127935903",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A018205737",
+            "target": "A937305403",
+            "properties": {
+                "id": "A005268942",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A316101623",
+            "target": "A642045136",
+            "properties": {
+                "id": "A186932429",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A658147820",
+            "target": "A642045136",
+            "properties": {
+                "id": "A975710397",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A818627274",
+            "target": "A775079651",
+            "properties": {
+                "id": "A011982361",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A991408980",
+            "target": "A775079651",
+            "properties": {
+                "id": "A548806808",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A748979416",
+            "target": "A642045136",
+            "properties": {
+                "id": "A721141078",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A403361114",
+            "target": "A642045136",
+            "properties": {
+                "id": "A426713893",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A451152187",
+            "target": "A642045136",
+            "properties": {
+                "id": "A327095924",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A019346341",
+            "target": "A642045136",
+            "properties": {
+                "id": "A760664586",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A036983965",
+            "target": "A339690279",
+            "properties": {
+                "id": "A365822812",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A508276856",
+            "target": "A339690279",
+            "properties": {
+                "id": "A049291757",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A210444826",
+            "target": "A575214481",
+            "properties": {
+                "id": "A571954922",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A091965540",
+            "target": "A575214481",
+            "properties": {
+                "id": "A964535142",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A877656971",
+            "target": "A772607549",
+            "properties": {
+                "id": "A168451119",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A326949969",
+            "target": "A772607549",
+            "properties": {
+                "id": "A204113980",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A089594090",
+            "target": "A099805097",
+            "properties": {
+                "id": "A442525806",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A056824513",
+            "target": "A099805097",
+            "properties": {
+                "id": "A076035787",
+                "type": "Generated by"
+            }
+        }
+    ],
+    "studies": [
+        {
+            "id": "A411776186",
+            "source": "van Leeuwen et al. 2009",
+            "signalingPathway": "Wnt"
+        }
+    ]
+}

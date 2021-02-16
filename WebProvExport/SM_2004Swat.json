@@ -1,0 +1,45 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A865972874",
+            "definitionId": "Simulation Model",
+            "studyId": "A057904848"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A146513600",
+            "key": "Description",
+            "value": "Cell-cycle model characterizes the dynamics of the cell-cycle control system"
+        },
+        {
+            "id": "A387797317",
+            "key": "Reference",
+            "value": "Not available"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A865972874",
+            "target": "A146513600",
+            "properties": {
+                "id": "A316455706"
+            }
+        },
+        {
+            "source": "A865972874",
+            "target": "A387797317",
+            "properties": {
+                "id": "A959235549"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A057904848",
+            "source": "Swat et al. 2004",
+            "signalingPathway": "Cell cycle"
+        }
+    ]
+}

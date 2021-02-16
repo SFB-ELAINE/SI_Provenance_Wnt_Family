@@ -1,0 +1,146 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A179141479",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A531597383"
+        },
+        {
+            "id": "A097963960",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A531597383"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A461706047",
+            "key": "Description",
+            "value": "Fz5 and LRP6 are both activated through WNT3a and internalized in a similar way and dynamics"
+        },
+        {
+            "id": "A794050841",
+            "key": "Reference",
+            "value": "Figure 1A and 3A"
+        },
+        {
+            "id": "A922525658",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A916067850",
+            "key": "Organism",
+            "value": "Human"
+        },
+        {
+            "id": "A026767491",
+            "key": "Organ/Tissue/Cell line",
+            "value": "HeLa S3 cells"
+        },
+        {
+            "id": "A497212094",
+            "key": "Description",
+            "value": "“Wnt-3a Induces LRP6 Internalization”"
+        },
+        {
+            "id": "A010906802",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A162620515",
+            "key": "Organism",
+            "value": "Human"
+        },
+        {
+            "id": "A829802535",
+            "key": "Reference",
+            "value": "Figure 1C"
+        },
+        {
+            "id": "A663301978",
+            "key": "Organ/Tissue/Cell line",
+            "value": "HeLa S3 cells"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A179141479",
+            "target": "A461706047",
+            "properties": {
+                "id": "A435424750"
+            }
+        },
+        {
+            "source": "A179141479",
+            "target": "A794050841",
+            "properties": {
+                "id": "A974499015"
+            }
+        },
+        {
+            "source": "A179141479",
+            "target": "A922525658",
+            "properties": {
+                "id": "A685093359"
+            }
+        },
+        {
+            "source": "A179141479",
+            "target": "A916067850",
+            "properties": {
+                "id": "A348015478"
+            }
+        },
+        {
+            "source": "A179141479",
+            "target": "A026767491",
+            "properties": {
+                "id": "A121554526"
+            }
+        },
+        {
+            "source": "A097963960",
+            "target": "A497212094",
+            "properties": {
+                "id": "A140397283"
+            }
+        },
+        {
+            "source": "A097963960",
+            "target": "A010906802",
+            "properties": {
+                "id": "A088357527"
+            }
+        },
+        {
+            "source": "A097963960",
+            "target": "A162620515",
+            "properties": {
+                "id": "A229524576"
+            }
+        },
+        {
+            "source": "A097963960",
+            "target": "A829802535",
+            "properties": {
+                "id": "A805485659"
+            }
+        },
+        {
+            "source": "A097963960",
+            "target": "A663301978",
+            "properties": {
+                "id": "A304080187"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A531597383",
+            "source": "Yamamoto et al. 2006",
+            "signalingPathway": "Wnt (wet-lab study)"
+        }
+    ]
+}

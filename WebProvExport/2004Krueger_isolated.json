@@ -1,0 +1,356 @@
+{
+    "provenanceNodes": [
+        {
+            "studyId": "A730612566",
+            "id": "A680949026",
+            "definitionId": "Research Question"
+        },
+        {
+            "studyId": "A730612566",
+            "id": "A823824531",
+            "definitionId": "Qualitative Model"
+        },
+        {
+            "studyId": "A730612566",
+            "id": "A583007374",
+            "definitionId": "Building Simulation Model"
+        },
+        {
+            "studyId": "A730612566",
+            "id": "A837373806",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A730612566",
+            "id": "A695747988",
+            "definitionId": "Analyzing Simulation Model"
+        },
+        {
+            "studyId": "A730612566",
+            "id": "A142483524",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A730612566",
+            "id": "A339471892",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A730612566",
+            "id": "A539546793",
+            "relatedTo": "A142483524",
+            "definitionId": "Simulation Data"
+        },
+        {
+            "studyId": "A730612566",
+            "id": "A968509255",
+            "relatedTo": "A339471892",
+            "definitionId": "Simulation Data"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A360090373",
+            "value": "How is the dimensionality of the Wnt model by Lee et al. 2003 reduced and how robust is the model?",
+            "key": "Description"
+        },
+        {
+            "id": "A523965278",
+            "value": "Reaction scheme for Wnt signaling pathway (slightly extended pathway model of Lee et al. 2003)",
+            "key": "Description"
+        },
+        {
+            "id": "A353833118",
+            "value": "Figure 1",
+            "key": "Reference"
+        },
+        {
+            "id": "A880970827",
+            "value": "Wnt, Dsh, GSK3, APC, β-catenin, Axin, TCF",
+            "key": "Species"
+        },
+        {
+            "id": "A849985109",
+            "value": "Cell extract (cytosol)",
+            "key": "Compartments"
+        },
+        {
+            "id": "A316883628",
+            "value": "Model reduction that leads to Lee et al. 2003 model (explanation of that model)",
+            "key": "Description"
+        },
+        {
+            "id": "A244549155",
+            "value": "“In summary, the original system of 15 differential equations involving 31 parameters (Table 1) is reduced to a system of 7 differential equations (Eqs. (12) to (15) and Eqs. (18) to (20)) and 8 simple algebraic equations (Eqs. (5a), (7) to (11)) with only 19 parameters.”",
+            "key": "Description"
+        },
+        {
+            "id": "A557274043",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A735997652",
+            "value": "Analyzing dependencies of the β-catenin signal",
+            "key": "Description"
+        },
+        {
+            "id": "A195176144",
+            "value": "“Showing how the β-catenin signal depends on the duration of a transient stimulation of the pathway by its ligand Wnt”",
+            "key": "Description"
+        },
+        {
+            "id": "A971526578",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A353276764",
+            "value": "Parameter scan",
+            "key": "Category"
+        },
+        {
+            "id": "A042142416",
+            "value": "“Showing how the β-catenin signal depends on the characteristic time $\\tau_{PD}$ of the phosphorylation/dephosphorylationcycle of axin and APC”",
+            "key": "Description"
+        },
+        {
+            "id": "A311799381",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A445821213",
+            "value": "Parameter scan",
+            "key": "Category"
+        },
+        {
+            "id": "A147756856",
+            "value": "Simulation results of SE1",
+            "key": "Description"
+        },
+        {
+            "id": "A245957340",
+            "value": "Figure 3 [A]",
+            "key": "Reference"
+        },
+        {
+            "id": "A430706042",
+            "value": "Simulation results of SE2",
+            "key": "Description"
+        },
+        {
+            "id": "A617712571",
+            "value": "Figure 3[B]",
+            "key": "Reference"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "properties": {
+                "id": "A194371586"
+            },
+            "source": "A680949026",
+            "target": "A360090373"
+        },
+        {
+            "properties": {
+                "id": "A803154406"
+            },
+            "source": "A823824531",
+            "target": "A849985109"
+        },
+        {
+            "properties": {
+                "id": "A547894775"
+            },
+            "source": "A823824531",
+            "target": "A880970827"
+        },
+        {
+            "properties": {
+                "id": "A851292672"
+            },
+            "source": "A823824531",
+            "target": "A353833118"
+        },
+        {
+            "properties": {
+                "id": "A710293088"
+            },
+            "source": "A823824531",
+            "target": "A523965278"
+        },
+        {
+            "properties": {
+                "id": "A168578518"
+            },
+            "source": "A583007374",
+            "target": "A316883628"
+        },
+        {
+            "properties": {
+                "id": "A732331663"
+            },
+            "source": "A837373806",
+            "target": "A557274043"
+        },
+        {
+            "properties": {
+                "id": "A793594959"
+            },
+            "source": "A837373806",
+            "target": "A244549155"
+        },
+        {
+            "properties": {
+                "id": "A438420591"
+            },
+            "source": "A695747988",
+            "target": "A735997652"
+        },
+        {
+            "properties": {
+                "id": "A832766427"
+            },
+            "source": "A142483524",
+            "target": "A353276764"
+        },
+        {
+            "properties": {
+                "id": "A672841328"
+            },
+            "source": "A142483524",
+            "target": "A971526578"
+        },
+        {
+            "properties": {
+                "id": "A998457989"
+            },
+            "source": "A142483524",
+            "target": "A195176144"
+        },
+        {
+            "properties": {
+                "id": "A376806423"
+            },
+            "source": "A339471892",
+            "target": "A445821213"
+        },
+        {
+            "properties": {
+                "id": "A219209175"
+            },
+            "source": "A339471892",
+            "target": "A311799381"
+        },
+        {
+            "properties": {
+                "id": "A070735443"
+            },
+            "source": "A339471892",
+            "target": "A042142416"
+        },
+        {
+            "properties": {
+                "id": "A824607812"
+            },
+            "source": "A539546793",
+            "target": "A245957340"
+        },
+        {
+            "properties": {
+                "id": "A245617290"
+            },
+            "source": "A539546793",
+            "target": "A147756856"
+        },
+        {
+            "properties": {
+                "id": "A964135380"
+            },
+            "source": "A968509255",
+            "target": "A617712571"
+        },
+        {
+            "properties": {
+                "id": "A932715860"
+            },
+            "source": "A968509255",
+            "target": "A430706042"
+        }
+    ],
+    "dependencyRelationships": [
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A989040545"
+            },
+            "source": "A583007374",
+            "target": "A680949026"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A262086858"
+            },
+            "source": "A583007374",
+            "target": "A823824531"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A675530467"
+            },
+            "source": "A837373806",
+            "target": "A583007374"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A037202701"
+            },
+            "source": "A695747988",
+            "target": "A837373806"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A785689530"
+            },
+            "source": "A142483524",
+            "target": "A695747988"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A790934156"
+            },
+            "source": "A339471892",
+            "target": "A695747988"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A717027994"
+            },
+            "source": "A539546793",
+            "target": "A695747988"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A709792867"
+            },
+            "source": "A968509255",
+            "target": "A695747988"
+        }
+    ],
+    "studies": [
+        {
+            "source": "Krüger and Heinrich 2004",
+            "id": "A730612566",
+            "signalingPathway": "Wnt"
+        }
+    ]
+}

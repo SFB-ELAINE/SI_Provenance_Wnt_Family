@@ -1,0 +1,107 @@
+strict digraph {
+  
+  graph [layout = circo, overlap = false]
+
+  node [shape = box, style = filled, color = black, margin = 0.3]
+  
+  # Colors
+  # "#8c510a" -> empty
+  # "#d8b365" -> MAPK/ERK + (PI3K/Akt) -> Kim, Padala
+  # "#f6e8c3" -> Notch + (MAPK/ERK) -> Rodríguez-González, Goldbeter, Wang
+  # "#c7eae5" -> E-cadherin + (cell cycle) - > van Leeuwen 2009, Chen
+  # "#5ab4ac" -> Cell cycle -> Mazemondet
+  # "#01665e" -> ROS -> Haack 2015, Stahlke
+  
+  node [fillcolor = grey,  penwidth=2, color = black]
+  "Lee et al. 2003"
+
+  node [fillcolor = grey]
+  "Krüger and\nHeinrich 2004"
+  
+  node [fillcolor = grey]
+  "Cho et al. 2006"
+  
+  node [fillcolor = grey]
+  "Sick et al. 2006"
+  
+  node [fillcolor = "#d8b365"]
+  "Kim et al. 2007"
+  
+  node [fillcolor = "#f6e8c3"]
+  "Rodríguez-González\net al. 2007"
+  
+  node [fillcolor = grey]
+  "van Leeuwen\net al. 2007"
+  
+  node [fillcolor = grey]
+  "Wawra et al. 2007"
+  
+  node [fillcolor = "#f6e8c3"]
+  "Goldbeter et\nPourquié 2008"
+  
+  node [fillcolor = "#c7eae5"]
+  "van Leeuwen\net al. 2009"
+  
+  node [fillcolor = grey]
+  "Mirams et al. 2010"
+  
+  node [fillcolor = grey]
+  "Kogan et al. 2012"
+  
+  node [fillcolor = "#5ab4ac"]
+  "Mazemondet\net al. 2012"
+  
+  node [fillcolor = "#f6e8c3"]
+  "Wang et al. 2013"
+  
+  node [fillcolor = "#c7eae5"]
+  "Chen et al. 2014"
+  
+  node [fillcolor = "#01665e"]
+  "Haack et al. 2015"
+  
+  node [fillcolor = "#d8b365"]
+  "Padala et al. 2017"
+  
+  node [fillcolor = grey]
+  "Haack et al. 2020"
+  
+  node [fillcolor = "#01665e"]
+  "Staehlke et al. 2020"
+  
+  node [fillcolor = white,  penwidth=1,  color = grey]
+  "Bafico et al. 2001" "Bernard et al. 2006" "Bourhis et al. 2010"
+  "Brown et al. 2004" "Cho et al. 2003" "Dajani et al. 2003"
+  "Dequeant et al. 2006" "Galli et al. 2006" "Goh and Sorkin 2013"
+  "Hannoush 2008" "Hernandez et al. 2012" "Hirata et al. 2004"
+  "Howard et al. 2001" "Jho et al. 2002" "Kim et al. 2006"
+  "Kim et al. 2013" "Krieghoff et al. 2006" "Lee et al. 2001"
+  "Lewis 2003" "Mazemondet\net al. 2011" "Meineke et al. 2001"
+  "Monk 2003" "Orton et al. 2009" "Pralle et al. 2000" "Prior et al. 2003"
+  "Rida et al. 2004" "Sakane et al. 2010" "Salic et al. 2000"
+  "Swat et al. 2004" "Wawrzak et al. 2007" "Yamamoto et al. 2006"
+  "Yamamoto et al. 2008"
+  
+  
+  edge [color = black]
+    "Chen et al. 2014" -> {"Lee et al. 2003" "Hernandez et al. 2012" "Kim et al. 2013"}
+  "Cho et al. 2006" -> {"Lee et al. 2003"}
+  "Goldbeter et\nPourquié 2008" -> {"Dequeant et al. 2006" "Krüger and\nHeinrich 2004" "Lee et al. 2003" "Monk 2003" "Rodríguez-González\net al. 2007"}
+  "Haack et al. 2015" -> {"Bafico et al. 2001" "Krieghoff et al. 2006" "Hannoush 2008" "Lee et al. 2003" "Mazemondet\net al. 2012" "Pralle et al. 2000" "Prior et al. 2003"}
+  "Haack et al. 2020" -> {"Bafico et al. 2001" "Bourhis et al. 2010" "Goh and Sorkin 2013" "Haack et al. 2015" "Howard et al. 2001" "Mazemondet\net al. 2012" "Sakane et al. 2010" "Yamamoto et al. 2006" "Yamamoto et al. 2008"}
+  "Kim et al. 2007" -> {"Cho et al. 2003" "Cho et al. 2006"}
+  "Kogan et al. 2012" -> {"Galli et al. 2006" "Hannoush 2008" "Lee et al. 2003" "Wawrzak et al. 2007"}
+  "Krüger and\nHeinrich 2004" -> {"Lee et al. 2003"}
+  "Lee et al. 2003" -> {"Lee et al. 2001" "Salic et al. 2000" "Dajani et al. 2003"}
+  "Mazemondet\net al. 2012" -> {"Lee et al. 2003" "Mazemondet\net al. 2011"}
+  "Mirams et al. 2010" -> {"Cho et al. 2006" "Lee et al. 2003"}
+  "Padala et al. 2017" -> {"Brown et al. 2004" "Kim et al. 2007" "Orton et al. 2009"}
+  "Rodríguez-González\net al. 2007" -> {"Bernard et al. 2006" "Hirata et al. 2004" "Lewis 2003" "Monk 2003" "Rida et al. 2004"}
+  "Sick et al. 2006" -> {}
+  "Staehlke et al. 2020" -> {"Haack et al. 2015"}
+  "van Leeuwen\net al. 2007" -> {"Cho et al. 2006" "Lee et al. 2003"}
+  "van Leeuwen\net al. 2009" -> {"van Leeuwen\net al. 2007" "Meineke et al. 2001" "Swat et al. 2004"}
+  "Wang et al. 2013" -> {"Dequeant et al. 2006" "Goldbeter et\nPourquié 2008"}
+  "Wawra et al. 2007" -> {"Cho et al. 2006" "Jho et al. 2002" "Kim et al. 2006" "Lee et al. 2003"}
+  
+}

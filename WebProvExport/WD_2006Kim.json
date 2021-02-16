@@ -1,0 +1,81 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A925571989",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A596593815"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A743292570",
+            "key": "Description",
+            "value": "“Mediator is recruited to Wnt-responsive genes in a β-catenin-dependent manner”"
+        },
+        {
+            "id": "A434977278",
+            "key": "Reference",
+            "value": "Figure 2"
+        },
+        {
+            "id": "A557094367",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A954452094",
+            "key": "Organism",
+            "value": "Human"
+        },
+        {
+            "id": "A598367381",
+            "key": "Organ/Tissue/Cell line",
+            "value": "293Top cells (from HEK kidney embryonic epithelial cell line 293)"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A925571989",
+            "target": "A743292570",
+            "properties": {
+                "id": "A172009217"
+            }
+        },
+        {
+            "source": "A925571989",
+            "target": "A434977278",
+            "properties": {
+                "id": "A125825223"
+            }
+        },
+        {
+            "source": "A925571989",
+            "target": "A557094367",
+            "properties": {
+                "id": "A965712425"
+            }
+        },
+        {
+            "source": "A925571989",
+            "target": "A954452094",
+            "properties": {
+                "id": "A023566237"
+            }
+        },
+        {
+            "source": "A925571989",
+            "target": "A598367381",
+            "properties": {
+                "id": "A527085174"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A596593815",
+            "source": "Kim et al. 2006",
+            "signalingPathway": "Wnt (wet-lab study)"
+        }
+    ]
+}

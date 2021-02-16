@@ -1,0 +1,81 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A759057735",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A538723561"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A001188801",
+            "key": "Description",
+            "value": "“Binding affinities and kinetic constants for various Wnts and Dkk1”"
+        },
+        {
+            "id": "A290335598",
+            "key": "Reference",
+            "value": "Table 1"
+        },
+        {
+            "id": "A428049954",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A968210051",
+            "key": "Organism",
+            "value": "Mouse"
+        },
+        {
+            "id": "A078456455",
+            "key": "Organ/Tissue/Cell line",
+            "value": "Fibroblast L-cells"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A759057735",
+            "target": "A001188801",
+            "properties": {
+                "id": "A444483671"
+            }
+        },
+        {
+            "source": "A759057735",
+            "target": "A290335598",
+            "properties": {
+                "id": "A196512156"
+            }
+        },
+        {
+            "source": "A759057735",
+            "target": "A428049954",
+            "properties": {
+                "id": "A655919306"
+            }
+        },
+        {
+            "source": "A759057735",
+            "target": "A968210051",
+            "properties": {
+                "id": "A379491479"
+            }
+        },
+        {
+            "source": "A759057735",
+            "target": "A078456455",
+            "properties": {
+                "id": "A406905255"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A538723561",
+            "source": "Bourhis et al. 2010",
+            "signalingPathway": "Wnt (wet-lab study)"
+        }
+    ]
+}

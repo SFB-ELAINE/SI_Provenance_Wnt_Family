@@ -1,0 +1,45 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A756736599",
+            "definitionId": "Simulation Model",
+            "studyId": "A209424996"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A740786574",
+            "key": "Description",
+            "value": "Mechanical model describing the attachment of cells to underlying substrate and the attractive/repulsive forces between cells which determines cell migration as well as cell division and cell differentiation"
+        },
+        {
+            "id": "A354863030",
+            "key": "Reference",
+            "value": "Not available"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A756736599",
+            "target": "A740786574",
+            "properties": {
+                "id": "A788528310"
+            }
+        },
+        {
+            "source": "A756736599",
+            "target": "A354863030",
+            "properties": {
+                "id": "A215149535"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A209424996",
+            "source": "Meineke et al. 2001",
+            "signalingPathway": "Cell migration"
+        }
+    ]
+}

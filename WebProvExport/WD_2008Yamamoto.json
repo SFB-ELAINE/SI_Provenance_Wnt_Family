@@ -1,0 +1,81 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A901923662",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A521172169"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A298380979",
+            "key": "Description",
+            "value": "Number of Dkk"
+        },
+        {
+            "id": "A105598975",
+            "key": "Reference",
+            "value": "Figure ?"
+        },
+        {
+            "id": "A132952029",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A183104062",
+            "key": "Organ/Tissue/Cell line",
+            "value": "HEK293 or HeLaS3 cells"
+        },
+        {
+            "id": "A581948697",
+            "key": "Organism",
+            "value": "Human"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A901923662",
+            "target": "A298380979",
+            "properties": {
+                "id": "A474959347"
+            }
+        },
+        {
+            "source": "A901923662",
+            "target": "A105598975",
+            "properties": {
+                "id": "A783458290"
+            }
+        },
+        {
+            "source": "A901923662",
+            "target": "A132952029",
+            "properties": {
+                "id": "A842434355"
+            }
+        },
+        {
+            "source": "A901923662",
+            "target": "A183104062",
+            "properties": {
+                "id": "A011791582"
+            }
+        },
+        {
+            "source": "A901923662",
+            "target": "A581948697",
+            "properties": {
+                "id": "A538697061"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A521172169",
+            "source": "Yamamoto et al. 2008",
+            "signalingPathway": "Dkk"
+        }
+    ]
+}

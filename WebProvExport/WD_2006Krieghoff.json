@@ -1,0 +1,81 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A837849939",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A978325600"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A836931810",
+            "key": "Description",
+            "value": "β-catenin shuttles efficiently between nucleus and cytoplasm and is mobile in both compartments"
+        },
+        {
+            "id": "A021443274",
+            "key": "Reference",
+            "value": "Figure 1"
+        },
+        {
+            "id": "A642553447",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A468683398",
+            "key": "Organism",
+            "value": "Human"
+        },
+        {
+            "id": "A314052442",
+            "key": "Organ/Tissue/Cell line",
+            "value": "Embryonic kidney cells, HEK293T"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A837849939",
+            "target": "A836931810",
+            "properties": {
+                "id": "A230395900"
+            }
+        },
+        {
+            "source": "A837849939",
+            "target": "A021443274",
+            "properties": {
+                "id": "A923822328"
+            }
+        },
+        {
+            "source": "A837849939",
+            "target": "A642553447",
+            "properties": {
+                "id": "A111116403"
+            }
+        },
+        {
+            "source": "A837849939",
+            "target": "A468683398",
+            "properties": {
+                "id": "A353784403"
+            }
+        },
+        {
+            "source": "A837849939",
+            "target": "A314052442",
+            "properties": {
+                "id": "A658440776"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A978325600",
+            "source": "Krieghoff et al. 2006",
+            "signalingPathway": "Wnt (wet-lab study)"
+        }
+    ]
+}

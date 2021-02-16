@@ -1,0 +1,806 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A374725867",
+            "definitionId": "Research Question",
+            "studyId": "A578797256"
+        },
+        {
+            "id": "A613798083",
+            "definitionId": "Building Simulation Model",
+            "studyId": "A578797256"
+        },
+        {
+            "id": "A994834428",
+            "definitionId": "Research Question",
+            "studyId": "A578797256"
+        },
+        {
+            "id": "A842915365",
+            "definitionId": "Research Question",
+            "studyId": "A578797256"
+        },
+        {
+            "id": "A991283278",
+            "definitionId": "Research Question",
+            "studyId": "A578797256"
+        },
+        {
+            "id": "A263872271",
+            "definitionId": "Qualitative Model",
+            "studyId": "A578797256"
+        },
+        {
+            "id": "A965717444",
+            "definitionId": "Assumption",
+            "studyId": "A578797256"
+        },
+        {
+            "id": "A787449500",
+            "definitionId": "Assumption",
+            "studyId": "A578797256"
+        },
+        {
+            "id": "A830569093",
+            "definitionId": "Assumption",
+            "studyId": "A578797256"
+        },
+        {
+            "id": "A530025206",
+            "definitionId": "Simulation Model",
+            "studyId": "A578797256"
+        },
+        {
+            "id": "A259791180",
+            "definitionId": "Simulation Model",
+            "studyId": "A578797256"
+        },
+        {
+            "id": "A561654869",
+            "definitionId": "Simulation Model",
+            "studyId": "A578797256"
+        },
+        {
+            "id": "A803294927",
+            "definitionId": "Analyzing Simulation Model",
+            "studyId": "A578797256"
+        },
+        {
+            "id": "A965341374",
+            "definitionId": "Simulation Experiment",
+            "studyId": "A578797256"
+        },
+        {
+            "id": "A586307154",
+            "definitionId": "Simulation Data",
+            "studyId": "A578797256",
+            "relatedTo": "A965341374"
+        },
+        {
+            "id": "A122696597",
+            "definitionId": "Building Simulation Model",
+            "studyId": "A578797256"
+        },
+        {
+            "id": "A477169395",
+            "definitionId": "Simulation Model",
+            "studyId": "A578797256"
+        },
+        {
+            "id": "A791807169",
+            "definitionId": "Analyzing Simulation Model",
+            "studyId": "A578797256"
+        },
+        {
+            "id": "A878744253",
+            "definitionId": "Simulation Experiment",
+            "studyId": "A578797256"
+        },
+        {
+            "id": "A127431523",
+            "definitionId": "Simulation Data",
+            "studyId": "A578797256",
+            "relatedTo": "A878744253"
+        },
+        {
+            "id": "A504143431",
+            "definitionId": "Simulation Experiment",
+            "studyId": "A578797256"
+        },
+        {
+            "id": "A657834195",
+            "definitionId": "Simulation Data",
+            "studyId": "A578797256",
+            "relatedTo": "A504143431"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A999261710",
+            "key": "Description",
+            "value": "“Can the coupling of the Notch, Wnt and FGF oscillators result in their synchronization?”"
+        },
+        {
+            "id": "A974244553",
+            "key": "Description",
+            "value": "Development of three independent models for three signaling pathways"
+        },
+        {
+            "id": "A350909809",
+            "key": "Description",
+            "value": "“Does synchronization require that the autonomous periods of the three oscillating pathways, i.e. their period in the absence of coupling, be sufficiently close to each other?”"
+        },
+        {
+            "id": "A275152791",
+            "key": "Description",
+            "value": "“Can quasiperiodic, complex periodic or aperiodic (i.e., chaotic) oscillations result from the coupling of the three oscillating pathways when their autonomous periods are too far apart from each other?”"
+        },
+        {
+            "id": "A297098951",
+            "key": "Description",
+            "value": "“Is mutual inhibition required to explain the antiphase oscillations in the Wnt and in the FGF/Notch pathways, or can this phase relationship be obtained in other conditions?”"
+        },
+        {
+            "id": "A528551894",
+            "key": "Description",
+            "value": "“Our approach at this stage is qualitative rather than quantitative, as we wish to explore the dynamical consequences of negative feedback regulation within each pathway and of the coupling between the Wnt, Notch and FGF pathways without trying to use experimentally established parameter values, many of which have yet to be determined”"
+        },
+        {
+            "id": "A107650107",
+            "key": "Reference",
+            "value": "Figure 2"
+        },
+        {
+            "id": "A756649387",
+            "key": "Species",
+            "value": "Notch, Lunatic Fringe, Lunatic fringe mRNA, Axin2, Axin2 mRNA, β-catenin, Gsk3, Ras, ERK, transcription factor X, MKP3/Dusp6, MKP3/Dusp6 mRNA"
+        },
+        {
+            "id": "A286315508",
+            "key": "Compartments",
+            "value": "Cytosol, nucleus"
+        },
+        {
+            "id": "A896019507",
+            "key": "Description",
+            "value": "“we do not consider Wnt explicitly but assume that a constant level of Wnt corresponds to a constant level of Dsh, which is treated as a parameter”"
+        },
+        {
+            "id": "A336470333",
+            "key": "Category",
+            "value": "Equivalence (392)"
+        },
+        {
+            "id": "A153275521",
+            "key": "Description",
+            "value": "“we do not consider Wnt explicitly but assume that a constant level of Wnt corresponds to a constant level of Dsh, which is treated as a parameter”"
+        },
+        {
+            "id": "A766536190",
+            "key": "Category",
+            "value": "Omitted process (397)"
+        },
+        {
+            "id": "A346157854",
+            "key": "Description",
+            "value": "“coupling the Wnt and FGF pathways, we assume that the expression of the gene Axin2 in the Wnt pathway is induced not only by β-catenin but also by the transcription factor X activated in the FGF pathway”"
+        },
+        {
+            "id": "A113356302",
+            "key": "Category",
+            "value": "Transcription (183)"
+        },
+        {
+            "id": "A071259760",
+            "key": "Description",
+            "value": "“temporal evolution of the Notch module” → Eqs. (A.1)(A.5)"
+        },
+        {
+            "id": "A104046289",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A210849307",
+            "key": "Description",
+            "value": "“temporal evolution of the Wnt module” → Eqs. (A.6)-(A.11)"
+        },
+        {
+            "id": "A046258758",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A037795768",
+            "key": "Description",
+            "value": "“temporal evolution of the FGF module” → Eqs. (A.12)(A.16)"
+        },
+        {
+            "id": "A956165723",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A675844422",
+            "key": "Description",
+            "value": "Analysis of Wnt sub module"
+        },
+        {
+            "id": "A285766667",
+            "key": "Description",
+            "value": "“For an appropriate set of parameter values, numerical integration of the kinetic equations Eqs. (A.6)(A.11) shows that sustained oscillations in all six variables can occur in a given range of (constant) Wnt levels. The Axin2 and Gsk3 proteins oscillate out of phase.”"
+        },
+        {
+            "id": "A705893470",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A174454286",
+            "key": "Category",
+            "value": "Time course analysis"
+        },
+        {
+            "id": "A185674322",
+            "key": "Description",
+            "value": "Simulation results of SE1"
+        },
+        {
+            "id": "A851207145",
+            "key": "Reference",
+            "value": "Figure 3"
+        },
+        {
+            "id": "A571744893",
+            "key": "Description",
+            "value": "Coupling of three models"
+        },
+        {
+            "id": "A396402170",
+            "key": "Description",
+            "value": "“coupled system formed by the Wnt, Notch and FGF modules” → Eqs. (A.1)(A.16) subjected to the changes specified by Eqs. (A.17) and (A.18)”"
+        },
+        {
+            "id": "A921505913",
+            "key": "Reference",
+            "value": "https://www.ebi.ac.uk/biomodels/BIOMD0000000201"
+        },
+        {
+            "id": "A832350486",
+            "key": "Description",
+            "value": "Analysis of system of coupled models"
+        },
+        {
+            "id": "A564331204",
+            "key": "Description",
+            "value": "“sustained oscillations are again obtained, but in contrast to the case of independent oscillations when the three signaling pathways are uncoupled and oscillate each at their own pace”"
+        },
+        {
+            "id": "A419745916",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A284920553",
+            "key": "Category",
+            "value": "Time course analysis"
+        },
+        {
+            "id": "A976850490",
+            "key": "Description",
+            "value": "Simulation results of SE2"
+        },
+        {
+            "id": "A617837153",
+            "key": "Reference",
+            "value": "Figure 4"
+        },
+        {
+            "id": "A616297684",
+            "key": "Description",
+            "value": "“kinetic equations for the FGF, Wnt and Notch signaling modules were multiplied by scaling parameters η, ε, and θ so that the relative periods of the three oscillators could easily be changed”"
+        },
+        {
+            "id": "A929788086",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A521435606",
+            "key": "Category",
+            "value": "Parameter scan"
+        },
+        {
+            "id": "A059683140",
+            "key": "Description",
+            "value": "Simulation results of SE3"
+        },
+        {
+            "id": "A631300359",
+            "key": "Reference",
+            "value": "“When oscillations in the Wnt, Notch and FGF signaling pathways synchronize, their phase relationships closely depend on the nature of the cross-talk between the three pathways. Also influencing the phase relationships are the relative values of the autonomous period of each of the three oscillating pathways prior to coupling”"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A374725867",
+            "target": "A999261710",
+            "properties": {
+                "id": "A215328628"
+            }
+        },
+        {
+            "source": "A613798083",
+            "target": "A974244553",
+            "properties": {
+                "id": "A784889302"
+            }
+        },
+        {
+            "source": "A994834428",
+            "target": "A350909809",
+            "properties": {
+                "id": "A406853985"
+            }
+        },
+        {
+            "source": "A842915365",
+            "target": "A275152791",
+            "properties": {
+                "id": "A918457463"
+            }
+        },
+        {
+            "source": "A991283278",
+            "target": "A297098951",
+            "properties": {
+                "id": "A126016606"
+            }
+        },
+        {
+            "source": "A263872271",
+            "target": "A528551894",
+            "properties": {
+                "id": "A275062265"
+            }
+        },
+        {
+            "source": "A263872271",
+            "target": "A107650107",
+            "properties": {
+                "id": "A347059345"
+            }
+        },
+        {
+            "source": "A263872271",
+            "target": "A756649387",
+            "properties": {
+                "id": "A118364840"
+            }
+        },
+        {
+            "source": "A263872271",
+            "target": "A286315508",
+            "properties": {
+                "id": "A429661862"
+            }
+        },
+        {
+            "source": "A965717444",
+            "target": "A896019507",
+            "properties": {
+                "id": "A882613533"
+            }
+        },
+        {
+            "source": "A965717444",
+            "target": "A336470333",
+            "properties": {
+                "id": "A480720636"
+            }
+        },
+        {
+            "source": "A787449500",
+            "target": "A153275521",
+            "properties": {
+                "id": "A683950598"
+            }
+        },
+        {
+            "source": "A787449500",
+            "target": "A766536190",
+            "properties": {
+                "id": "A280563432"
+            }
+        },
+        {
+            "source": "A830569093",
+            "target": "A346157854",
+            "properties": {
+                "id": "A920680142"
+            }
+        },
+        {
+            "source": "A830569093",
+            "target": "A113356302",
+            "properties": {
+                "id": "A376613293"
+            }
+        },
+        {
+            "source": "A530025206",
+            "target": "A071259760",
+            "properties": {
+                "id": "A115920433"
+            }
+        },
+        {
+            "source": "A530025206",
+            "target": "A104046289",
+            "properties": {
+                "id": "A034696440"
+            }
+        },
+        {
+            "source": "A259791180",
+            "target": "A210849307",
+            "properties": {
+                "id": "A571167296"
+            }
+        },
+        {
+            "source": "A259791180",
+            "target": "A046258758",
+            "properties": {
+                "id": "A035228372"
+            }
+        },
+        {
+            "source": "A561654869",
+            "target": "A037795768",
+            "properties": {
+                "id": "A884146451"
+            }
+        },
+        {
+            "source": "A561654869",
+            "target": "A956165723",
+            "properties": {
+                "id": "A075971133"
+            }
+        },
+        {
+            "source": "A803294927",
+            "target": "A675844422",
+            "properties": {
+                "id": "A125170031"
+            }
+        },
+        {
+            "source": "A965341374",
+            "target": "A285766667",
+            "properties": {
+                "id": "A443753269"
+            }
+        },
+        {
+            "source": "A965341374",
+            "target": "A705893470",
+            "properties": {
+                "id": "A520360864"
+            }
+        },
+        {
+            "source": "A965341374",
+            "target": "A174454286",
+            "properties": {
+                "id": "A961612990"
+            }
+        },
+        {
+            "source": "A586307154",
+            "target": "A185674322",
+            "properties": {
+                "id": "A710101478"
+            }
+        },
+        {
+            "source": "A586307154",
+            "target": "A851207145",
+            "properties": {
+                "id": "A955599433"
+            }
+        },
+        {
+            "source": "A122696597",
+            "target": "A571744893",
+            "properties": {
+                "id": "A619726480"
+            }
+        },
+        {
+            "source": "A477169395",
+            "target": "A396402170",
+            "properties": {
+                "id": "A914345318"
+            }
+        },
+        {
+            "source": "A477169395",
+            "target": "A921505913",
+            "properties": {
+                "id": "A585847568"
+            }
+        },
+        {
+            "source": "A791807169",
+            "target": "A832350486",
+            "properties": {
+                "id": "A212845053"
+            }
+        },
+        {
+            "source": "A878744253",
+            "target": "A564331204",
+            "properties": {
+                "id": "A731815818"
+            }
+        },
+        {
+            "source": "A878744253",
+            "target": "A419745916",
+            "properties": {
+                "id": "A715181959"
+            }
+        },
+        {
+            "source": "A878744253",
+            "target": "A284920553",
+            "properties": {
+                "id": "A665021200"
+            }
+        },
+        {
+            "source": "A127431523",
+            "target": "A976850490",
+            "properties": {
+                "id": "A807393407"
+            }
+        },
+        {
+            "source": "A127431523",
+            "target": "A617837153",
+            "properties": {
+                "id": "A983932950"
+            }
+        },
+        {
+            "source": "A504143431",
+            "target": "A616297684",
+            "properties": {
+                "id": "A732885721"
+            }
+        },
+        {
+            "source": "A504143431",
+            "target": "A929788086",
+            "properties": {
+                "id": "A177786647"
+            }
+        },
+        {
+            "source": "A504143431",
+            "target": "A521435606",
+            "properties": {
+                "id": "A887078967"
+            }
+        },
+        {
+            "source": "A657834195",
+            "target": "A059683140",
+            "properties": {
+                "id": "A094443272"
+            }
+        },
+        {
+            "source": "A657834195",
+            "target": "A631300359",
+            "properties": {
+                "id": "A190069544"
+            }
+        }
+    ],
+    "dependencyRelationships": [
+        {
+            "source": "A613798083",
+            "target": "A374725867",
+            "properties": {
+                "id": "A466715831",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A613798083",
+            "target": "A994834428",
+            "properties": {
+                "id": "A788122083",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A613798083",
+            "target": "A842915365",
+            "properties": {
+                "id": "A544623036",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A613798083",
+            "target": "A991283278",
+            "properties": {
+                "id": "A430653372",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A613798083",
+            "target": "A263872271",
+            "properties": {
+                "id": "A454505638",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A613798083",
+            "target": "A965717444",
+            "properties": {
+                "id": "A418544862",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A613798083",
+            "target": "A787449500",
+            "properties": {
+                "id": "A837128320",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A613798083",
+            "target": "A830569093",
+            "properties": {
+                "id": "A695222885",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A530025206",
+            "target": "A613798083",
+            "properties": {
+                "id": "A448543446",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A259791180",
+            "target": "A613798083",
+            "properties": {
+                "id": "A576520420",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A561654869",
+            "target": "A613798083",
+            "properties": {
+                "id": "A820819371",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A803294927",
+            "target": "A259791180",
+            "properties": {
+                "id": "A283679288",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A965341374",
+            "target": "A803294927",
+            "properties": {
+                "id": "A159842761",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A586307154",
+            "target": "A803294927",
+            "properties": {
+                "id": "A020657241",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A122696597",
+            "target": "A530025206",
+            "properties": {
+                "id": "A008697865",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A122696597",
+            "target": "A561654869",
+            "properties": {
+                "id": "A864866793",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A122696597",
+            "target": "A259791180",
+            "properties": {
+                "id": "A842235358",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A477169395",
+            "target": "A122696597",
+            "properties": {
+                "id": "A786513308",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A791807169",
+            "target": "A477169395",
+            "properties": {
+                "id": "A308519840",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A878744253",
+            "target": "A791807169",
+            "properties": {
+                "id": "A930054303",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A127431523",
+            "target": "A791807169",
+            "properties": {
+                "id": "A683163309",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A504143431",
+            "target": "A791807169",
+            "properties": {
+                "id": "A767612877",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A657834195",
+            "target": "A791807169",
+            "properties": {
+                "id": "A812578742",
+                "type": "Generated by"
+            }
+        }
+    ],
+    "studies": [
+        {
+            "id": "A578797256",
+            "source": "Goldbeter et Pourquié 2008",
+            "signalingPathway": "Wnt"
+        }
+    ]
+}

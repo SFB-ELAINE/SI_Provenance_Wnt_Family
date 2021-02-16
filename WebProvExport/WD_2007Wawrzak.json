@@ -1,0 +1,146 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A022232515",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A402522303"
+        },
+        {
+            "id": "A770982037",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A402522303"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A797466318",
+            "key": "Description",
+            "value": "“Binding parameters of Wnt3a to sFRPs”"
+        },
+        {
+            "id": "A540284255",
+            "key": "Reference",
+            "value": "Table 1"
+        },
+        {
+            "id": "A363978570",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A750399606",
+            "key": "Organism",
+            "value": "Mouse"
+        },
+        {
+            "id": "A525981714",
+            "key": "Organ/Tissue/Cell line",
+            "value": "L cells"
+        },
+        {
+            "id": "A024733326",
+            "key": "Description",
+            "value": "“Wnt3a induced accumulation of β-catenin in L cells that is blocked by sFRP1 and sFRP2 but not by Frzb or sFRP4”"
+        },
+        {
+            "id": "A670667805",
+            "key": "Reference",
+            "value": "Figure 2"
+        },
+        {
+            "id": "A252939664",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A329091542",
+            "key": "Organism",
+            "value": "Mouse"
+        },
+        {
+            "id": "A023781566",
+            "key": "Organ/Tissue/Cell line",
+            "value": "L cells"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A022232515",
+            "target": "A797466318",
+            "properties": {
+                "id": "A693616445"
+            }
+        },
+        {
+            "source": "A022232515",
+            "target": "A540284255",
+            "properties": {
+                "id": "A321400941"
+            }
+        },
+        {
+            "source": "A022232515",
+            "target": "A363978570",
+            "properties": {
+                "id": "A533253855"
+            }
+        },
+        {
+            "source": "A022232515",
+            "target": "A750399606",
+            "properties": {
+                "id": "A662486325"
+            }
+        },
+        {
+            "source": "A022232515",
+            "target": "A525981714",
+            "properties": {
+                "id": "A825546372"
+            }
+        },
+        {
+            "source": "A770982037",
+            "target": "A024733326",
+            "properties": {
+                "id": "A112994307"
+            }
+        },
+        {
+            "source": "A770982037",
+            "target": "A670667805",
+            "properties": {
+                "id": "A760550896"
+            }
+        },
+        {
+            "source": "A770982037",
+            "target": "A252939664",
+            "properties": {
+                "id": "A656452747"
+            }
+        },
+        {
+            "source": "A770982037",
+            "target": "A329091542",
+            "properties": {
+                "id": "A436244527"
+            }
+        },
+        {
+            "source": "A770982037",
+            "target": "A023781566",
+            "properties": {
+                "id": "A179566414"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A402522303",
+            "source": "Wawrzak et al. 2007",
+            "signalingPathway": "Wnt (wet-lab study)"
+        }
+    ]
+}

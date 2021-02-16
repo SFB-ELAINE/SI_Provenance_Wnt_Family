@@ -1,0 +1,146 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A750338088",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A939096967"
+        },
+        {
+            "id": "A477001086",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A939096967"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A962212514",
+            "key": "Description",
+            "value": "“Quantification of total, GSK3-, and CK1a-phosphorylated β-catenin in Wnt-stimulated RKO cells.”"
+        },
+        {
+            "id": "A596107101",
+            "key": "Reference",
+            "value": "Figure 2C"
+        },
+        {
+            "id": "A974872917",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A113623101",
+            "key": "Organism",
+            "value": "Human"
+        },
+        {
+            "id": "A702445761",
+            "key": "Organ/Tissue/Cell line",
+            "value": "Colon carcinoma RKO cells"
+        },
+        {
+            "id": "A075708690",
+            "key": "Description",
+            "value": "“size of the unphosphorylated fraction of β-catenin”"
+        },
+        {
+            "id": "A120595742",
+            "key": "Reference",
+            "value": "Figure 3A"
+        },
+        {
+            "id": "A595309132",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A230599239",
+            "key": "Organ/Tissue/Cell line",
+            "value": "Colon carcinoma RKO cells"
+        },
+        {
+            "id": "A428824767",
+            "key": "Organism",
+            "value": "Human"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A750338088",
+            "target": "A962212514",
+            "properties": {
+                "id": "A173230283"
+            }
+        },
+        {
+            "source": "A750338088",
+            "target": "A596107101",
+            "properties": {
+                "id": "A370636612"
+            }
+        },
+        {
+            "source": "A750338088",
+            "target": "A974872917",
+            "properties": {
+                "id": "A350981147"
+            }
+        },
+        {
+            "source": "A750338088",
+            "target": "A113623101",
+            "properties": {
+                "id": "A526862994"
+            }
+        },
+        {
+            "source": "A750338088",
+            "target": "A702445761",
+            "properties": {
+                "id": "A307342176"
+            }
+        },
+        {
+            "source": "A477001086",
+            "target": "A075708690",
+            "properties": {
+                "id": "A728209494"
+            }
+        },
+        {
+            "source": "A477001086",
+            "target": "A120595742",
+            "properties": {
+                "id": "A380225962"
+            }
+        },
+        {
+            "source": "A477001086",
+            "target": "A595309132",
+            "properties": {
+                "id": "A760171286"
+            }
+        },
+        {
+            "source": "A477001086",
+            "target": "A230599239",
+            "properties": {
+                "id": "A531548189"
+            }
+        },
+        {
+            "source": "A477001086",
+            "target": "A428824767",
+            "properties": {
+                "id": "A526682362"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A939096967",
+            "source": "Hernández et al. 2012",
+            "signalingPathway": "Wnt (wet-lab study)"
+        }
+    ]
+}

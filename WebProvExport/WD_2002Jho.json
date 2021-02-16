@@ -1,0 +1,81 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A532988273",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A064265186"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A957941452",
+            "key": "Description",
+            "value": "“Induction of Axin2 mRNA by Wnts in cell culture and ex vivo tissue culture systems.”"
+        },
+        {
+            "id": "A102940804",
+            "key": "Reference",
+            "value": "Figure 2"
+        },
+        {
+            "id": "A207377311",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A951454044",
+            "key": "Organism",
+            "value": "Mouse"
+        },
+        {
+            "id": "A900712244",
+            "key": "Organ/Tissue/Cell line",
+            "value": "C57MG (mammary gland cell line)"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A532988273",
+            "target": "A957941452",
+            "properties": {
+                "id": "A613074506"
+            }
+        },
+        {
+            "source": "A532988273",
+            "target": "A102940804",
+            "properties": {
+                "id": "A325882644"
+            }
+        },
+        {
+            "source": "A532988273",
+            "target": "A207377311",
+            "properties": {
+                "id": "A124041442"
+            }
+        },
+        {
+            "source": "A532988273",
+            "target": "A951454044",
+            "properties": {
+                "id": "A877796401"
+            }
+        },
+        {
+            "source": "A532988273",
+            "target": "A900712244",
+            "properties": {
+                "id": "A914222991"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A064265186",
+            "source": "Jho et al. 2002",
+            "signalingPathway": "Wnt (wet-lab study)"
+        }
+    ]
+}

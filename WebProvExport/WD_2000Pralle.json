@@ -1,0 +1,81 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A402886687",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A346251045"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A277326842",
+            "key": "Description",
+            "value": "“Summary of the local viscous drags measured for the GPI-anchored raft-markers PLAP and YFPGLGPI and the transmembrane raft protein HA” -> “the estimated radius of the rafts is r = 26 +- 13 nm”"
+        },
+        {
+            "id": "A305118172",
+            "key": "Reference",
+            "value": "Figure 7"
+        },
+        {
+            "id": "A564695596",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A306479729",
+            "key": "Organism",
+            "value": "Kangaroo rat"
+        },
+        {
+            "id": "A269321455",
+            "key": "Organ/Tissue/Cell line",
+            "value": "Epithelial kidney cells, PtK2"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A402886687",
+            "target": "A277326842",
+            "properties": {
+                "id": "A420519442"
+            }
+        },
+        {
+            "source": "A402886687",
+            "target": "A305118172",
+            "properties": {
+                "id": "A637430361"
+            }
+        },
+        {
+            "source": "A402886687",
+            "target": "A564695596",
+            "properties": {
+                "id": "A878950198"
+            }
+        },
+        {
+            "source": "A402886687",
+            "target": "A306479729",
+            "properties": {
+                "id": "A133743170"
+            }
+        },
+        {
+            "source": "A402886687",
+            "target": "A269321455",
+            "properties": {
+                "id": "A103729480"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A346251045",
+            "source": "Pralle et al. 2000",
+            "signalingPathway": "None"
+        }
+    ]
+}

@@ -1,0 +1,579 @@
+{
+    "provenanceNodes": [
+        {
+            "studyId": "A338464346",
+            "id": "A652498287",
+            "definitionId": "Building Simulation Model"
+        },
+        {
+            "studyId": "A338464346",
+            "id": "A250419435",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A338464346",
+            "id": "A956658352",
+            "definitionId": "Validating Simulation Model"
+        },
+        {
+            "studyId": "A338464346",
+            "id": "A599246535",
+            "definitionId": "Analyzing Simulation Model"
+        },
+        {
+            "studyId": "A338464346",
+            "id": "A839087413",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A338464346",
+            "id": "A169063722",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A338464346",
+            "id": "A968811847",
+            "definitionId": "Research Question"
+        },
+        {
+            "studyId": "A338464346",
+            "id": "A800550978",
+            "relatedTo": "A839087413",
+            "definitionId": "Simulation Data"
+        },
+        {
+            "studyId": "A338464346",
+            "id": "A994044405",
+            "relatedTo": "A169063722",
+            "definitionId": "Simulation Data"
+        },
+        {
+            "studyId": "A338464346",
+            "id": "A988822149",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A338464346",
+            "id": "A681790778",
+            "relatedTo": "A988822149",
+            "definitionId": "Simulation Data"
+        },
+        {
+            "studyId": "A338464346",
+            "id": "A461694733",
+            "definitionId": "Qualitative Model"
+        },
+        {
+            "studyId": "A338464346",
+            "id": "A443450497",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A338464346",
+            "id": "A338928651",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A338464346",
+            "id": "A929968517",
+            "definitionId": "Assumption"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A823362691",
+            "value": "“adjustment on the Lee model was inclusion of the negative feedback provided by β-catenin/TCF-induced synthesis of Axin2” without using the approximations of Lee et al. 2003",
+            "key": "Description"
+        },
+        {
+            "id": "A167864378",
+            "value": "Model (face) validation",
+            "key": "Description"
+        },
+        {
+            "id": "A016786307",
+            "value": "Simulation model analysis",
+            "key": "Description"
+        },
+        {
+            "id": "A494191912",
+            "value": "“Since an accurate measurement of this synthesis rate is not available, we also varied this rate constant ($k_18$) and confirmed that our qualitative conclusions are not affected by specific values of this parameter.”",
+            "key": "Description"
+        },
+        {
+            "id": "A867276954",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A931860110",
+            "value": "“effects of individual mutations on β-catenin signaling (steady state) output.” (16 simulation experiments with different parameters, observable: available β-catenin)",
+            "key": "Description"
+        },
+        {
+            "id": "A856678628",
+            "value": "Estimate the effects of various mutations in APC and other known mutations using a recent mathematical model of the Wnt pathway",
+            "key": "Description"
+        },
+        {
+            "id": "A896253855",
+            "value": "Simulation results of SE1 (validation successful)",
+            "key": "Description"
+        },
+        {
+            "id": "A003115406",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A873805896",
+            "value": "Parameter scan",
+            "key": "Category"
+        },
+        {
+            "id": "A421759894",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A234947114",
+            "value": "Perturbation",
+            "key": "Category"
+        },
+        {
+            "id": "A674584559",
+            "value": "Simulation results of SE3",
+            "key": "Description"
+        },
+        {
+            "id": "A442834962",
+            "value": "Figure 4",
+            "key": "Reference"
+        },
+        {
+            "id": "A367359762",
+            "value": "“we varied $k_13$ to mimic the activity level of Axin-independent degradation in different tissues”",
+            "key": "Description"
+        },
+        {
+            "id": "A402194539",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A599000383",
+            "value": "Parameter scan",
+            "key": "Category"
+        },
+        {
+            "id": "A354831747",
+            "value": "Simulation results of SE2",
+            "key": "Description"
+        },
+        {
+            "id": "A585916106",
+            "value": "Figure 3",
+            "key": "Reference"
+        },
+        {
+            "id": "A149714525",
+            "value": "Reaction scheme for Wnt signaling pathway (pathway model of Lee et al. 2003 with additional negative feedback on Axin)",
+            "key": "Description"
+        },
+        {
+            "id": "A030516520",
+            "value": "Figure 1",
+            "key": "Reference"
+        },
+        {
+            "id": "A205268602",
+            "value": "Wnt, Dsh, GSK3, APC, β-catenin, Axin, TCF",
+            "key": "Species"
+        },
+        {
+            "id": "A296858988",
+            "value": "Cytosol",
+            "key": "Compartments"
+        },
+        {
+            "id": "A108658950",
+            "value": "“Axin1 and Axin2 are combined into ‘Axin’ because their function is believed to be largely equivalent. The introduced Axin2 synthesis term is set to have a range of small values so that the overall Axin(1 and 2) concentration remains in the similar low range as in the original model.”",
+            "key": "Description"
+        },
+        {
+            "id": "A277889045",
+            "value": "Equivalence (392)",
+            "key": "Category"
+        },
+        {
+            "id": "A808019158",
+            "value": "“Combined the two molecular species β-catenin and β-catenin/TCF and termed them ‘available β-catenin’” because “the binding of β-catenin to TCF would take more time due to translocation into the nucleus”",
+            "key": "Description"
+        },
+        {
+            "id": "A270935554",
+            "value": "Equivalence (392)",
+            "key": "Category"
+        },
+        {
+            "id": "A967187840",
+            "value": "“We fixed $k_+$ for reactions 7, 8, 16, and 17 to be 1. Then their dissociation rates $k_-$ for the wild type are 50, 120, 30, and 1200, respectively, by the formula $K = k_-/ k_+$.”",
+            "key": "Description"
+        },
+        {
+            "id": "A245909744",
+            "value": "Kinetic constant (9)",
+            "key": "Category"
+        },
+        {
+            "id": "A480792463",
+            "key": "Description",
+            "value": "Wnt model of Lee et al. 2003 with additional negative feedback on Axin"
+        },
+        {
+            "id": "A869938107",
+            "key": "Reference",
+            "value": "Not available"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "properties": {
+                "id": "A520100730"
+            },
+            "source": "A652498287",
+            "target": "A823362691"
+        },
+        {
+            "properties": {
+                "id": "A246156311"
+            },
+            "source": "A956658352",
+            "target": "A167864378"
+        },
+        {
+            "properties": {
+                "id": "A134928899"
+            },
+            "source": "A599246535",
+            "target": "A016786307"
+        },
+        {
+            "properties": {
+                "id": "A777458091"
+            },
+            "source": "A839087413",
+            "target": "A873805896"
+        },
+        {
+            "properties": {
+                "id": "A947594389"
+            },
+            "source": "A839087413",
+            "target": "A003115406"
+        },
+        {
+            "properties": {
+                "id": "A266692851"
+            },
+            "source": "A839087413",
+            "target": "A494191912"
+        },
+        {
+            "properties": {
+                "id": "A691236603"
+            },
+            "source": "A169063722",
+            "target": "A234947114"
+        },
+        {
+            "properties": {
+                "id": "A109871321"
+            },
+            "source": "A169063722",
+            "target": "A421759894"
+        },
+        {
+            "properties": {
+                "id": "A469045963"
+            },
+            "source": "A169063722",
+            "target": "A931860110"
+        },
+        {
+            "properties": {
+                "id": "A325206340"
+            },
+            "source": "A968811847",
+            "target": "A856678628"
+        },
+        {
+            "properties": {
+                "id": "A367451290"
+            },
+            "source": "A800550978",
+            "target": "A867276954"
+        },
+        {
+            "properties": {
+                "id": "A001672209"
+            },
+            "source": "A800550978",
+            "target": "A896253855"
+        },
+        {
+            "properties": {
+                "id": "A360870540"
+            },
+            "source": "A994044405",
+            "target": "A585916106"
+        },
+        {
+            "properties": {
+                "id": "A456912389"
+            },
+            "source": "A994044405",
+            "target": "A354831747"
+        },
+        {
+            "properties": {
+                "id": "A996456265"
+            },
+            "source": "A988822149",
+            "target": "A599000383"
+        },
+        {
+            "properties": {
+                "id": "A177996089"
+            },
+            "source": "A988822149",
+            "target": "A402194539"
+        },
+        {
+            "properties": {
+                "id": "A791501111"
+            },
+            "source": "A988822149",
+            "target": "A367359762"
+        },
+        {
+            "properties": {
+                "id": "A227508755"
+            },
+            "source": "A681790778",
+            "target": "A442834962"
+        },
+        {
+            "properties": {
+                "id": "A554208125"
+            },
+            "source": "A681790778",
+            "target": "A674584559"
+        },
+        {
+            "properties": {
+                "id": "A804778553"
+            },
+            "source": "A461694733",
+            "target": "A296858988"
+        },
+        {
+            "properties": {
+                "id": "A614412472"
+            },
+            "source": "A461694733",
+            "target": "A205268602"
+        },
+        {
+            "properties": {
+                "id": "A602418067"
+            },
+            "source": "A461694733",
+            "target": "A030516520"
+        },
+        {
+            "properties": {
+                "id": "A646905031"
+            },
+            "source": "A461694733",
+            "target": "A149714525"
+        },
+        {
+            "properties": {
+                "id": "A863385074"
+            },
+            "source": "A443450497",
+            "target": "A277889045"
+        },
+        {
+            "properties": {
+                "id": "A050951493"
+            },
+            "source": "A443450497",
+            "target": "A108658950"
+        },
+        {
+            "properties": {
+                "id": "A558003127"
+            },
+            "source": "A338928651",
+            "target": "A270935554"
+        },
+        {
+            "properties": {
+                "id": "A098598611"
+            },
+            "source": "A338928651",
+            "target": "A808019158"
+        },
+        {
+            "properties": {
+                "id": "A358256572"
+            },
+            "source": "A929968517",
+            "target": "A245909744"
+        },
+        {
+            "properties": {
+                "id": "A623225899"
+            },
+            "source": "A929968517",
+            "target": "A967187840"
+        },
+        {
+            "source": "A250419435",
+            "target": "A480792463",
+            "properties": {
+                "id": "A861352697"
+            }
+        },
+        {
+            "source": "A250419435",
+            "target": "A869938107",
+            "properties": {
+                "id": "A138078759"
+            }
+        }
+    ],
+    "dependencyRelationships": [
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A565303113"
+            },
+            "source": "A652498287",
+            "target": "A929968517"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A981343744"
+            },
+            "source": "A652498287",
+            "target": "A338928651"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A317199439"
+            },
+            "source": "A652498287",
+            "target": "A443450497"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A940763136"
+            },
+            "source": "A652498287",
+            "target": "A461694733"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A736909782"
+            },
+            "source": "A652498287",
+            "target": "A968811847"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A069221561"
+            },
+            "source": "A839087413",
+            "target": "A956658352"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A212776173"
+            },
+            "source": "A169063722",
+            "target": "A599246535"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A830311824"
+            },
+            "source": "A800550978",
+            "target": "A956658352"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A311505369"
+            },
+            "source": "A994044405",
+            "target": "A599246535"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A992449837"
+            },
+            "source": "A988822149",
+            "target": "A599246535"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A369444751"
+            },
+            "source": "A681790778",
+            "target": "A599246535"
+        },
+        {
+            "source": "A250419435",
+            "target": "A652498287",
+            "properties": {
+                "id": "A387898854",
+                "type": "Generated by"
+            }
+        },
+        {
+            "source": "A956658352",
+            "target": "A250419435",
+            "properties": {
+                "id": "A229878882",
+                "type": "Used"
+            }
+        },
+        {
+            "source": "A599246535",
+            "target": "A250419435",
+            "properties": {
+                "id": "A378930831",
+                "type": "Used"
+            }
+        }
+    ],
+    "studies": [
+        {
+            "source": "Cho et al. 2006",
+            "id": "A338464346",
+            "signalingPathway": "Wnt"
+        }
+    ]
+}

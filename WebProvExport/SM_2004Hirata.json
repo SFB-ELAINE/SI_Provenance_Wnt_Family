@@ -1,0 +1,45 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A521480173",
+            "definitionId": "Simulation Model",
+            "studyId": "A786262195"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A403000552",
+            "key": "Description",
+            "value": "Direct autorepression model of the Hes7 oscillator"
+        },
+        {
+            "id": "A810711502",
+            "key": "Reference",
+            "value": "Not available"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A521480173",
+            "target": "A403000552",
+            "properties": {
+                "id": "A624409773"
+            }
+        },
+        {
+            "source": "A521480173",
+            "target": "A810711502",
+            "properties": {
+                "id": "A995011699"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A786262195",
+            "source": "Hirata et al. 2004",
+            "signalingPathway": "Notch"
+        }
+    ]
+}

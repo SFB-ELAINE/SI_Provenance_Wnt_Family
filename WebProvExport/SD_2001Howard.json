@@ -1,0 +1,45 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A617678768",
+            "definitionId": "Simulation Data",
+            "studyId": "A501866564"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A985519773",
+            "key": "Description",
+            "value": "“Shuttling rate constant between lo and ld domains”"
+        },
+        {
+            "id": "A279064295",
+            "key": "Reference",
+            "value": "Figure ?"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A617678768",
+            "target": "A985519773",
+            "properties": {
+                "id": "A308049138"
+            }
+        },
+        {
+            "source": "A617678768",
+            "target": "A279064295",
+            "properties": {
+                "id": "A188557390"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A501866564",
+            "source": "Howard et al. 2001",
+            "signalingPathway": "None"
+        }
+    ]
+}

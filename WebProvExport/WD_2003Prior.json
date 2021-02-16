@@ -1,0 +1,81 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A084662619",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A256890080"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A519100981",
+            "key": "Description",
+            "value": "“Visualizing lipid rafts using electron microscopy and spatial point pattern analysis.” -> “lipid raft marker displays cholesterol-dependent clustering in microdomains with a mean diameter of 44 nm that occupy 35% of the cell surface”"
+        },
+        {
+            "id": "A808464178",
+            "key": "Reference",
+            "value": "Figure 1"
+        },
+        {
+            "id": "A486531237",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A687622549",
+            "key": "Organism",
+            "value": "Hamster"
+        },
+        {
+            "id": "A496026559",
+            "key": "Organ/Tissue/Cell line",
+            "value": "Baby hamster kidney cells (BHK)"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A084662619",
+            "target": "A519100981",
+            "properties": {
+                "id": "A914042658"
+            }
+        },
+        {
+            "source": "A084662619",
+            "target": "A808464178",
+            "properties": {
+                "id": "A456206087"
+            }
+        },
+        {
+            "source": "A084662619",
+            "target": "A486531237",
+            "properties": {
+                "id": "A996232464"
+            }
+        },
+        {
+            "source": "A084662619",
+            "target": "A687622549",
+            "properties": {
+                "id": "A076999836"
+            }
+        },
+        {
+            "source": "A084662619",
+            "target": "A496026559",
+            "properties": {
+                "id": "A858142665"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A256890080",
+            "source": "Prior et al. 2003",
+            "signalingPathway": "None"
+        }
+    ]
+}

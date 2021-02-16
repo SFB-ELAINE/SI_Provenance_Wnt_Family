@@ -1,0 +1,45 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A124374840",
+            "definitionId": "Simulation Model",
+            "studyId": "A513152137"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A057714565",
+            "key": "Description",
+            "value": "“her1/her7 heterodimer oscillator model”"
+        },
+        {
+            "id": "A162110175",
+            "key": "Reference",
+            "value": "Not available"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A124374840",
+            "target": "A057714565",
+            "properties": {
+                "id": "A141291308"
+            }
+        },
+        {
+            "source": "A124374840",
+            "target": "A162110175",
+            "properties": {
+                "id": "A655579517"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A513152137",
+            "source": "Lewis 2003",
+            "signalingPathway": "Notch"
+        }
+    ]
+}

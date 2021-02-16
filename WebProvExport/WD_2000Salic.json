@@ -1,0 +1,211 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A371809968",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A603274897"
+        },
+        {
+            "id": "A491738820",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A603274897"
+        },
+        {
+            "id": "A569714481",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A603274897"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A646729295",
+            "key": "Description",
+            "value": "“β-catenin has a 10-fold lower affinity for nonphosphorylated compared to phosphorylated APC”, “ratio K_{17} / K_{8}=10”"
+        },
+        {
+            "id": "A899628248",
+            "key": "Reference",
+            "value": "Not available"
+        },
+        {
+            "id": "A735326694",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A073617180",
+            "key": "Organism",
+            "value": "Xenopus"
+        },
+        {
+            "id": "A311178575",
+            "key": "Organ/Tissue/Cell line",
+            "value": "Egg extract"
+        },
+        {
+            "id": "A066999903",
+            "key": "Description",
+            "value": "“experimentally determined rate of β-catenin degradation”"
+        },
+        {
+            "id": "A286107413",
+            "key": "Reference",
+            "value": "Figure 1"
+        },
+        {
+            "id": "A878127864",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A207636238",
+            "key": "Organism",
+            "value": "Xenopus"
+        },
+        {
+            "id": "A966746094",
+            "key": "Organ/Tissue/Cell line",
+            "value": "Egg extract"
+        },
+        {
+            "id": "A429918901",
+            "key": "Description",
+            "value": "“experiments to determine the rate of APC and axin dephosphorylation”"
+        },
+        {
+            "id": "A246342230",
+            "key": "Reference",
+            "value": "Figure 6h"
+        },
+        {
+            "id": "A328402179",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A910130228",
+            "key": "Organism",
+            "value": "Xenopus"
+        },
+        {
+            "id": "A342760818",
+            "key": "Organ/Tissue/Cell line",
+            "value": "Egg extract"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A371809968",
+            "target": "A646729295",
+            "properties": {
+                "id": "A987204493"
+            }
+        },
+        {
+            "source": "A371809968",
+            "target": "A899628248",
+            "properties": {
+                "id": "A414049228"
+            }
+        },
+        {
+            "source": "A371809968",
+            "target": "A735326694",
+            "properties": {
+                "id": "A694691977"
+            }
+        },
+        {
+            "source": "A371809968",
+            "target": "A073617180",
+            "properties": {
+                "id": "A962745860"
+            }
+        },
+        {
+            "source": "A371809968",
+            "target": "A311178575",
+            "properties": {
+                "id": "A705306973"
+            }
+        },
+        {
+            "source": "A491738820",
+            "target": "A066999903",
+            "properties": {
+                "id": "A240692237"
+            }
+        },
+        {
+            "source": "A491738820",
+            "target": "A286107413",
+            "properties": {
+                "id": "A096086595"
+            }
+        },
+        {
+            "source": "A491738820",
+            "target": "A878127864",
+            "properties": {
+                "id": "A508498204"
+            }
+        },
+        {
+            "source": "A491738820",
+            "target": "A207636238",
+            "properties": {
+                "id": "A191231209"
+            }
+        },
+        {
+            "source": "A491738820",
+            "target": "A966746094",
+            "properties": {
+                "id": "A439746836"
+            }
+        },
+        {
+            "source": "A569714481",
+            "target": "A429918901",
+            "properties": {
+                "id": "A812610083"
+            }
+        },
+        {
+            "source": "A569714481",
+            "target": "A246342230",
+            "properties": {
+                "id": "A984105711"
+            }
+        },
+        {
+            "source": "A569714481",
+            "target": "A328402179",
+            "properties": {
+                "id": "A130882947"
+            }
+        },
+        {
+            "source": "A569714481",
+            "target": "A910130228",
+            "properties": {
+                "id": "A036746702"
+            }
+        },
+        {
+            "source": "A569714481",
+            "target": "A342760818",
+            "properties": {
+                "id": "A820022845"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A603274897",
+            "source": "Salic et al. 2000",
+            "signalingPathway": "Wnt (wet-lab study)"
+        }
+    ]
+}

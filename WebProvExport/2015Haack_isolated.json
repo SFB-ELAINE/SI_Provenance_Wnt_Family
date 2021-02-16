@@ -1,0 +1,1721 @@
+{
+    "provenanceNodes": [
+        {
+            "studyId": "A808102784",
+            "id": "A349307883",
+            "definitionId": "Research Question"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A111630034",
+            "definitionId": "Building Simulation Model"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A277202099",
+            "definitionId": "Qualitative Model"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A352394038",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A293672433",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A248712859",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A772767382",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A849508094",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A838315559",
+            "definitionId": "Wet-lab Data"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A113140873",
+            "definitionId": "Wet-lab Data"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A700353261",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A241124416",
+            "definitionId": "Calibrating Simulation Model"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A915415790",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A751422627",
+            "relatedTo": "A915415790",
+            "definitionId": "Simulation Data"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A622540311",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A911985350",
+            "definitionId": "Validating Simulation Model"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A837517558",
+            "definitionId": "Validating Simulation Model"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A839988104",
+            "definitionId": "Building Simulation Model"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A895233331",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A500783162",
+            "relatedTo": "A895233331",
+            "definitionId": "Simulation Data"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A146298046",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A981929202",
+            "relatedTo": "A146298046",
+            "definitionId": "Simulation Data"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A936564471",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A243345450",
+            "relatedTo": "A936564471",
+            "definitionId": "Simulation Data"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A412303817",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A962794744",
+            "relatedTo": "A412303817",
+            "definitionId": "Simulation Data"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A821995487",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A435290061",
+            "relatedTo": "A821995487",
+            "definitionId": "Simulation Data"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A213193129",
+            "definitionId": "Wet-lab Data"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A481645812",
+            "definitionId": "Validating Simulation Model"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A580844943",
+            "definitionId": "Wet-lab Data"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A311903398",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A198926259",
+            "relatedTo": "A311903398",
+            "definitionId": "Simulation Data"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A540717890",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A780897581",
+            "relatedTo": "A540717890",
+            "definitionId": "Simulation Data"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A057225119",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A910335447",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A497128889",
+            "definitionId": "Calibrating Simulation Model"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A779320316",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A808102784",
+            "id": "A072298637",
+            "definitionId": "Qualitative Model"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A065558687",
+            "value": "“evaluate, whether an interplay between ROS-induced and lipid raft dependent WNT/β-catenin signaling can explain our experimental results we apply computational modeling”",
+            "key": "Description"
+        },
+        {
+            "id": "A027971774",
+            "value": "Creation of core model",
+            "key": "Description"
+        },
+        {
+            "id": "A452821208",
+            "value": "“schematic representation of our basic WNT model”",
+            "key": "Description"
+        },
+        {
+            "id": "A089702542",
+            "value": "Figure 2",
+            "key": "Reference"
+        },
+        {
+            "id": "A436883226",
+            "value": "LRP5/6, Wnt, CK1γ, Axin, β-catenin",
+            "key": "Species"
+        },
+        {
+            "id": "A471178540",
+            "value": "Cytosol, nucleus, membrane, lipid rafts",
+            "key": "Compartments"
+        },
+        {
+            "id": "A897212691",
+            "value": "“reduce the representation of the receptor-complex and the signalosome. Accordingly, the FZ-LRP6 receptor complex is only represented by LRP6”",
+            "key": "Description"
+        },
+        {
+            "id": "A800338505",
+            "value": "Equivalence (392)",
+            "key": "Category"
+        },
+        {
+            "id": "A307564759",
+            "value": "“we consider solely the interaction between CK1γ and LRP6, whereas a detailed representation of DVL mediated unspecific phosphorylation of LRP6 by GSK3β is omitted”",
+            "key": "Description"
+        },
+        {
+            "id": "A392626716",
+            "value": "Omitted process (397)",
+            "key": "Category"
+        },
+        {
+            "id": "A443750359",
+            "value": "“include lipid rafts as individual compartments within the membrane”",
+            "key": "Description"
+        },
+        {
+            "id": "A859673701",
+            "value": "Physical compartment (290)",
+            "key": "Category"
+        },
+        {
+            "id": "A888735424",
+            "value": "“we solely consider AXIN as a condensed representation of the destruction complex disregarding its remaining components, like GSK3β, APC and CK1α”",
+            "key": "Description"
+        },
+        {
+            "id": "A860838573",
+            "value": "Equivalence (392)",
+            "key": "Category"
+        },
+        {
+            "id": "A488012405",
+            "value": "“released WNT molecules can directly induce the WNT/β-catenin signaling at the cell surface in an autocrine manner”",
+            "key": "Description"
+        },
+        {
+            "id": "A347584507",
+            "value": "Unknown (0)",
+            "key": "Category"
+        },
+        {
+            "id": "A792224527",
+            "value": "Lipid rafts disruption: disruption by methyl-β cyclodextrin (MbCD) (shows no impact on lateral distribution of LRP6)",
+            "key": "Description"
+        },
+        {
+            "id": "A003729145",
+            "value": "Figure 1A & Figure S1",
+            "key": "Reference"
+        },
+        {
+            "id": "A839442158",
+            "value": "In vitro",
+            "key": "Type of experiment"
+        },
+        {
+            "id": "A827544171",
+            "value": "Human",
+            "key": "Organism"
+        },
+        {
+            "id": "A038837098",
+            "value": "Neural progenitor cells (ReNcellVM197)",
+            "key": "Organ/Tissue/Cell line"
+        },
+        {
+            "id": "A553594146",
+            "value": "“Impact of raft disruption on temporal regulation of nuclear β-catenin concentration after induction of differentiation in ReNCell”",
+            "key": "Description"
+        },
+        {
+            "id": "A783171416",
+            "value": "Figure 1 B, D",
+            "key": "Reference"
+        },
+        {
+            "id": "A917166186",
+            "value": "Human",
+            "key": "Organism"
+        },
+        {
+            "id": "A191913318",
+            "value": "In vitro",
+            "key": "Type of experiment"
+        },
+        {
+            "id": "A815098654",
+            "value": "Neural progenitor cells (ReNcellVM197)",
+            "key": "Organ/Tissue/Cell line"
+        },
+        {
+            "id": "A780072769",
+            "value": "Uncalibrated model code of QM1",
+            "key": "Description"
+        },
+        {
+            "id": "A401091588",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A718345009",
+            "value": "Parameter fitting (to own results)",
+            "key": "Description"
+        },
+        {
+            "id": "A113055034",
+            "value": "Calibration: “fitted the remaining parameter values of the combined intracellular and membrane model against in vitro measurements we derived from human neuronal progenitor cells (ReNcellVM197)” (with SESSL)",
+            "key": "Description"
+        },
+        {
+            "id": "A431612507",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A307853389",
+            "value": "Optimization",
+            "key": "Category"
+        },
+        {
+            "id": "A051143628",
+            "value": "Simulation results of SE1",
+            "key": "Description"
+        },
+        {
+            "id": "A694022230",
+            "value": "S1 Text (optimization)",
+            "key": "Reference"
+        },
+        {
+            "id": "A435321459",
+            "value": "Calibrated model code of QM1",
+            "key": "Description"
+        },
+        {
+            "id": "A557298920",
+            "value": "https://doi.org/10.1371/journal.pcbi.1004106.s008",
+            "key": "Reference"
+        },
+        {
+            "id": "A265738797",
+            "value": "Model validation (cross validation with results of Lee model)",
+            "key": "Description"
+        },
+        {
+            "id": "A579114498",
+            "value": "Comparison of wet-lab and simulated data of treated cells (with MbCD)",
+            "key": "Description"
+        },
+        {
+            "id": "A682037928",
+            "value": "Model extension with redox-dependent/β-catenin pathway",
+            "key": "Description"
+        },
+        {
+            "id": "A329775456",
+            "value": "“comparing the simulation outcome of Lee et. al. and our model”",
+            "key": "Description"
+        },
+        {
+            "id": "A557515768",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A392935915",
+            "value": "Time course analysis",
+            "key": "Category"
+        },
+        {
+            "id": "A493384080",
+            "value": "Simulation results of SE2 (validation unsuccessful)",
+            "key": "Description"
+        },
+        {
+            "id": "A497788146",
+            "value": "Figure 3A",
+            "key": "Reference"
+        },
+        {
+            "id": "A840777291",
+            "value": "“simulation results with the adapted model” (“adapt the temporal scale of our model by reducing all parameter values by a constant factor of 2/7”)",
+            "key": "Description"
+        },
+        {
+            "id": "A930941892",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A684847363",
+            "value": "Perturbation",
+            "key": "Category"
+        },
+        {
+            "id": "A358972259",
+            "value": "Simulation results of SE3 (validation successful)",
+            "key": "Description"
+        },
+        {
+            "id": "A450722989",
+            "value": "Figure 3B",
+            "key": "Reference"
+        },
+        {
+            "id": "A945213827",
+            "value": "“simulation experiments with the WNT concentrations listed in Table 2 and measured the rate of β-catenin accumulation after 2 hours of WNT stimulation”",
+            "key": "Description"
+        },
+        {
+            "id": "A991440650",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A094190007",
+            "value": "Parameter scan",
+            "key": "Category"
+        },
+        {
+            "id": "A192533238",
+            "value": "Simulation results of SE4 (validation successful)",
+            "key": "Description"
+        },
+        {
+            "id": "A048494657",
+            "value": "Figure 3C",
+            "key": "Reference"
+        },
+        {
+            "id": "A261417376",
+            "value": "“Considering the input parameter values that are required to reproduce our experimental data, it appears that only a model parametrized with an initial amount of WNT molecules (nWNT= 90) and a constant WNT synthesis rate (kWsyn= 1.9) after a certain delay of 90 minutes yields the desired simulation result”",
+            "key": "Description"
+        },
+        {
+            "id": "A102215573",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A348817327",
+            "value": "Time course analysis",
+            "key": "Category"
+        },
+        {
+            "id": "A652342420",
+            "value": "Simulation results of SE5 (validation successful)",
+            "key": "Description"
+        },
+        {
+            "id": "A623157100",
+            "value": "Figure 4A",
+            "key": "Reference"
+        },
+        {
+            "id": "A881751487",
+            "value": "“in our model the MbCD treatment translates to a complete removal of lipid rafts, which in turn prevents the raft-dependent LRP6 phosphorylation by CK1γ in response to a WNT stimulus”",
+            "key": "Description"
+        },
+        {
+            "id": "A434847347",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A823167702",
+            "value": "Perturbation",
+            "key": "Category"
+        },
+        {
+            "id": "A355016556",
+            "value": "Simulation results of SE6 (validation unsuccessful)",
+            "key": "Description"
+        },
+        {
+            "id": "A540174870",
+            "value": "Figure 4B",
+            "key": "Reference"
+        },
+        {
+            "id": "A076681006",
+            "value": "“Impact of raft disruption on temporal regulation of nuclear β-catenin concentration after induction of differentiation in ReNCell” together with Lipid Raft disruption via MbCD",
+            "key": "Description"
+        },
+        {
+            "id": "A537811435",
+            "value": "Figure 1 C, D",
+            "key": "Reference"
+        },
+        {
+            "id": "A885624885",
+            "value": "In vitro",
+            "key": "Type of experiment"
+        },
+        {
+            "id": "A930062593",
+            "value": "Human",
+            "key": "Organism"
+        },
+        {
+            "id": "A697172951",
+            "value": "Neural progenitor cells (ReNcellVM197)",
+            "key": "Organ/Tissue/Cell line"
+        },
+        {
+            "id": "A360084698",
+            "value": "Face validation: Comparison of wet-lab and simulated data",
+            "key": "Description"
+        },
+        {
+            "id": "A424960307",
+            "value": "“test whether the proposed ROS signaling mechanism is independent of the MbCD treatment, we analyzed the mitochondrial ROS (mito-ROS) production in control and raft deficient ReNcellVM197 cells during proliferation and during the early hours of differentiation”",
+            "key": "Description"
+        },
+        {
+            "id": "A531498061",
+            "value": "Figure 7",
+            "key": "Reference"
+        },
+        {
+            "id": "A400466195",
+            "value": "In vitro",
+            "key": "Type of experiment"
+        },
+        {
+            "id": "A179434841",
+            "value": "Human",
+            "key": "Organism"
+        },
+        {
+            "id": "A116909306",
+            "value": "Neural progenitor cells (ReNcellVM197)",
+            "key": "Organ/Tissue/Cell line"
+        },
+        {
+            "id": "A741179157",
+            "value": "Model calibration “simulation result of the extended WNT/ROS-β-catenin model in untreated control”",
+            "key": "Description"
+        },
+        {
+            "id": "A254181368",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A620158835",
+            "value": "Optimization",
+            "key": "Category"
+        },
+        {
+            "id": "A976268248",
+            "value": "Simulation results of SE7",
+            "key": "Description"
+        },
+        {
+            "id": "A816604934",
+            "value": "Figure 6A, C",
+            "key": "Reference"
+        },
+        {
+            "id": "A366590257",
+            "value": "“simulation result of the extended WNT/ROS-β-catenin model in raft deficient cells”",
+            "key": "Description"
+        },
+        {
+            "id": "A757536898",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A098566649",
+            "value": "Time course analysis",
+            "key": "Category"
+        },
+        {
+            "id": "A823600984",
+            "value": "Simulation results of SE8 (validation successful)",
+            "key": "Description"
+        },
+        {
+            "id": "A990569708",
+            "value": "Figure 6B, D",
+            "key": "Reference"
+        },
+        {
+            "id": "A490591175",
+            "value": "Uncalibrated model code of QM2",
+            "key": "Description"
+        },
+        {
+            "id": "A148687990",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A842364285",
+            "value": "Calibrated model code of QM2",
+            "key": "Description"
+        },
+        {
+            "id": "A387300332",
+            "value": "https://doi.org/10.1371/journal.pcbi.1004106.s009",
+            "key": "Reference"
+        },
+        {
+            "id": "A921979769",
+            "value": "Model calibration",
+            "key": "Description"
+        },
+        {
+            "id": "A358720961",
+            "value": "“hypothesis of wnt-independent signaling stabilizing and translocating β-catenin into the nucleus”",
+            "key": "Description"
+        },
+        {
+            "id": "A634458438",
+            "value": "Transport (655)",
+            "key": "Category"
+        },
+        {
+            "id": "A894571196",
+            "value": "QM1 + Redox Model",
+            "key": "Description"
+        },
+        {
+            "id": "A257555842",
+            "value": "Figure 5",
+            "key": "Reference"
+        },
+        {
+            "id": "A783581290",
+            "value": "LRP5/6, Wnt, CK1γ, Axin, β-catenin, Dvl, Nrx, ROS",
+            "key": "Species"
+        },
+        {
+            "id": "A132823452",
+            "key": "Compartments",
+            "value": "Cytosol, nucleus, membrane, lipid rafts"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "properties": {
+                "id": "A807467941"
+            },
+            "source": "A349307883",
+            "target": "A065558687"
+        },
+        {
+            "properties": {
+                "id": "A241370551"
+            },
+            "source": "A111630034",
+            "target": "A027971774"
+        },
+        {
+            "properties": {
+                "id": "A194526762"
+            },
+            "source": "A277202099",
+            "target": "A471178540"
+        },
+        {
+            "properties": {
+                "id": "A031696172"
+            },
+            "source": "A277202099",
+            "target": "A436883226"
+        },
+        {
+            "properties": {
+                "id": "A037878081"
+            },
+            "source": "A277202099",
+            "target": "A089702542"
+        },
+        {
+            "properties": {
+                "id": "A926470325"
+            },
+            "source": "A277202099",
+            "target": "A452821208"
+        },
+        {
+            "properties": {
+                "id": "A004123082"
+            },
+            "source": "A352394038",
+            "target": "A800338505"
+        },
+        {
+            "properties": {
+                "id": "A249143654"
+            },
+            "source": "A352394038",
+            "target": "A897212691"
+        },
+        {
+            "properties": {
+                "id": "A473676174"
+            },
+            "source": "A293672433",
+            "target": "A392626716"
+        },
+        {
+            "properties": {
+                "id": "A965281030"
+            },
+            "source": "A293672433",
+            "target": "A307564759"
+        },
+        {
+            "properties": {
+                "id": "A114457615"
+            },
+            "source": "A248712859",
+            "target": "A859673701"
+        },
+        {
+            "properties": {
+                "id": "A626520859"
+            },
+            "source": "A248712859",
+            "target": "A443750359"
+        },
+        {
+            "properties": {
+                "id": "A558056500"
+            },
+            "source": "A772767382",
+            "target": "A860838573"
+        },
+        {
+            "properties": {
+                "id": "A777498661"
+            },
+            "source": "A772767382",
+            "target": "A888735424"
+        },
+        {
+            "properties": {
+                "id": "A036748365"
+            },
+            "source": "A849508094",
+            "target": "A347584507"
+        },
+        {
+            "properties": {
+                "id": "A547591112"
+            },
+            "source": "A849508094",
+            "target": "A488012405"
+        },
+        {
+            "properties": {
+                "id": "A365648083"
+            },
+            "source": "A838315559",
+            "target": "A038837098"
+        },
+        {
+            "properties": {
+                "id": "A582574354"
+            },
+            "source": "A838315559",
+            "target": "A827544171"
+        },
+        {
+            "properties": {
+                "id": "A622011349"
+            },
+            "source": "A838315559",
+            "target": "A839442158"
+        },
+        {
+            "properties": {
+                "id": "A183080429"
+            },
+            "source": "A838315559",
+            "target": "A003729145"
+        },
+        {
+            "properties": {
+                "id": "A816617368"
+            },
+            "source": "A838315559",
+            "target": "A792224527"
+        },
+        {
+            "properties": {
+                "id": "A468386080"
+            },
+            "source": "A113140873",
+            "target": "A815098654"
+        },
+        {
+            "properties": {
+                "id": "A852308570"
+            },
+            "source": "A113140873",
+            "target": "A191913318"
+        },
+        {
+            "properties": {
+                "id": "A960627631"
+            },
+            "source": "A113140873",
+            "target": "A917166186"
+        },
+        {
+            "properties": {
+                "id": "A652250774"
+            },
+            "source": "A113140873",
+            "target": "A783171416"
+        },
+        {
+            "properties": {
+                "id": "A878340690"
+            },
+            "source": "A113140873",
+            "target": "A553594146"
+        },
+        {
+            "properties": {
+                "id": "A760422556"
+            },
+            "source": "A700353261",
+            "target": "A401091588"
+        },
+        {
+            "properties": {
+                "id": "A030631260"
+            },
+            "source": "A700353261",
+            "target": "A780072769"
+        },
+        {
+            "properties": {
+                "id": "A696901492"
+            },
+            "source": "A241124416",
+            "target": "A718345009"
+        },
+        {
+            "properties": {
+                "id": "A721558149"
+            },
+            "source": "A915415790",
+            "target": "A307853389"
+        },
+        {
+            "properties": {
+                "id": "A107203898"
+            },
+            "source": "A915415790",
+            "target": "A431612507"
+        },
+        {
+            "properties": {
+                "id": "A907219446"
+            },
+            "source": "A915415790",
+            "target": "A113055034"
+        },
+        {
+            "properties": {
+                "id": "A062929035"
+            },
+            "source": "A751422627",
+            "target": "A694022230"
+        },
+        {
+            "properties": {
+                "id": "A157686652"
+            },
+            "source": "A751422627",
+            "target": "A051143628"
+        },
+        {
+            "properties": {
+                "id": "A569560106"
+            },
+            "source": "A622540311",
+            "target": "A557298920"
+        },
+        {
+            "properties": {
+                "id": "A939118882"
+            },
+            "source": "A622540311",
+            "target": "A435321459"
+        },
+        {
+            "properties": {
+                "id": "A845670016"
+            },
+            "source": "A911985350",
+            "target": "A265738797"
+        },
+        {
+            "properties": {
+                "id": "A229438787"
+            },
+            "source": "A837517558",
+            "target": "A579114498"
+        },
+        {
+            "properties": {
+                "id": "A023110079"
+            },
+            "source": "A839988104",
+            "target": "A682037928"
+        },
+        {
+            "properties": {
+                "id": "A950488356"
+            },
+            "source": "A895233331",
+            "target": "A392935915"
+        },
+        {
+            "properties": {
+                "id": "A690345972"
+            },
+            "source": "A895233331",
+            "target": "A557515768"
+        },
+        {
+            "properties": {
+                "id": "A850814226"
+            },
+            "source": "A895233331",
+            "target": "A329775456"
+        },
+        {
+            "properties": {
+                "id": "A416504615"
+            },
+            "source": "A500783162",
+            "target": "A497788146"
+        },
+        {
+            "properties": {
+                "id": "A359845604"
+            },
+            "source": "A500783162",
+            "target": "A493384080"
+        },
+        {
+            "properties": {
+                "id": "A302065643"
+            },
+            "source": "A146298046",
+            "target": "A684847363"
+        },
+        {
+            "properties": {
+                "id": "A003420426"
+            },
+            "source": "A146298046",
+            "target": "A930941892"
+        },
+        {
+            "properties": {
+                "id": "A664410799"
+            },
+            "source": "A146298046",
+            "target": "A840777291"
+        },
+        {
+            "properties": {
+                "id": "A676240398"
+            },
+            "source": "A981929202",
+            "target": "A450722989"
+        },
+        {
+            "properties": {
+                "id": "A419654268"
+            },
+            "source": "A981929202",
+            "target": "A358972259"
+        },
+        {
+            "properties": {
+                "id": "A227392488"
+            },
+            "source": "A936564471",
+            "target": "A094190007"
+        },
+        {
+            "properties": {
+                "id": "A937551937"
+            },
+            "source": "A936564471",
+            "target": "A991440650"
+        },
+        {
+            "properties": {
+                "id": "A168563472"
+            },
+            "source": "A936564471",
+            "target": "A945213827"
+        },
+        {
+            "properties": {
+                "id": "A328823242"
+            },
+            "source": "A243345450",
+            "target": "A048494657"
+        },
+        {
+            "properties": {
+                "id": "A099335387"
+            },
+            "source": "A243345450",
+            "target": "A192533238"
+        },
+        {
+            "properties": {
+                "id": "A023824597"
+            },
+            "source": "A412303817",
+            "target": "A348817327"
+        },
+        {
+            "properties": {
+                "id": "A076933651"
+            },
+            "source": "A412303817",
+            "target": "A102215573"
+        },
+        {
+            "properties": {
+                "id": "A748715256"
+            },
+            "source": "A412303817",
+            "target": "A261417376"
+        },
+        {
+            "properties": {
+                "id": "A986321377"
+            },
+            "source": "A962794744",
+            "target": "A623157100"
+        },
+        {
+            "properties": {
+                "id": "A362790676"
+            },
+            "source": "A962794744",
+            "target": "A652342420"
+        },
+        {
+            "properties": {
+                "id": "A425754521"
+            },
+            "source": "A821995487",
+            "target": "A823167702"
+        },
+        {
+            "properties": {
+                "id": "A314688901"
+            },
+            "source": "A821995487",
+            "target": "A434847347"
+        },
+        {
+            "properties": {
+                "id": "A888796004"
+            },
+            "source": "A821995487",
+            "target": "A881751487"
+        },
+        {
+            "properties": {
+                "id": "A199784099"
+            },
+            "source": "A435290061",
+            "target": "A540174870"
+        },
+        {
+            "properties": {
+                "id": "A155393725"
+            },
+            "source": "A435290061",
+            "target": "A355016556"
+        },
+        {
+            "properties": {
+                "id": "A055214748"
+            },
+            "source": "A213193129",
+            "target": "A697172951"
+        },
+        {
+            "properties": {
+                "id": "A107537913"
+            },
+            "source": "A213193129",
+            "target": "A930062593"
+        },
+        {
+            "properties": {
+                "id": "A824978351"
+            },
+            "source": "A213193129",
+            "target": "A885624885"
+        },
+        {
+            "properties": {
+                "id": "A732634981"
+            },
+            "source": "A213193129",
+            "target": "A537811435"
+        },
+        {
+            "properties": {
+                "id": "A522714403"
+            },
+            "source": "A213193129",
+            "target": "A076681006"
+        },
+        {
+            "properties": {
+                "id": "A978240556"
+            },
+            "source": "A481645812",
+            "target": "A360084698"
+        },
+        {
+            "properties": {
+                "id": "A075098841"
+            },
+            "source": "A580844943",
+            "target": "A116909306"
+        },
+        {
+            "properties": {
+                "id": "A720424704"
+            },
+            "source": "A580844943",
+            "target": "A179434841"
+        },
+        {
+            "properties": {
+                "id": "A519109363"
+            },
+            "source": "A580844943",
+            "target": "A400466195"
+        },
+        {
+            "properties": {
+                "id": "A946150533"
+            },
+            "source": "A580844943",
+            "target": "A531498061"
+        },
+        {
+            "properties": {
+                "id": "A385745660"
+            },
+            "source": "A580844943",
+            "target": "A424960307"
+        },
+        {
+            "properties": {
+                "id": "A443666431"
+            },
+            "source": "A311903398",
+            "target": "A620158835"
+        },
+        {
+            "properties": {
+                "id": "A737607887"
+            },
+            "source": "A311903398",
+            "target": "A254181368"
+        },
+        {
+            "properties": {
+                "id": "A651195392"
+            },
+            "source": "A311903398",
+            "target": "A741179157"
+        },
+        {
+            "properties": {
+                "id": "A674291550"
+            },
+            "source": "A198926259",
+            "target": "A816604934"
+        },
+        {
+            "properties": {
+                "id": "A435146847"
+            },
+            "source": "A198926259",
+            "target": "A976268248"
+        },
+        {
+            "properties": {
+                "id": "A470414502"
+            },
+            "source": "A540717890",
+            "target": "A098566649"
+        },
+        {
+            "properties": {
+                "id": "A189161009"
+            },
+            "source": "A540717890",
+            "target": "A757536898"
+        },
+        {
+            "properties": {
+                "id": "A160079766"
+            },
+            "source": "A540717890",
+            "target": "A366590257"
+        },
+        {
+            "properties": {
+                "id": "A617028601"
+            },
+            "source": "A780897581",
+            "target": "A990569708"
+        },
+        {
+            "properties": {
+                "id": "A121102244"
+            },
+            "source": "A780897581",
+            "target": "A823600984"
+        },
+        {
+            "properties": {
+                "id": "A833057435"
+            },
+            "source": "A057225119",
+            "target": "A148687990"
+        },
+        {
+            "properties": {
+                "id": "A339147689"
+            },
+            "source": "A057225119",
+            "target": "A490591175"
+        },
+        {
+            "properties": {
+                "id": "A119615950"
+            },
+            "source": "A910335447",
+            "target": "A387300332"
+        },
+        {
+            "properties": {
+                "id": "A017177194"
+            },
+            "source": "A910335447",
+            "target": "A842364285"
+        },
+        {
+            "properties": {
+                "id": "A295808654"
+            },
+            "source": "A497128889",
+            "target": "A921979769"
+        },
+        {
+            "properties": {
+                "id": "A738194311"
+            },
+            "source": "A779320316",
+            "target": "A634458438"
+        },
+        {
+            "properties": {
+                "id": "A344594410"
+            },
+            "source": "A779320316",
+            "target": "A358720961"
+        },
+        {
+            "properties": {
+                "id": "A461783241"
+            },
+            "source": "A072298637",
+            "target": "A783581290"
+        },
+        {
+            "properties": {
+                "id": "A044585191"
+            },
+            "source": "A072298637",
+            "target": "A257555842"
+        },
+        {
+            "properties": {
+                "id": "A749808249"
+            },
+            "source": "A072298637",
+            "target": "A894571196"
+        },
+        {
+            "source": "A072298637",
+            "target": "A132823452",
+            "properties": {
+                "id": "A227704609"
+            }
+        }
+    ],
+    "dependencyRelationships": [
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A468806435"
+            },
+            "source": "A111630034",
+            "target": "A113140873"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A034904544"
+            },
+            "source": "A111630034",
+            "target": "A838315559"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A503313458"
+            },
+            "source": "A111630034",
+            "target": "A849508094"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A603496937"
+            },
+            "source": "A111630034",
+            "target": "A772767382"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A076432266"
+            },
+            "source": "A111630034",
+            "target": "A248712859"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A474187115"
+            },
+            "source": "A111630034",
+            "target": "A293672433"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A220136312"
+            },
+            "source": "A111630034",
+            "target": "A352394038"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A789729936"
+            },
+            "source": "A111630034",
+            "target": "A277202099"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A451782150"
+            },
+            "source": "A111630034",
+            "target": "A349307883"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A740084911"
+            },
+            "source": "A700353261",
+            "target": "A111630034"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A252775812"
+            },
+            "source": "A241124416",
+            "target": "A113140873"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A681223854"
+            },
+            "source": "A241124416",
+            "target": "A700353261"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A073337988"
+            },
+            "source": "A915415790",
+            "target": "A241124416"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A802594946"
+            },
+            "source": "A751422627",
+            "target": "A241124416"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A955568870"
+            },
+            "source": "A622540311",
+            "target": "A241124416"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A919783491"
+            },
+            "source": "A911985350",
+            "target": "A622540311"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A518383571"
+            },
+            "source": "A837517558",
+            "target": "A213193129"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A129660616"
+            },
+            "source": "A837517558",
+            "target": "A622540311"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A483227153"
+            },
+            "source": "A839988104",
+            "target": "A435290061"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A376735962"
+            },
+            "source": "A839988104",
+            "target": "A072298637"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A422977058"
+            },
+            "source": "A839988104",
+            "target": "A779320316"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A450490580"
+            },
+            "source": "A839988104",
+            "target": "A622540311"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A360558824"
+            },
+            "source": "A895233331",
+            "target": "A911985350"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A548514335"
+            },
+            "source": "A500783162",
+            "target": "A911985350"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A432072899"
+            },
+            "source": "A146298046",
+            "target": "A911985350"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A739386529"
+            },
+            "source": "A981929202",
+            "target": "A911985350"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A048566102"
+            },
+            "source": "A936564471",
+            "target": "A911985350"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A016697446"
+            },
+            "source": "A243345450",
+            "target": "A911985350"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A807048977"
+            },
+            "source": "A412303817",
+            "target": "A837517558"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A725447688"
+            },
+            "source": "A962794744",
+            "target": "A837517558"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A638786726"
+            },
+            "source": "A821995487",
+            "target": "A837517558"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A915054802"
+            },
+            "source": "A435290061",
+            "target": "A837517558"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A302445921"
+            },
+            "source": "A481645812",
+            "target": "A910335447"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A618408690"
+            },
+            "source": "A481645812",
+            "target": "A580844943"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A990882078"
+            },
+            "source": "A481645812",
+            "target": "A213193129"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A830497114"
+            },
+            "source": "A311903398",
+            "target": "A497128889"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A074690472"
+            },
+            "source": "A198926259",
+            "target": "A497128889"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A385676078"
+            },
+            "source": "A540717890",
+            "target": "A481645812"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A615429277"
+            },
+            "source": "A780897581",
+            "target": "A481645812"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A527474019"
+            },
+            "source": "A057225119",
+            "target": "A839988104"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A002781737"
+            },
+            "source": "A910335447",
+            "target": "A497128889"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A745571260"
+            },
+            "source": "A497128889",
+            "target": "A113140873"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A854575712"
+            },
+            "source": "A497128889",
+            "target": "A057225119"
+        }
+    ],
+    "studies": [
+        {
+            "source": "Haack et al. 2015",
+            "id": "A808102784",
+            "signalingPathway": "Wnt"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A852464783",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A343035910"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A442081370",
+            "key": "Description",
+            "value": "“TCF reduces the rate of β-catenin degradation”"
+        },
+        {
+            "id": "A814405560",
+            "key": "Reference",
+            "value": "Figure 1"
+        },
+        {
+            "id": "A800447049",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A635992263",
+            "key": "Organism",
+            "value": "Xenopus"
+        },
+        {
+            "id": "A835725607",
+            "key": "Organ/Tissue/Cell line",
+            "value": "Egg extract"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A852464783",
+            "target": "A442081370",
+            "properties": {
+                "id": "A423531103"
+            }
+        },
+        {
+            "source": "A852464783",
+            "target": "A814405560",
+            "properties": {
+                "id": "A619954153"
+            }
+        },
+        {
+            "source": "A852464783",
+            "target": "A800447049",
+            "properties": {
+                "id": "A817471272"
+            }
+        },
+        {
+            "source": "A852464783",
+            "target": "A635992263",
+            "properties": {
+                "id": "A760434559"
+            }
+        },
+        {
+            "source": "A852464783",
+            "target": "A835725607",
+            "properties": {
+                "id": "A646119380"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A343035910",
+            "source": "Lee et al. 2001",
+            "signalingPathway": "Wnt (wet-lab study)"
+        }
+    ]
+}

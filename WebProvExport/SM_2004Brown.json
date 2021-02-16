@@ -1,0 +1,45 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A829001357",
+            "definitionId": "Simulation Model",
+            "studyId": "A406900208"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A770281378",
+            "key": "Description",
+            "value": "“Model of Erk1/2 activation by EGF and NGF in PC12 cells”"
+        },
+        {
+            "id": "A047727502",
+            "key": "Reference",
+            "value": "https://www.ebi.ac.uk/biomodels/BIOMD0000000033"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A829001357",
+            "target": "A770281378",
+            "properties": {
+                "id": "A351348338"
+            }
+        },
+        {
+            "source": "A829001357",
+            "target": "A047727502",
+            "properties": {
+                "id": "A089292896"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A406900208",
+            "source": "Brown et al. 2004",
+            "signalingPathway": "ERK"
+        }
+    ]
+}

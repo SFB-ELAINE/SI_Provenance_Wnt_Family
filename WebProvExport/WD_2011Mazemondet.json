@@ -1,0 +1,146 @@
+{
+    "provenanceNodes": [
+        {
+            "id": "A985594084",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A221143264"
+        },
+        {
+            "id": "A109723487",
+            "definitionId": "Wet-lab Data",
+            "studyId": "A221143264"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A600727031",
+            "key": "Description",
+            "value": "“β-catenin accumulation in cytosol and nuclear fractions during ReNcell VM cell differentiation”"
+        },
+        {
+            "id": "A207803876",
+            "key": "Reference",
+            "value": "Figure 8"
+        },
+        {
+            "id": "A683492126",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A703338556",
+            "key": "Organ/Tissue/Cell line",
+            "value": "Neural progenitor cells (ReNcell VM cell line)"
+        },
+        {
+            "id": "A023250606",
+            "key": "Organism",
+            "value": "Human"
+        },
+        {
+            "id": "A807558621",
+            "key": "Description",
+            "value": "“Cell cycle analyses by FACS assay and expression of cyclin D1 during differentiation of ReNcell VM cells.”"
+        },
+        {
+            "id": "A707331857",
+            "key": "Reference",
+            "value": "Figure 2"
+        },
+        {
+            "id": "A644752755",
+            "key": "Type of experiment",
+            "value": "In vitro"
+        },
+        {
+            "id": "A800693197",
+            "key": "Organism",
+            "value": "Human"
+        },
+        {
+            "id": "A547578556",
+            "key": "Organ/Tissue/Cell line",
+            "value": "Neural progenitor cells (ReNcell VM cell line)"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "source": "A985594084",
+            "target": "A600727031",
+            "properties": {
+                "id": "A173168065"
+            }
+        },
+        {
+            "source": "A985594084",
+            "target": "A207803876",
+            "properties": {
+                "id": "A052729879"
+            }
+        },
+        {
+            "source": "A985594084",
+            "target": "A683492126",
+            "properties": {
+                "id": "A923123063"
+            }
+        },
+        {
+            "source": "A985594084",
+            "target": "A703338556",
+            "properties": {
+                "id": "A293512975"
+            }
+        },
+        {
+            "source": "A985594084",
+            "target": "A023250606",
+            "properties": {
+                "id": "A409217706"
+            }
+        },
+        {
+            "source": "A109723487",
+            "target": "A807558621",
+            "properties": {
+                "id": "A740895007"
+            }
+        },
+        {
+            "source": "A109723487",
+            "target": "A707331857",
+            "properties": {
+                "id": "A171754887"
+            }
+        },
+        {
+            "source": "A109723487",
+            "target": "A644752755",
+            "properties": {
+                "id": "A321929232"
+            }
+        },
+        {
+            "source": "A109723487",
+            "target": "A800693197",
+            "properties": {
+                "id": "A716095999"
+            }
+        },
+        {
+            "source": "A109723487",
+            "target": "A547578556",
+            "properties": {
+                "id": "A201797906"
+            }
+        }
+    ],
+    "dependencyRelationships": [],
+    "studies": [
+        {
+            "id": "A221143264",
+            "source": "Mazemondet et al. 2011",
+            "signalingPathway": "Wnt (we-lab study)"
+        }
+    ]
+}

@@ -1,0 +1,919 @@
+{
+    "provenanceNodes": [
+        {
+            "studyId": "A489654881",
+            "id": "A239391932",
+            "definitionId": "Research Question"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A822373778",
+            "definitionId": "Building Simulation Model"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A915745051",
+            "definitionId": "Qualitative Model"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A398597364",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A651878838",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A463764801",
+            "definitionId": "Assumption"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A707652423",
+            "definitionId": "Simulation Model"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A175635186",
+            "definitionId": "Analyzing Simulation Model"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A525971742",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A193570430",
+            "definitionId": "Simulation Data",
+            "relatedTo": "A525971742"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A711120762",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A460633161",
+            "definitionId": "Simulation Data",
+            "relatedTo": "A711120762"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A686525212",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A520949188",
+            "definitionId": "Simulation Data",
+            "relatedTo": "A686525212"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A881485526",
+            "definitionId": "Analyzing Simulation Model"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A170879661",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A225679698",
+            "definitionId": "Simulation Data",
+            "relatedTo": "A170879661"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A853476849",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A272665197",
+            "definitionId": "Simulation Data",
+            "relatedTo": "A853476849"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A061621566",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A733034157",
+            "definitionId": "Simulation Data",
+            "relatedTo": "A061621566"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A758704406",
+            "definitionId": "Simulation Experiment"
+        },
+        {
+            "studyId": "A489654881",
+            "id": "A600371846",
+            "definitionId": "Simulation Data",
+            "relatedTo": "A758704406"
+        }
+    ],
+    "informationFields": [
+        {
+            "id": "A395216224",
+            "value": "“ask whether intrinsic oscillations of the pathway can occur, i.e. during vertebrate somitogenesis”",
+            "key": "Description"
+        },
+        {
+            "id": "A739838572",
+            "value": "Extension of Lee model",
+            "key": "Description"
+        },
+        {
+            "id": "A637342059",
+            "value": "“used the Lee-Heinrich model as a basis to integrate two feedback loops using time-delay differential equations”",
+            "key": "Description"
+        },
+        {
+            "id": "A647134456",
+            "value": "Figure 1",
+            "key": "Reference"
+        },
+        {
+            "id": "A418076350",
+            "value": "Dishevelled (Dsh), GSK3β, APC, Axin, β-catenin, TCF, Axin2, Inhibitor 2",
+            "key": "Species"
+        },
+        {
+            "id": "A150066607",
+            "value": "Cytosol",
+            "key": "Compartments"
+        },
+        {
+            "id": "A739145162",
+            "value": "“assume a cooperative activation of the Wnt target genes and use a sigmoidal Hill function for the activation of transcription”",
+            "key": "Description"
+        },
+        {
+            "id": "A615089814",
+            "value": "Hill-type rate law (192)",
+            "key": "Category"
+        },
+        {
+            "id": "A629348417",
+            "value": "“As there are no quantitative data concerning the naked or DKK1 concentrations available, we used as an approximation the same synthesis and turnover rates specified for Axin2” (regarding inhibitor 2)",
+            "key": "Description"
+        },
+        {
+            "id": "A268822648",
+            "value": "Kinetic constant (9)",
+            "key": "Category"
+        },
+        {
+            "id": "A157847938",
+            "value": "“As the DKK1 protein is smaller than Axin2, has a smaller primary transcript length, and also has fewer introns, the time delays related to transcription and processing were assumed to be shorter” (regarding inhibitor 2)",
+            "key": "Description"
+        },
+        {
+            "id": "A886305828",
+            "value": "Transcription (183)",
+            "key": "Category"
+        },
+        {
+            "id": "A697493980",
+            "value": "Extended Lee model “extended the Lee-Heinrich model by two feedback loops caused by direct targets of the pathway”",
+            "key": "Description"
+        },
+        {
+            "id": "A717268485",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A401595837",
+            "value": "Extended analysis of Lee model",
+            "key": "Description"
+        },
+        {
+            "id": "A274474279",
+            "value": "“Extended single parameter perturbation analysis of the Lee-Heinrich model”",
+            "key": "Description"
+        },
+        {
+            "id": "A590958947",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A966465406",
+            "value": "Sensitivity analysis",
+            "key": "Category"
+        },
+        {
+            "id": "A854722709",
+            "value": "Simulation results of SE1",
+            "key": "Description"
+        },
+        {
+            "id": "A246431399",
+            "value": "Figure 2 + Figure 4 and Table 1 of Suppl. Material",
+            "key": "Reference"
+        },
+        {
+            "id": "A880106712",
+            "value": "“Multiple-parameter perturbations vs. single parameter perturbation” of Lee-Heinrich model",
+            "key": "Description"
+        },
+        {
+            "id": "A526527976",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A181673762",
+            "value": "Sensitivity analysis",
+            "key": "Category"
+        },
+        {
+            "id": "A935765648",
+            "value": "Simulation results of SE2",
+            "key": "Description"
+        },
+        {
+            "id": "A397324834",
+            "value": "Table 2 of Suppl. Material",
+            "key": "Reference"
+        },
+        {
+            "id": "A298318922",
+            "value": "“using different initial reference states” to see whether “varying initial conditions yield different models”",
+            "key": "Description"
+        },
+        {
+            "id": "A717994782",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A880295247",
+            "value": "Sensitivity analysis",
+            "key": "Category"
+        },
+        {
+            "id": "A923409357",
+            "value": "Simulation results of SE3",
+            "key": "Description"
+        },
+        {
+            "id": "A939783816",
+            "value": "Table 4 of Suppl. Material",
+            "key": "Reference"
+        },
+        {
+            "id": "A045712708",
+            "value": "Analysis of extended Lee model",
+            "key": "Description"
+        },
+        {
+            "id": "A488610076",
+            "value": "“varied the delays, the Hill coefficient, and parameters concerning the Axin2 increase and Axin/Axin2 fraction”",
+            "key": "Description"
+        },
+        {
+            "id": "A413733856",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A123258010",
+            "value": "Time course analysis",
+            "key": "Category"
+        },
+        {
+            "id": "A992423432",
+            "value": "Simulation results of SE4",
+            "key": "Description"
+        },
+        {
+            "id": "A941645079",
+            "value": "“we increased β-catenin and Axin flux through the original Lee-Heinrich model by\nfactors ranging from 2 to 20”",
+            "key": "Description"
+        },
+        {
+            "id": "A095464139",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A231924759",
+            "value": "Parameter scan",
+            "key": "Category"
+        },
+        {
+            "id": "A040834773",
+            "value": "Simulation results of SE5",
+            "key": "Description"
+        },
+        {
+            "id": "A248577124",
+            "value": "“With these modifications we observed an oscillating system with cycle durations (T) between 159 and 424 min”",
+            "key": "Reference"
+        },
+        {
+            "id": "A921228723",
+            "value": "“Stable oscillation of the feedback-augmented Lee-Heinrich model” (for various Hill coefficients are shown)",
+            "key": "Description"
+        },
+        {
+            "id": "A655572385",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A206774082",
+            "value": "Parameter scan",
+            "key": "Category"
+        },
+        {
+            "id": "A069264375",
+            "value": "Simulation results of SE6",
+            "key": "Description"
+        },
+        {
+            "id": "A269454427",
+            "value": "Figure 3",
+            "key": "Reference"
+        },
+        {
+            "id": "A734037532",
+            "value": "“For the settings resulting in the fastest oscillation, we investigated the influence of the second feedback loops by modifying the impact of DKK1”",
+            "key": "Description"
+        },
+        {
+            "id": "A465691707",
+            "value": "Not available",
+            "key": "Reference"
+        },
+        {
+            "id": "A707841320",
+            "value": "Time course analysis",
+            "key": "Category"
+        },
+        {
+            "id": "A018011365",
+            "value": "Simulation results of SE7",
+            "key": "Description"
+        },
+        {
+            "id": "A192855761",
+            "value": "“For a moderate Hill coefficient of 5 the second feedback loop is necessary for stable oscillation. With increased cooperativity (m = 5, 10) the system can oscillate solely with the Axin2 feedback loop.”",
+            "key": "Reference"
+        },
+        {
+            "id": "A405596948",
+            "key": "Reference",
+            "value": "“Due to the integrated negative feedback the β-catenin steady state is approximately 38% lower than in the Lee-Heinrich model”"
+        }
+    ],
+    "informationRelationships": [
+        {
+            "properties": {
+                "id": "A214223169"
+            },
+            "source": "A239391932",
+            "target": "A395216224"
+        },
+        {
+            "properties": {
+                "id": "A149049536"
+            },
+            "source": "A822373778",
+            "target": "A739838572"
+        },
+        {
+            "properties": {
+                "id": "A710852785"
+            },
+            "source": "A915745051",
+            "target": "A150066607"
+        },
+        {
+            "properties": {
+                "id": "A979410121"
+            },
+            "source": "A915745051",
+            "target": "A637342059"
+        },
+        {
+            "properties": {
+                "id": "A782391383"
+            },
+            "source": "A915745051",
+            "target": "A647134456"
+        },
+        {
+            "properties": {
+                "id": "A201215357"
+            },
+            "source": "A915745051",
+            "target": "A418076350"
+        },
+        {
+            "properties": {
+                "id": "A609559216"
+            },
+            "source": "A398597364",
+            "target": "A615089814"
+        },
+        {
+            "properties": {
+                "id": "A367022382"
+            },
+            "source": "A398597364",
+            "target": "A739145162"
+        },
+        {
+            "properties": {
+                "id": "A191922365"
+            },
+            "source": "A651878838",
+            "target": "A629348417"
+        },
+        {
+            "properties": {
+                "id": "A567101007"
+            },
+            "source": "A651878838",
+            "target": "A268822648"
+        },
+        {
+            "properties": {
+                "id": "A576739515"
+            },
+            "source": "A463764801",
+            "target": "A157847938"
+        },
+        {
+            "properties": {
+                "id": "A348332027"
+            },
+            "source": "A463764801",
+            "target": "A886305828"
+        },
+        {
+            "properties": {
+                "id": "A828731188"
+            },
+            "source": "A707652423",
+            "target": "A697493980"
+        },
+        {
+            "properties": {
+                "id": "A941277215"
+            },
+            "source": "A707652423",
+            "target": "A717268485"
+        },
+        {
+            "properties": {
+                "id": "A989136906"
+            },
+            "source": "A175635186",
+            "target": "A401595837"
+        },
+        {
+            "properties": {
+                "id": "A341646767"
+            },
+            "source": "A525971742",
+            "target": "A590958947"
+        },
+        {
+            "properties": {
+                "id": "A444045630"
+            },
+            "source": "A525971742",
+            "target": "A966465406"
+        },
+        {
+            "properties": {
+                "id": "A002066880"
+            },
+            "source": "A525971742",
+            "target": "A274474279"
+        },
+        {
+            "properties": {
+                "id": "A051613149"
+            },
+            "source": "A193570430",
+            "target": "A246431399"
+        },
+        {
+            "properties": {
+                "id": "A343132058"
+            },
+            "source": "A193570430",
+            "target": "A854722709"
+        },
+        {
+            "properties": {
+                "id": "A852669074"
+            },
+            "source": "A711120762",
+            "target": "A181673762"
+        },
+        {
+            "properties": {
+                "id": "A497614676"
+            },
+            "source": "A711120762",
+            "target": "A526527976"
+        },
+        {
+            "properties": {
+                "id": "A615417163"
+            },
+            "source": "A711120762",
+            "target": "A880106712"
+        },
+        {
+            "properties": {
+                "id": "A559876740"
+            },
+            "source": "A460633161",
+            "target": "A935765648"
+        },
+        {
+            "properties": {
+                "id": "A329424328"
+            },
+            "source": "A460633161",
+            "target": "A397324834"
+        },
+        {
+            "properties": {
+                "id": "A513157416"
+            },
+            "source": "A686525212",
+            "target": "A298318922"
+        },
+        {
+            "properties": {
+                "id": "A776280183"
+            },
+            "source": "A686525212",
+            "target": "A880295247"
+        },
+        {
+            "properties": {
+                "id": "A621363816"
+            },
+            "source": "A686525212",
+            "target": "A717994782"
+        },
+        {
+            "properties": {
+                "id": "A938325062"
+            },
+            "source": "A520949188",
+            "target": "A939783816"
+        },
+        {
+            "properties": {
+                "id": "A991719605"
+            },
+            "source": "A520949188",
+            "target": "A923409357"
+        },
+        {
+            "properties": {
+                "id": "A457854840"
+            },
+            "source": "A881485526",
+            "target": "A045712708"
+        },
+        {
+            "properties": {
+                "id": "A829571463"
+            },
+            "source": "A170879661",
+            "target": "A488610076"
+        },
+        {
+            "properties": {
+                "id": "A889026670"
+            },
+            "source": "A170879661",
+            "target": "A413733856"
+        },
+        {
+            "properties": {
+                "id": "A494496646"
+            },
+            "source": "A170879661",
+            "target": "A123258010"
+        },
+        {
+            "properties": {
+                "id": "A232777897"
+            },
+            "source": "A225679698",
+            "target": "A992423432"
+        },
+        {
+            "properties": {
+                "id": "A305368287"
+            },
+            "source": "A853476849",
+            "target": "A231924759"
+        },
+        {
+            "properties": {
+                "id": "A605804541"
+            },
+            "source": "A853476849",
+            "target": "A095464139"
+        },
+        {
+            "properties": {
+                "id": "A486237050"
+            },
+            "source": "A853476849",
+            "target": "A941645079"
+        },
+        {
+            "properties": {
+                "id": "A318930875"
+            },
+            "source": "A272665197",
+            "target": "A040834773"
+        },
+        {
+            "properties": {
+                "id": "A346636412"
+            },
+            "source": "A272665197",
+            "target": "A248577124"
+        },
+        {
+            "properties": {
+                "id": "A911078855"
+            },
+            "source": "A061621566",
+            "target": "A921228723"
+        },
+        {
+            "properties": {
+                "id": "A004608537"
+            },
+            "source": "A061621566",
+            "target": "A206774082"
+        },
+        {
+            "properties": {
+                "id": "A622691055"
+            },
+            "source": "A061621566",
+            "target": "A655572385"
+        },
+        {
+            "properties": {
+                "id": "A842388693"
+            },
+            "source": "A733034157",
+            "target": "A269454427"
+        },
+        {
+            "properties": {
+                "id": "A023386416"
+            },
+            "source": "A733034157",
+            "target": "A069264375"
+        },
+        {
+            "properties": {
+                "id": "A533879403"
+            },
+            "source": "A758704406",
+            "target": "A465691707"
+        },
+        {
+            "properties": {
+                "id": "A082289698"
+            },
+            "source": "A758704406",
+            "target": "A707841320"
+        },
+        {
+            "properties": {
+                "id": "A817063705"
+            },
+            "source": "A758704406",
+            "target": "A734037532"
+        },
+        {
+            "properties": {
+                "id": "A772504495"
+            },
+            "source": "A600371846",
+            "target": "A192855761"
+        },
+        {
+            "properties": {
+                "id": "A490240701"
+            },
+            "source": "A600371846",
+            "target": "A018011365"
+        },
+        {
+            "source": "A225679698",
+            "target": "A405596948",
+            "properties": {
+                "id": "A553366837"
+            }
+        }
+    ],
+    "dependencyRelationships": [
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A194906479"
+            },
+            "source": "A822373778",
+            "target": "A239391932"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A493879016"
+            },
+            "source": "A822373778",
+            "target": "A915745051"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A122049822"
+            },
+            "source": "A822373778",
+            "target": "A463764801"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A116651795"
+            },
+            "source": "A822373778",
+            "target": "A651878838"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A948069488"
+            },
+            "source": "A822373778",
+            "target": "A398597364"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A445423190"
+            },
+            "source": "A707652423",
+            "target": "A822373778"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A914224215"
+            },
+            "source": "A525971742",
+            "target": "A175635186"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A282333541"
+            },
+            "source": "A193570430",
+            "target": "A175635186"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A689428054"
+            },
+            "source": "A711120762",
+            "target": "A175635186"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A214995330"
+            },
+            "source": "A460633161",
+            "target": "A175635186"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A644790642"
+            },
+            "source": "A686525212",
+            "target": "A175635186"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A091098911"
+            },
+            "source": "A520949188",
+            "target": "A175635186"
+        },
+        {
+            "properties": {
+                "type": "Used",
+                "id": "A421100585"
+            },
+            "source": "A881485526",
+            "target": "A707652423"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A237837674"
+            },
+            "source": "A170879661",
+            "target": "A881485526"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A625049691"
+            },
+            "source": "A225679698",
+            "target": "A881485526"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A439249673"
+            },
+            "source": "A853476849",
+            "target": "A881485526"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A364255327"
+            },
+            "source": "A272665197",
+            "target": "A881485526"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A075399656"
+            },
+            "source": "A061621566",
+            "target": "A881485526"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A888863047"
+            },
+            "source": "A733034157",
+            "target": "A881485526"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A735342005"
+            },
+            "source": "A758704406",
+            "target": "A881485526"
+        },
+        {
+            "properties": {
+                "type": "Generated by",
+                "id": "A703552359"
+            },
+            "source": "A600371846",
+            "target": "A881485526"
+        }
+    ],
+    "studies": [
+        {
+            "source": "Wawra et al. 2007",
+            "id": "A489654881",
+            "signalingPathway": "Wnt"
+        }
+    ]
+}
