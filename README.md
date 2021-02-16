@@ -1,7 +1,7 @@
 # SI_Provenance_Wnt_Family
 Supporting information for publication by Budde et al. (2021)
 
-![WebProv screenshot with all studies](https://github.com/adam-p/markdown-here/raw/master/src/common/WebProvExport/screenshots/AllStudies.png "Provenance graph in WebProv of all studies")
+![WebProv screenshot with all studies](https://github.com/SFB-ELAINE/SI_Provenance_Wnt_Family/blob/main/WebProvExport/screenshots/AllStudies.png "Provenance graph in WebProv of all studies")
 
 
 ## Replicate the figures
