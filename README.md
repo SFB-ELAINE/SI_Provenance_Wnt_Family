@@ -1,5 +1,10 @@
-# SI_Provenance_Wnt_Family
-Supporting information for publication by Budde et al. (2021)
+# SI to "Relating simulation studies by provenance—Developing a family of Wnt signaling models"
+
+This repository contains additional supporting information for our publication by Budde et al. (2021).
+
+The main repository of our web-based provenance tool _WebProv_ is found [here](https://github.com/SFB-ELAINE/WebProv).
+Watch this [Youtube video](https://youtu.be/UzwHtptkYOU) to get a first impression of _WebProv_.
+
 
 ![WebProv screenshot with all studies](https://github.com/SFB-ELAINE/SI_Provenance_Wnt_Family/blob/main/WebProvExport/screenshots/AllStudies.png "Provenance graph in WebProv of all studies")
 
